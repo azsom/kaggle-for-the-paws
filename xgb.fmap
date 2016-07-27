@@ -1,0 +1,68 @@
+0	MultipleIntakes	q
+1	HasName	q
+2	NameOccurrance	q
+3	NameLen	q
+4	year	q
+5	month	q
+6	hour	q
+7	wday	q
+8	qtr	q
+9	day	q
+10	AgeDays	q
+11	IsMix	q
+12	Cross	q
+13	Miniature	q
+14	Hairtype	q
+15	IsShihTzu	q
+16	IsAggressive	q
+17	Intact	q
+18	Sex	q
+19	shelter_dist_0	q
+20	shelter_dist_1	q
+21	shelter_dist_2	q
+22	shelter_dist_3	q
+23	shelter_dist_4	q
+24	shelter_dist_5	q
+25	shelter_dist_6	q
+26	shelter_dist_7	q
+27	shelter_dist_8	q
+28	shelter_dist_9	q
+29	shelter_dist_10	q
+30	Cat	q
+31	Dog	q
+32	Dark	q
+33	Dark/Light	q
+34	Dark/Medium	q
+35	Light	q
+36	Light/Dark	q
+37	Light/Medium	q
+38	Medium	q
+39	Medium/Dark	q
+40	Medium/Light	q
+41	Tricolor	q
+42	Domestic	q
+43	Domestic Longhair	q
+44	Domestic Medium Hair	q
+45	Domestic Shorthair	q
+46	Exotic	q
+47	Herding	q
+48	Hound	q
+49	Non-Sporting	q
+50	Pit Bull	q
+51	Siamese	q
+52	Sporting	q
+53	Terrier	q
+54	Toy	q
+55	Working	q
+56	Euthanasia Request	q
+57	Owner Surrender	q
+58	Public Assist	q
+59	Stray	q
+60	Aged	q
+61	Feral	q
+62	Injured	q
+63	Normal	q
+64	Nursing	q
+65	Other	q
+66	Pregnant	q
+67	Sick	q

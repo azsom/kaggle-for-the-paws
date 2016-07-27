@@ -1,0 +1,1463 @@
+AnimalID,Name,DateTime_x,Intake Type,Intake Condition,AnimalType,Sex upon Intake,Age upon Intake,Breed,Color,Breed group,Color group
+A664702,Harley,10/8/13 15:30,Stray,Normal,Dog,Neutered Male,4 years,Pit Bull Mix,White,Pit Bull,Light
+A665162,Diamond,10/14/13 14:48,Stray,Normal,Dog,Intact Female,4 months,Pit Bull Mix,Blue/White,Pit Bull,Medium/Light
+A665594,Fifi,10/19/13 18:11,Stray,Normal,Dog,Intact Female,1 year,Chihuahua Shorthair/Dachshund,Tricolor,Toy,Tricolor
+A665619,Chico,10/20/13 12:30,Stray,Normal,Dog,Intact Male,11 months,Chihuahua Shorthair Mix,Black/Tan,Toy,Dark/Medium
+A665743,Max,10/22/13 11:23,Stray,Normal,Dog,Intact Male,9 months,Jack Russell Terrier/Chihuahua Shorthair,White/Brown,Terrier,Light/Medium
+A652564,G-Unit,10/22/13 14:23,Stray,Normal,Dog,Neutered Male,4 years,Pit Bull Mix,Brown Brindle,Pit Bull,Medium
+A651275,Rex,10/28/13 13:10,Owner Surrender,Normal,Dog,Neutered Male,10 months,German Shepherd Mix,Black/Tan,Herding,Dark/Medium
+A666644,*Gable,11/5/13 11:16,Stray,Normal,Dog,Intact Male,1 month,Labrador Retriever Mix,Black/White,Sporting,Dark/Light
+A666817,Mittens,11/7/13 15:20,Public Assist,Normal,Cat,Intact Female,1 month,Domestic Shorthair,Black,Domestic Shorthair,Dark
+A667109,Hank,11/12/13 18:11,Stray,Normal,Dog,Intact Male,2 years,American Bulldog/Labrador Retriever,Black/White,Non-Sporting,Dark/Light
+A667201,Olive,11/14/13 13:09,Owner Surrender,Normal,Cat,Intact Female,5 months,Domestic Shorthair Mix,Orange Tabby,Domestic Shorthair,Medium
+A667203,Scooter,11/14/13 13:09,Owner Surrender,Normal,Cat,Intact Male,5 months,Domestic Shorthair Mix,Orange Tabby,Domestic Shorthair,Medium
+A666866,Mary,11/20/13 11:33,Owner Surrender,Normal,Cat,Spayed Female,7 years,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A663422,Sparky Rex,11/22/13 11:02,Stray,Normal,Dog,Neutered Male,2 years,German Shepherd/Rottweiler,Chocolate/Tan,Herding,Dark/Medium
+A667878,Sasha,11/24/13 13:06,Owner Surrender,Normal,Dog,Intact Female,9 months,American Bulldog Mix,Black/White,Non-Sporting,Dark/Light
+A667920,*Blue Bell,11/25/13 11:33,Stray,Normal,Dog,Spayed Female,4 years,American Staffordshire Terrier Mix,Blue/White,Terrier,Medium/Light
+A668177,Dash,11/29/13 11:13,Stray,Normal,Cat,Intact Male,2 weeks,Domestic Shorthair Mix,Blue Tabby,Domestic Shorthair,Medium/Light
+A668506,Jake,12/5/13 11:06,Public Assist,Normal,Dog,Intact Male,5 years,German Shepherd,Brown/Black,Herding,Medium/Dark
+A668598,Sprinkles,12/5/13 16:20,Stray,Normal,Dog,Neutered Male,1 month,Rottweiler Mix,Black/White,Working,Dark/Light
+A668636,Barley,12/6/13 13:29,Owner Surrender,Injured,Dog,Intact Male,1 year,German Shepherd/Collie Smooth,Tan/White,Herding,Medium/Light
+A587871,Baxter,12/7/13 14:37,Public Assist,Normal,Dog,Neutered Male,8 years,Rat Terrier,Tricolor,Terrier,Tricolor
+A668816,Bella,12/10/13 10:19,Stray,Normal,Dog,Spayed Female,2 years,Miniature Pinscher Mix,Black/Brown,Toy,Dark/Medium
+A607523,Chance,12/13/13 15:20,Stray,Normal,Dog,Neutered Male,6 years,American Bulldog Mix,White/Brown Brindle,Non-Sporting,Light/Medium
+A607523,Chance,12/13/13 15:20,Stray,Normal,Dog,Neutered Male,6 years,American Bulldog Mix,White/Brown Brindle,Non-Sporting,Light/Medium
+A669080,Spartacus,12/14/13 12:02,Stray,Normal,Dog,Intact Male,2 years,Pit Bull Mix,Blue/White,Pit Bull,Medium/Light
+A669103,Canelo,12/14/13 14:15,Stray,Normal,Dog,Intact Male,5 months,Collie Rough Mix,Brown/White,Herding,Medium/Light
+A630889,Baylah,12/15/13 17:06,Stray,Nursing,Dog,Spayed Female,2 years,Siberian Husky Mix,White,Working,Light
+A670262,*Pippa,1/4/14 14:04,Stray,Injured,Dog,Spayed Female,7 years,Pointer Mix,White/Tan,Sporting,Light/Medium
+A670262,*Pippa,1/4/14 14:04,Stray,Injured,Dog,Spayed Female,7 years,Pointer Mix,White/Tan,Sporting,Light/Medium
+A669896,Dash,12/29/13 15:33,Stray,Normal,Dog,Intact Male,2 months,Labrador Retriever Mix,White/Tan,Sporting,Light/Medium
+A669896,Dash,12/29/13 15:33,Stray,Normal,Dog,Intact Male,2 months,Labrador Retriever Mix,White/Tan,Sporting,Light/Medium
+A607523,Chance,12/31/13 11:21,Stray,Normal,Dog,Neutered Male,6 years,American Bulldog Mix,White/Brown Brindle,Non-Sporting,Light/Medium
+A607523,Chance,12/31/13 11:21,Stray,Normal,Dog,Neutered Male,6 years,American Bulldog Mix,White/Brown Brindle,Non-Sporting,Light/Medium
+A449968,Bella,1/4/14 14:30,Owner Surrender,Normal,Cat,Spayed Female,8 years,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A670382,*Roscoe,1/7/14 12:29,Stray,Normal,Dog,Intact Male,2 years,Pit Bull Mix,Brown Brindle/White,Pit Bull,Medium/Light
+A670612,Sheila,1/11/14 11:01,Stray,Normal,Dog,Intact Female,2 years,Beagle,Brown/White,Hound,Medium/Light
+A670832,Lucky,1/14/14 18:38,Stray,Normal,Dog,Intact Male,1 year,Labrador Retriever Mix,Brown/White,Sporting,Medium/Light
+A668079,King,1/15/14 11:26,Public Assist,Normal,Dog,Neutered Male,6 years,Pit Bull/Labrador Retriever,Black/White,Pit Bull,Dark/Light
+A671013,Godiva,1/17/14 12:11,Owner Surrender,Normal,Cat,Spayed Female,13 years,Domestic Medium Hair Mix,Brown Tabby/White,Domestic Medium Hair,Medium/Light
+A671013,Godiva,1/19/14 11:31,Owner Surrender,Normal,Cat,Spayed Female,13 years,Domestic Medium Hair Mix,Brown Tabby/White,Domestic Medium Hair,Medium/Light
+A671558,Sage,1/27/14 11:28,Stray,Normal,Dog,Intact Female,1 year,Pit Bull Mix,Tan/White,Pit Bull,Medium/Light
+A672175,,2/5/14 12:05,Owner Surrender,Normal,Dog,Intact Female,2 months,German Shepherd/Border Collie,Black/White,Herding,Dark/Light
+A672216,Rambo,2/5/14 18:49,Stray,Normal,Dog,Intact Male,1 year,Doberman Pinsch,Black/Tan,Working,Dark/Medium
+A671805,Dosha,2/6/14 15:18,Public Assist,Nursing,Dog,Intact Female,1 year,Pit Bull Mix,Black/White,Pit Bull,Dark/Light
+A672451,Delgado,2/10/14 13:25,Stray,Normal,Dog,Neutered Male,4 years,German Shepherd Mix,Black/Tan,Herding,Dark/Medium
+A672485,,2/11/14 12:24,Stray,Normal,Dog,Intact Male,1 year,Rat Terrier Mix,White/Tan,Terrier,Light/Medium
+A672506,*Roman,2/11/14 16:32,Stray,Normal,Dog,Intact Male,3 years,Pit Bull Mix,Black,Pit Bull,Dark
+A672679,Mellie,2/14/14 18:51,Stray,Normal,Dog,Spayed Female,3 years,Labrador Retriever/Boxer,Black/White,Sporting,Dark/Light
+A673530,Cece,2/27/14 12:14,Public Assist,Normal,Dog,Intact Female,3 years,Chihuahua Shorthair Mix,Tan/Tan,Toy,Medium
+A635818,Oscar,2/28/14 16:41,Stray,Normal,Dog,Neutered Male,4 years,Dachshund Mix,Black/Tan,Hound,Dark/Medium
+A662826,Tyson,3/3/14 12:26,Stray,Normal,Dog,Neutered Male,2 years,Siberian Husky Mix,Black/White,Working,Dark/Light
+A671805,Dosha,3/10/14 15:12,Stray,Normal,Dog,Intact Female,1 year,Pit Bull Mix,Black/White,Pit Bull,Dark/Light
+A674746,Toby,3/17/14 18:41,Stray,Normal,Dog,Intact Male,1 year,Chihuahua Shorthair Mix,White,Toy,Light
+A675236,Shilo,3/25/14 13:11,Stray,Normal,Dog,Intact Female,4 months,Chihuahua Shorthair/Basenji,Black/White,Toy,Dark/Light
+A663819,Zeus,3/26/14 10:30,Stray,Normal,Dog,Neutered Male,1 year,Pit Bull Mix,Black/White,Pit Bull,Dark/Light
+A675639,Boomer,3/30/14 16:18,Stray,Normal,Dog,Intact Male,2 years,Pit Bull Mix,Tan/White,Pit Bull,Medium/Light
+A676035,Sasha,4/3/14 16:05,Stray,Normal,Dog,Spayed Female,2 years,Pit Bull Mix,Brown/White,Pit Bull,Medium/Light
+A663422,Sparky Rex,4/5/14 18:46,Stray,Normal,Dog,Neutered Male,2 years,German Shepherd/Rottweiler,Chocolate/Tan,Herding,Dark/Medium
+A676235,Lily,4/6/14 16:23,Stray,Normal,Dog,Intact Female,2 months,Boxer Mix,Black/White,Working,Dark/Light
+A607663,Chopper,4/9/14 16:08,Stray,Normal,Dog,Neutered Male,5 years,Catahoula/Plott Hound,Brown Brindle/White,Hound,Medium/Light
+A675639,Boomer,4/11/14 18:30,Stray,Normal,Dog,Neutered Male,2 years,Pit Bull Mix,Tan/White,Pit Bull,Medium/Light
+A676557,Moo,4/12/14 16:13,Public Assist,Normal,Dog,Intact Female,1 year,Rat Terrier Mix,White/Black,Terrier,Light/Dark
+A676571,Apple,4/14/14 18:30,Public Assist,Normal,Dog,Intact Female,2 years,German Shepherd Mix,Black/Brown,Herding,Dark/Medium
+A676815,Star,4/15/14 14:51,Stray,Normal,Dog,Intact Female,7 years,Pit Bull Mix,Blue/White,Pit Bull,Medium/Light
+A487253,Artemis,4/16/14 14:03,Owner Surrender,Normal,Cat,Neutered Male,6 years,Domestic Longhair Mix,Black Smoke,Domestic Longhair,Dark
+A677189,Luna,4/21/14 10:42,Stray,Normal,Dog,Intact Female,2 months,Labrador Retriever Mix,Tan/White,Sporting,Medium/Light
+A671323,Riley,4/23/14 16:28,Owner Surrender,Injured,Dog,Spayed Female,8 months,Chihuahua Shorthair Mix,Brown/White,Toy,Medium/Light
+A677523,Candy,4/26/14 7:42,Stray,Normal,Dog,Intact Female,1 year,Chihuahua Shorthair Mix,Brown,Toy,Medium
+A677626,Peppa,4/27/14 11:23,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A678131,Peewee,5/4/14 13:03,Public Assist,Normal,Dog,Intact Male,1 year,Jack Russell Terrier/Australian Cattle Dog,White/Black,Terrier,Light/Dark
+A678174,Scarlet Rose,5/5/14 12:05,Public Assist,Normal,Dog,Intact Female,2 years,Pit Bull Mix,Red/White,Pit Bull,Medium/Light
+A678529,Big Boy,5/9/14 17:42,Stray,Normal,Dog,Intact Male,1 month,Pit Bull Mix,Black/White,Pit Bull,Dark/Light
+A346599,Assassin,5/12/14 15:04,Stray,Normal,Cat,Intact Male,10 years,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A593537,Chacha,5/13/14 12:08,Stray,Normal,Dog,Spayed Female,5 years,Labrador Retriever Mix,Black,Sporting,Dark
+A593537,Chacha,5/13/14 12:08,Stray,Normal,Dog,Spayed Female,5 years,Labrador Retriever Mix,Black,Sporting,Dark
+A615725,Cookie,5/15/14 0:25,Stray,Normal,Dog,Spayed Female,3 years,Pit Bull Mix,White,Pit Bull,Light
+A679096,Copper,5/16/14 13:01,Stray,Normal,Dog,Neutered Male,7 years,Miniature Pinscher Mix,Red,Toy,Medium
+A676035,Sasha,5/16/14 16:12,Stray,Normal,Dog,Spayed Female,2 years,Pit Bull Mix,Brown/White,Pit Bull,Medium/Light
+A679174,Cali,5/17/14 11:10,Owner Surrender,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Tortie/White,Domestic Shorthair,Tricolor
+A673128,Star,5/23/14 16:03,Stray,Normal,Dog,Intact Female,1 year,German Shepherd Mix,Black/Tan,Herding,Dark/Medium
+A679647,Lady,5/24/14 13:21,Stray,Normal,Dog,Spayed Female,8 years,Rottweiler Mix,Tan/Black,Working,Medium/Dark
+A679536,Lucky,5/24/14 14:27,Public Assist,Normal,Dog,Intact Male,1 year,Chihuahua Shorthair Mix,Brown,Toy,Medium
+A679685,*Molly,5/24/14 17:09,Stray,Normal,Dog,Intact Female,4 years,Pit Bull Mix,Black Brindle/White,Pit Bull,Tricolor
+A610265,Jack,5/28/14 16:48,Stray,Normal,Dog,Neutered Male,4 years,American Bulldog,Blue/White,Non-Sporting,Medium/Light
+A601482,Pepe,6/2/14 18:59,Stray,Normal,Dog,Neutered Male,6 years,Chow Chow/Australian Cattle Dog,Tan/Black,Non-Sporting,Medium/Dark
+A680865,Rex,6/9/14 12:09,Stray,Normal,Dog,Intact Male,1 month,Siberian Husky Mix,White/Red,Working,Light/Medium
+A666644,*Gable,6/9/14 13:37,Stray,Normal,Dog,Neutered Male,8 months,Labrador Retriever Mix,Black/White,Sporting,Dark/Light
+A681145,*Farley,6/13/14 11:01,Stray,Normal,Dog,Neutered Male,10 years,Catahoula Mix,Blue Merle,Herding,Light/Medium
+A681179,Tyson,6/13/14 16:01,Stray,Normal,Dog,Intact Male,1 month,Catahoula Mix,Fawn/White,Herding,Light
+A679174,Cali,6/15/14 15:32,Owner Surrender,Normal,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Tortie/White,Domestic Shorthair,Tricolor
+A572003,Brodie,6/16/14 12:53,Stray,Normal,Dog,Neutered Male,4 years,Harrier/Catahoula,White/Brown,Hound,Light/Medium
+A572003,Brodie,6/16/14 12:53,Stray,Normal,Dog,Neutered Male,4 years,Harrier/Catahoula,White/Brown,Hound,Light/Medium
+A572004,Raven,6/16/14 12:53,Stray,Injured,Dog,Spayed Female,4 years,Labrador Retriever/Border Collie,Tricolor,Sporting,Tricolor
+A572004,Raven,6/16/14 12:53,Stray,Injured,Dog,Spayed Female,4 years,Labrador Retriever/Border Collie,Tricolor,Sporting,Tricolor
+A678529,Big Boy,6/19/14 16:53,Stray,Normal,Dog,Neutered Male,3 months,Pit Bull Mix,Black/White,Pit Bull,Dark/Light
+A681769,Pixie,6/20/14 11:06,Stray,Normal,Dog,Intact Female,6 years,American Pit Bull Terrier Mix,White,Terrier,Light
+A628628,Nala,6/20/14 14:28,Euthanasia Request,Normal,Cat,Spayed Female,2 years,Domestic Shorthair Mix,Calico,Domestic Shorthair,Tricolor
+A681890,Marilyn,6/21/14 14:12,Public Assist,Normal,Dog,Intact Female,5 years,West Highland,White,Terrier,Light
+A682111,Daisy,6/24/14 13:05,Stray,Normal,Dog,Spayed Female,7 years,Border Collie Mix,Cream/White,Herding,Light
+A682177,*Kuma,6/25/14 11:53,Stray,Normal,Cat,Spayed Female,3 years,Domestic Shorthair Mix,Brown Tabby/White,Domestic Shorthair,Medium/Light
+A668183,Nacha,6/27/14 11:34,Public Assist,Normal,Dog,Spayed Female,10 months,Dachshund Mix,Black/White,Hound,Dark/Light
+A668183,Nacha,6/27/14 11:34,Public Assist,Normal,Dog,Spayed Female,10 months,Dachshund Mix,Black/White,Hound,Dark/Light
+A668184,Pecas,6/27/14 11:34,Public Assist,Normal,Dog,Spayed Female,2 years,Cardigan Welsh Corgi Mix,Black/White,Herding,Dark/Light
+A668184,Pecas,6/27/14 11:34,Public Assist,Normal,Dog,Spayed Female,2 years,Cardigan Welsh Corgi Mix,Black/White,Herding,Dark/Light
+A682590,Rex,6/30/14 11:06,Stray,Normal,Dog,Intact Male,4 months,Mastiff/Boxer,Tan/White,Working,Medium/Light
+A682590,Rex,6/30/14 11:06,Stray,Normal,Dog,Intact Male,4 months,Mastiff/Boxer,Tan/White,Working,Medium/Light
+A453083,Liz,7/5/14 7:13,Stray,Normal,Dog,Spayed Female,8 years,Border Collie Mix,Chocolate/White,Herding,Dark/Light
+A683137,Batman,7/7/14 16:39,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A537127,Fozzy Bear,7/8/14 17:35,Stray,Normal,Dog,Neutered Male,7 years,Miniature Poodle Mix,Chocolate,Non-Sporting,Dark
+A537127,Fozzy Bear,7/8/14 17:35,Stray,Normal,Dog,Neutered Male,7 years,Miniature Poodle Mix,Chocolate,Non-Sporting,Dark
+A683469,Dakota,7/10/14 15:14,Stray,Normal,Dog,Neutered Male,2 years,Border Collie Mix,Brown Brindle/White,Herding,Medium/Light
+A683817,Marvin,7/15/14 16:11,Stray,Normal,Cat,Neutered Male,4 months,Domestic Shorthair Mix,Orange Tabby/White,Domestic Shorthair,Medium/Light
+A683819,Rin,7/15/14 16:11,Stray,Normal,Cat,Neutered Male,4 months,Domestic Shorthair Mix,Brown Tabby/White,Domestic Shorthair,Medium/Light
+A676571,Apple,7/16/14 11:57,Public Assist,Normal,Dog,Intact Female,2 years,German Shepherd Mix,Black/Brown,Herding,Dark/Medium
+A684152,*Mick,7/20/14 11:00,Stray,Normal,Cat,Intact Female,1 month,Domestic Medium Hair Mix,Brown Tabby,Domestic Medium Hair,Medium/Light
+A672216,Rambo,7/20/14 18:28,Stray,Normal,Dog,Intact Male,1 year,Doberman Pinsch,Black/Tan,Working,Dark/Medium
+A684412,Ben,7/23/14 12:00,Owner Surrender,Normal,Dog,Neutered Male,2 years,Catahoula Mix,Blue Merle,Herding,Light/Medium
+A684412,Ben,7/23/14 12:00,Owner Surrender,Normal,Dog,Neutered Male,2 years,Catahoula Mix,Blue Merle,Herding,Light/Medium
+A684460,Elsa,7/24/14 9:08,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A684538,Tui,7/25/14 11:15,Stray,Normal,Cat,Neutered Male,1 month,Domestic Shorthair Mix,Black Smoke,Domestic Shorthair,Dark
+A684596,Silvy,7/25/14 18:10,Stray,Normal,Cat,Spayed Female,1 year,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A684601,*Rocket,7/25/14 23:54,Stray,Normal,Dog,Intact Male,3 years,Pit Bull Mix,Brown,Pit Bull,Medium
+A684811,Scout,7/29/14 7:24,Stray,Normal,Dog,Neutered Male,7 years,Labrador Retriever/Border Collie,Black/White,Sporting,Dark/Light
+A685064,Ana,8/1/14 15:57,Owner Surrender,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Brown Tabby/White,Domestic Shorthair,Medium/Light
+A684404,Winston,8/7/14 14:03,Owner Surrender,Normal,Dog,Neutered Male,4 years,Border Collie Mix,Tricolor,Herding,Tricolor
+A685558,Dylan,8/9/14 11:56,Stray,Normal,Cat,Neutered Male,4 years,Domestic Shorthair Mix,Blue Tabby,Domestic Shorthair,Medium/Light
+A590144,Pebbles,8/12/14 12:49,Stray,Normal,Dog,Spayed Female,8 years,Rottweiler,Black/Brown,Working,Dark/Medium
+A593537,Chacha,8/12/14 15:40,Stray,Normal,Dog,Spayed Female,5 years,Labrador Retriever Mix,Black,Sporting,Dark
+A593537,Chacha,8/12/14 15:40,Stray,Normal,Dog,Spayed Female,5 years,Labrador Retriever Mix,Black,Sporting,Dark
+A613676,Hudson Hawk,8/15/14 13:34,Stray,Normal,Dog,Neutered Male,5 years,Beagle,White/Tan,Hound,Light/Medium
+A686019,Smokie,8/15/14 23:24,Stray,Normal,Dog,Intact Male,1 year,Australian Cattle Dog/Border Collie,Blue/Black,Herding,Medium/Dark
+A686152,Sandy,8/17/14 13:00,Owner Surrender,Normal,Dog,Spayed Female,8 years,Pit Bull Mix,Fawn/White,Pit Bull,Light
+A686392,Nellie,8/21/14 12:20,Owner Surrender,Normal,Dog,Spayed Female,6 years,Chihuahua Shorthair Mix,Chocolate/White,Toy,Dark/Light
+A668079,King,8/26/14 16:26,Public Assist,Normal,Dog,Neutered Male,7 years,Pit Bull/Labrador Retriever,Black/White,Pit Bull,Dark/Light
+A686843,Stella,8/27/14 15:40,Stray,Normal,Dog,Intact Female,1 year,Pit Bull Mix,Brown/White,Pit Bull,Medium/Light
+A656069,Roko,8/28/14 12:11,Public Assist,Normal,Dog,Neutered Male,1 year,Great Dane/Labrador Retriever,Black/White,Working,Dark/Light
+A686984,*Cody,8/29/14 18:31,Stray,Normal,Dog,Intact Male,1 year,Pit Bull Mix,White/Tan,Pit Bull,Light/Medium
+A687003,Chico,8/30/14 11:33,Stray,Normal,Dog,Intact Male,4 years,Chihuahua Longhair Mix,Cream,Toy,Light
+A687043,Austin,8/30/14 13:57,Stray,Injured,Dog,Intact Male,5 months,Pit Bull Mix,White/Tan,Pit Bull,Light/Medium
+A687043,Austin,9/5/14 10:42,Public Assist,Normal,Dog,Neutered Male,6 months,Pit Bull Mix,White/Tan,Pit Bull,Light/Medium
+A687506,Zoey,9/5/14 15:06,Public Assist,Normal,Dog,Intact Female,1 year,Chihuahua Shorthair Mix,White,Toy,Light
+A687505,Lucky,9/5/14 15:06,Public Assist,Normal,Dog,Intact Female,2 years,Chihuahua Shorthair Mix,Black,Toy,Dark
+A687564,Willie B,9/6/14 14:21,Stray,Normal,Dog,Neutered Male,5 years,Catahoula Mix,Tricolor,Herding,Tricolor
+A687741,Kazy,9/9/14 14:20,Stray,Normal,Dog,Intact Female,1 month,Plott Hound/Blue Lacy,Brown Brindle,Hound,Medium
+A593537,Chacha,9/11/14 16:56,Stray,Normal,Dog,Spayed Female,5 years,Labrador Retriever Mix,Black,Sporting,Dark
+A593537,Chacha,9/11/14 16:56,Stray,Normal,Dog,Spayed Female,5 years,Labrador Retriever Mix,Black,Sporting,Dark
+A687987,Koda,9/12/14 16:30,Stray,Normal,Dog,Spayed Female,4 years,Pit Bull Mix,Brown/White,Pit Bull,Medium/Light
+A651305,Roxie,9/19/14 11:30,Stray,Normal,Dog,Spayed Female,3 years,Rottweiler,Black/Tan,Working,Dark/Medium
+A688584,Preston,9/21/14 10:37,Stray,Normal,Dog,Intact Male,6 months,Great Pyrenees Mix,White/Cream,Working,Light
+A677626,Peppa,9/24/14 11:19,Owner Surrender,Normal,Cat,Spayed Female,6 months,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A676235,Lily,9/24/14 13:38,Stray,Normal,Dog,Spayed Female,8 months,Boxer Mix,Black/White,Working,Dark/Light
+A688837,*Sterling,9/24/14 18:46,Stray,Normal,Dog,Neutered Male,1 year,Chihuahua Shorthair Mix,Tan/White,Toy,Medium/Light
+A681769,Pixie,9/26/14 15:19,Owner Surrender,Normal,Dog,Spayed Female,6 years,American Pit Bull Terrier Mix,White,Terrier,Light
+A615725,Cookie,9/27/14 11:58,Stray,Normal,Dog,Spayed Female,3 years,Pit Bull Mix,White,Pit Bull,Light
+A613676,Hudson Hawk,9/27/14 16:15,Stray,Normal,Dog,Neutered Male,5 years,Beagle,White/Tan,Hound,Light/Medium
+A623561,Marley,9/29/14 18:49,Public Assist,Normal,Dog,Neutered Male,5 years,Pit Bull Mix,Blue/White,Pit Bull,Medium/Light
+A689187,Lovely,9/30/14 12:53,Owner Surrender,Normal,Dog,Spayed Female,12 years,German Shepherd Mix,Brown,Herding,Medium
+A689241,Lady,10/1/14 10:05,Stray,Normal,Dog,Spayed Female,2 years,Labrador Retriever/Basset Hound,Black/White,Hound,Dark/Light
+A689515,*Judy,10/5/14 12:15,Stray,Normal,Dog,Intact Female,2 years,Pit Bull Mix,Tan/White,Pit Bull,Medium/Light
+A689762,Sandi,10/9/14 12:06,Stray,Normal,Dog,Spayed Female,4 years,Labrador Retriever Mix,Tan,Sporting,Medium
+A689763,Levi,10/9/14 12:06,Stray,Normal,Dog,Neutered Male,4 years,Labrador Retriever Mix,Tan,Sporting,Medium
+A689761,Skye,10/9/14 12:14,Stray,Normal,Dog,Intact Female,5 years,Labrador Retriever Mix,Buff,Sporting,Light
+A689819,*Mars,10/10/14 0:38,Stray,Normal,Dog,Intact Male,2 years,Rottweiler,Black/Brown,Working,Dark/Medium
+A690107,Bentley,10/14/14 16:10,Public Assist,Normal,Dog,Intact Male,2 years,Miniature Schnauzer Mix,Gray/Black,Terrier,Medium/Dark
+A690318,Trudy,10/18/14 12:18,Owner Surrender,Normal,Cat,Spayed Female,9 years,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A690214,Honey,10/21/14 14:00,Owner Surrender,Normal,Dog,Intact Female,2 years,Australian Cattle Dog Mix,Tan,Herding,Medium
+A679096,Copper,10/23/14 15:36,Owner Surrender,Normal,Dog,Neutered Male,7 years,Miniature Pinscher Mix,Red,Toy,Medium
+A690766,*Tazi,10/25/14 14:57,Stray,Normal,Dog,Intact Male,2 years,Saluki,Tan,Hound,Medium
+A690822,*Geronimo,10/26/14 16:15,Owner Surrender,Normal,Cat,Neutered Male,5 years,Domestic Medium Hair Mix,Orange Tabby/White,Domestic Medium Hair,Medium/Light
+A691126,Max,10/30/14 13:36,Public Assist,Normal,Dog,Neutered Male,9 years,Maltese/Miniature Poodle,White,Toy,Light
+A691261,*Kai,11/1/14 17:58,Stray,Normal,Dog,Intact Male,6 months,Pit Bull Mix,Brown Brindle,Pit Bull,Medium
+A691453,Toby,11/4/14 17:50,Stray,Normal,Dog,Neutered Male,5 years,Pit Bull Mix,Black Brindle/White,Pit Bull,Tricolor
+A691478,Dusty,11/5/14 11:40,Owner Surrender,Normal,Cat,Spayed Female,7 years,Chartreux Mix,Blue,Exotic,Medium
+A691541,Chickla,11/6/14 11:04,Public Assist,Normal,Dog,Intact Female,1 year,Pit Bull Mix,Fawn,Pit Bull,Light
+A691732,Copper,11/8/14 14:50,Stray,Normal,Dog,Intact Male,2 years,Catahoula Mix,Tan/White,Herding,Medium/Light
+A691736,Sylvester,11/8/14 15:19,Stray,Normal,Cat,Neutered Male,1 year,Domestic Longhair Mix,Brown Tabby,Domestic Longhair,Medium/Light
+A671426,Big Red,11/8/14 16:45,Owner Surrender,Normal,Dog,Neutered Male,2 years,American Staffordshire Terrier/Labrador Retriever,Tan/White,Terrier,Medium/Light
+A671425,Luna,11/8/14 16:45,Owner Surrender,Normal,Dog,Spayed Female,4 years,Redbone Hound Mix,Red/White,Hound,Medium/Light
+A670612,Sheila,11/8/14 18:10,Stray,Normal,Dog,Intact Female,3 years,Beagle,Brown/White,Hound,Medium/Light
+A690638,Autumn,11/9/14 13:54,Owner Surrender,Normal,Dog,Intact Female,3 years,Pointer/Harrier,Chocolate/White,Sporting,Dark/Light
+A691899,Oreo,11/11/14 16:08,Stray,Normal,Dog,Neutered Male,4 years,Australian Cattle Dog Mix,White/Black,Herding,Light/Dark
+A691995,Adara,11/13/14 13:09,Stray,Normal,Dog,Intact Female,1 year,Labrador Retriever,Black,Sporting,Dark
+A692008,Leslie,11/13/14 14:41,Owner Surrender,Normal,Dog,Spayed Female,1 year,Labrador Retriever Mix,Black,Sporting,Dark
+A692104,Roxy,11/14/14 15:38,Stray,Normal,Dog,Intact Female,2 years,Staffordshire Mix,White/Tan,Terrier,Light/Medium
+A692104,Roxy,11/14/14 15:38,Stray,Normal,Dog,Intact Female,2 years,Staffordshire Mix,White/Tan,Terrier,Light/Medium
+A692221,Rocky,11/16/14 20:20,Stray,Normal,Dog,Intact Male,1 year,Labrador Retriever/Pit Bull,Black/White,Sporting,Dark/Light
+A692221,Rocky,11/16/14 20:20,Stray,Normal,Dog,Intact Male,1 year,Labrador Retriever/Pit Bull,Black/White,Sporting,Dark/Light
+A692221,Rocky,11/16/14 20:20,Stray,Normal,Dog,Intact Male,1 year,Labrador Retriever/Pit Bull,Black/White,Sporting,Dark/Light
+A644301,Cloy,11/17/14 11:04,Stray,Normal,Dog,Neutered Male,6 years,Chihuahua Shorthair Mix,Black,Toy,Dark
+A692327,Allie,11/18/14 16:15,Stray,Normal,Dog,Intact Female,1 month,Labrador Retriever Mix,Tan/White,Sporting,Medium/Light
+A692327,Allie,11/18/14 16:15,Stray,Normal,Dog,Intact Female,1 month,Labrador Retriever Mix,Tan/White,Sporting,Medium/Light
+A692478,Teddy,11/21/14 11:56,Stray,Normal,Dog,Intact Male,2 years,Pit Bull Mix,Fawn,Pit Bull,Light
+A692456,Daisy,11/21/14 13:39,Stray,Normal,Dog,Intact Female,4 months,Pointer Mix,White/Black,Sporting,Light/Dark
+A689187,Lovely,11/22/14 11:51,Owner Surrender,Normal,Dog,Spayed Female,12 years,German Shepherd Mix,Brown,Herding,Medium
+A693036,Chuy,11/30/14 17:36,Stray,Normal,Dog,Intact Male,10 months,German Shepherd,Sable,Herding,Medium/Dark
+A681769,Pixie,12/1/14 13:54,Owner Surrender,Normal,Dog,Spayed Female,6 years,American Pit Bull Terrier Mix,White,Terrier,Light
+A666362,Peebee,12/3/14 11:28,Stray,Normal,Dog,Neutered Male,4 years,Toy Fox Terrier Mix,Brown/White,Terrier,Medium/Light
+A588601,Jackie,12/4/14 18:20,Stray,Normal,Dog,Spayed Female,6 years,Australian Cattle Dog Mix,Blue Merle/White,Herding,Light/Medium
+A588601,Jackie,12/4/14 18:20,Stray,Normal,Dog,Spayed Female,6 years,Australian Cattle Dog Mix,Blue Merle/White,Herding,Light/Medium
+A693282,Sampson,12/5/14 11:23,Stray,Normal,Dog,Intact Male,2 years,Staffordshire Mix,Chocolate,Terrier,Dark
+A693283,Maximus,12/5/14 11:23,Stray,Normal,Dog,Intact Male,2 years,Pit Bull Mix,Tan,Pit Bull,Medium
+A693320,Asuna,12/5/14 16:03,Owner Surrender,Normal,Cat,Spayed Female,6 years,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A693388,Cowboy,12/7/14 9:45,Public Assist,Normal,Dog,Neutered Male,7 years,Parson Russell Terrier/Beagle,White/Brown,Terrier,Light/Medium
+A684404,Winston,12/8/14 17:26,Owner Surrender,Normal,Dog,Neutered Male,4 years,Border Collie Mix,Tricolor,Herding,Tricolor
+A693619,Lolly,12/11/14 16:30,Stray,Normal,Cat,Intact Female,1 month,Domestic Medium Hair Mix,Black/White,Domestic Medium Hair,Dark/Light
+A693693,Lucky,12/13/14 10:57,Stray,Normal,Dog,Neutered Male,3 years,Pit Bull Mix,Fawn/White,Pit Bull,Light
+A691732,Copper,12/13/14 15:00,Public Assist,Normal,Dog,Neutered Male,2 years,Catahoula Mix,Tan/White,Herding,Medium/Light
+A693840,Angel,12/15/14 15:28,Stray,Normal,Dog,Intact Female,2 months,Pit Bull Mix,Fawn/White,Pit Bull,Light
+A693885,Rufio,12/16/14 13:00,Stray,Normal,Dog,Neutered Male,1 year,Boxer Mix,Brown Brindle/White,Working,Medium/Light
+A687043,Austin,12/17/14 7:46,Stray,Sick,Dog,Neutered Male,9 months,Pit Bull Mix,White/Tan,Pit Bull,Light/Medium
+A693938,King,12/17/14 11:00,Owner Surrender,Normal,Dog,Intact Male,1 month,Beagle Mix,Tan/White,Hound,Medium/Light
+A658920,Scotty,12/17/14 11:14,Stray,Normal,Dog,Neutered Male,7 years,Miniature Poodle Mix,White,Non-Sporting,Light
+A693985,Max,12/18/14 11:54,Stray,Normal,Dog,Intact Male,1 year,Basenji/Jack Russell Terrier,White/Brown,Terrier,Light/Medium
+A693989,Lobo,12/18/14 12:30,Stray,Normal,Dog,Intact Male,3 years,Labrador Retriever/German Shepherd,Cream,Herding,Light
+A693991,Oso,12/18/14 12:30,Stray,Normal,Dog,Intact Male,3 years,Labrador Retriever/German Shepherd,Tan,Herding,Medium
+A613676,Hudson Hawk,12/19/14 17:22,Stray,Normal,Dog,Neutered Male,6 years,Beagle,White/Tan,Hound,Light/Medium
+A694301,Legend,12/24/14 16:43,Stray,Normal,Dog,Neutered Male,4 months,Pit Bull/Alaskan Husky,Tricolor,Pit Bull,Tricolor
+A694377,Josephine,12/27/14 9:12,Stray,Normal,Dog,Spayed Female,8 years,Labrador Retriever Mix,Black/White,Sporting,Dark/Light
+A683469,Dakota,12/28/14 11:46,Owner Surrender,Normal,Dog,Neutered Male,2 years,Border Collie Mix,Brown Brindle/White,Herding,Medium/Light
+A694501,Penelope,12/29/14 14:27,Stray,Normal,Dog,Intact Female,5 months,Labrador Retriever Mix,Black/White,Sporting,Dark/Light
+A694501,Penelope,12/29/14 14:27,Stray,Normal,Dog,Intact Female,5 months,Labrador Retriever Mix,Black/White,Sporting,Dark/Light
+A694501,Penelope,12/29/14 14:27,Stray,Normal,Dog,Intact Female,5 months,Labrador Retriever Mix,Black/White,Sporting,Dark/Light
+A680865,Rex,1/5/15 12:23,Stray,Normal,Dog,Neutered Male,8 months,Siberian Husky Mix,White/Red,Working,Light/Medium
+A692104,Roxy,1/8/15 11:25,Owner Surrender,Normal,Dog,Intact Female,2 years,Staffordshire Mix,White/Tan,Terrier,Light/Medium
+A692104,Roxy,1/8/15 11:25,Owner Surrender,Normal,Dog,Intact Female,2 years,Staffordshire Mix,White/Tan,Terrier,Light/Medium
+A695073,*Tuna,1/8/15 14:45,Stray,Normal,Cat,Intact Female,1 year,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A695165,Logan,1/10/15 12:29,Stray,Normal,Cat,Intact Male,2 months,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A695270,Luna,1/12/15 14:47,Owner Surrender,Normal,Dog,Intact Female,1 year,American Bulldog Mix,White/Brown Brindle,Non-Sporting,Light/Medium
+A694329,Jackson,1/12/15 18:55,Stray,Normal,Dog,Intact Male,1 year,Catahoula Mix,Black/White,Herding,Dark/Light
+A694329,Jackson,1/12/15 18:55,Stray,Normal,Dog,Intact Male,1 year,Catahoula Mix,Black/White,Herding,Dark/Light
+A646776,Hercules,1/15/15 13:59,Public Assist,Normal,Dog,Intact Male,2 years,German Shepherd,Black/Tan,Herding,Dark/Medium
+A695479,Hera,1/16/15 13:24,Owner Surrender,Normal,Dog,Intact Female,2 months,Labrador Retriever Mix,Brown/White,Sporting,Medium/Light
+A695647,Thunder,1/19/15 19:38,Stray,Normal,Dog,Intact Male,1 year,Pit Bull Mix,Blue/White,Pit Bull,Medium/Light
+A695679,Rolo,1/20/15 13:10,Stray,Normal,Dog,Intact Male,2 years,Chihuahua Longhair/Dachshund,Red,Toy,Medium
+A593109,Sydney,1/24/15 15:03,Stray,Normal,Dog,Spayed Female,5 years,Pit Bull Mix,White/Black,Pit Bull,Light/Dark
+A593109,Sydney,1/24/15 15:03,Stray,Normal,Dog,Spayed Female,5 years,Pit Bull Mix,White/Black,Pit Bull,Light/Dark
+A695857,Cherry,1/24/15 15:03,Stray,Normal,Dog,Intact Female,1 year,Labrador Retriever Mix,Black,Sporting,Dark
+A695857,Cherry,1/24/15 15:03,Stray,Normal,Dog,Intact Female,1 year,Labrador Retriever Mix,Black,Sporting,Dark
+A695882,*Sonora,1/24/15 18:05,Stray,Normal,Dog,Intact Female,3 years,Labrador Retriever Mix,White,Sporting,Light
+A691732,Copper,1/26/15 13:21,Owner Surrender,Normal,Dog,Neutered Male,2 years,Catahoula Mix,Tan/White,Herding,Medium/Light
+A695970,Koda,1/26/15 14:02,Owner Surrender,Normal,Dog,Neutered Male,3 years,Boxer Mix,Brown Brindle/White,Working,Medium/Light
+A696047,White,1/28/15 11:01,Stray,Normal,Dog,Intact Female,1 month,Collie Smooth Mix,White/Brown,Herding,Light/Medium
+A696047,White,1/28/15 11:01,Stray,Normal,Dog,Intact Female,1 month,Collie Smooth Mix,White/Brown,Herding,Light/Medium
+A676035,Sasha,1/29/15 7:18,Stray,Injured,Dog,Spayed Female,2 years,Pit Bull Mix,Brown/White,Pit Bull,Medium/Light
+A696155,Brurdaoex,1/30/15 13:26,Stray,Injured,Dog,Intact Male,2 years,Pit Bull Mix,Red,Pit Bull,Medium
+A696174,Clancy,1/30/15 16:08,Owner Surrender,Normal,Cat,Intact Male,1 year,Domestic Shorthair,Brown Tabby,Domestic Shorthair,Medium/Light
+A696247,*Jillian,2/1/15 12:15,Stray,Normal,Dog,Spayed Female,2 years,Pointer Mix,Chocolate/White,Sporting,Dark/Light
+A696268,Duncan,2/1/15 15:37,Stray,Normal,Dog,Intact Male,2 years,American Bulldog Mix,White/Red,Non-Sporting,Light/Medium
+A694501,Penelope,2/2/15 12:47,Stray,Normal,Dog,Spayed Female,7 months,Labrador Retriever Mix,Black/White,Sporting,Dark/Light
+A694501,Penelope,2/2/15 12:47,Stray,Normal,Dog,Spayed Female,7 months,Labrador Retriever Mix,Black/White,Sporting,Dark/Light
+A694501,Penelope,2/2/15 12:47,Stray,Normal,Dog,Spayed Female,7 months,Labrador Retriever Mix,Black/White,Sporting,Dark/Light
+A696345,Elsa,2/3/15 11:19,Stray,Normal,Dog,Intact Female,2 months,Pointer Mix,White/Black,Sporting,Light/Dark
+A696350,Minnie,2/3/15 11:52,Stray,Normal,Dog,Intact Female,2 months,Pit Bull,Brown Brindle,Pit Bull,Medium
+A696370,*John,2/3/15 14:17,Owner Surrender,Normal,Cat,Neutered Male,10 months,Domestic Medium Hair Mix,Orange Tabby/White,Domestic Medium Hair,Medium/Light
+A502862,Checkers,2/4/15 18:36,Public Assist,Normal,Dog,Neutered Male,7 years,Labrador Retriever/Golden Retriever,Brown,Sporting,Medium
+A696524,Bertrand,2/6/15 16:14,Stray,Normal,Dog,Intact Male,11 months,Beauceron Mix,Black/Brown,Herding,Dark/Medium
+A694501,Penelope,2/7/15 13:53,Stray,Normal,Dog,Spayed Female,7 months,Labrador Retriever Mix,Black/White,Sporting,Dark/Light
+A694501,Penelope,2/7/15 13:53,Stray,Normal,Dog,Spayed Female,7 months,Labrador Retriever Mix,Black/White,Sporting,Dark/Light
+A694501,Penelope,2/7/15 13:53,Stray,Normal,Dog,Spayed Female,7 months,Labrador Retriever Mix,Black/White,Sporting,Dark/Light
+A696594,Riggins,2/7/15 18:16,Stray,Normal,Dog,Intact Female,3 months,Labrador Retriever Mix,Brown/White,Sporting,Medium/Light
+A664702,Harley,2/9/15 13:37,Public Assist,Normal,Dog,Neutered Male,5 years,Pit Bull Mix,White,Pit Bull,Light
+A696688,Mari,2/10/15 11:00,Owner Surrender,Normal,Cat,Spayed Female,3 years,Domestic Shorthair Mix,Calico/White,Domestic Shorthair,Tricolor
+A696746,Nibbler,2/11/15 12:43,Owner Surrender,Normal,Cat,Spayed Female,12 years,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A696755,April,2/11/15 15:29,Stray,Normal,Dog,Intact Female,10 months,Pit Bull Mix,Yellow Brindle/White,Pit Bull,Light/Medium
+A696833,*Joey,2/13/15 11:10,Stray,Normal,Dog,Neutered Male,4 years,Staffordshire/Boston Terrier,Brown/White,Terrier,Medium/Light
+A696868,Zues,2/13/15 16:00,Stray,Normal,Dog,Neutered Male,1 year,Doberman Pinsch Mix,Black/Red,Working,Dark/Medium
+A696939,*Buddy,2/14/15 18:04,Stray,Injured,Dog,Intact Male,5 years,English Coonhound Mix,White/Tan,Hound,Light/Medium
+A651305,Roxie,2/14/15 18:15,Stray,Normal,Dog,Spayed Female,3 years,Rottweiler,Black/Tan,Working,Dark/Medium
+A696942,*Penny,2/15/15 9:16,Stray,Injured,Cat,Spayed Female,10 years,Domestic Longhair Mix,Black/White,Domestic Longhair,Dark/Light
+A696966,*Farrah,2/15/15 14:14,Stray,Injured,Dog,Intact Female,2 years,English Coonhound Mix,Red/White,Hound,Medium/Light
+A696970,Rowdy,2/15/15 14:38,Stray,Normal,Dog,Intact Male,1 year,Chihuahua Shorthair Mix,Tan/Black,Toy,Medium/Dark
+A696975,Polly,2/15/15 16:07,Owner Surrender,Normal,Dog,Spayed Female,8 years,Miniature Schnauzer/Miniature Poodle,Gray,Terrier,Medium
+A697076,*Kewpie,2/17/15 15:19,Stray,Normal,Cat,Neutered Male,6 years,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A693388,Cowboy,2/19/15 16:59,Stray,Normal,Dog,Neutered Male,8 years,Parson Russell Terrier/Beagle,White/Brown,Terrier,Light/Medium
+A697253,Hazel,2/20/15 14:11,Stray,Normal,Dog,Intact Female,2 months,Black Mouth Cur Mix,Tan/Black,Herding,Medium/Dark
+A697255,*Cammy,2/20/15 14:17,Stray,Normal,Cat,Spayed Female,2 years,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A644301,Cloy,2/23/15 11:49,Stray,Normal,Dog,Neutered Male,7 years,Chihuahua Shorthair Mix,Black,Toy,Dark
+A696524,Bertrand,2/24/15 18:14,Owner Surrender,Normal,Dog,Neutered Male,1 year,Beauceron Mix,Black/Brown,Herding,Dark/Medium
+A697537,*Annie,2/25/15 11:43,Public Assist,Other,Dog,Intact Female,2 years,Pit Bull Mix,Black/White,Pit Bull,Dark/Light
+A692797,Suzze,2/26/15 12:59,Stray,Normal,Dog,Spayed Female,4 years,Miniature Poodle Mix,White,Non-Sporting,Light
+A692797,Suzze,2/26/15 12:59,Stray,Normal,Dog,Spayed Female,4 years,Miniature Poodle Mix,White,Non-Sporting,Light
+A691000,Puchungas,2/26/15 12:59,Stray,Normal,Dog,Intact Female,7 years,Miniature Schnauzer Mix,Gray/Silver,Terrier,Medium
+A697713,Rambo,2/27/15 9:42,Stray,Normal,Dog,Intact Male,1 year,Labrador Retriever/Black Mouth Cur,Tan/White,Sporting,Medium/Light
+A697740,*Gunthor,2/27/15 14:55,Owner Surrender,Normal,Dog,Neutered Male,5 years,Pit Bull Mix,White/Tan,Pit Bull,Light/Medium
+A695188,Spot,2/27/15 15:51,Owner Surrender,Normal,Dog,Neutered Male,5 months,Australian Cattle Dog/Labrador Retriever,Black/White,Herding,Dark/Light
+A697762,Socks,2/27/15 18:43,Stray,Normal,Dog,Intact Female,1 year,Boxer Mix,Tan,Working,Medium
+A593537,Chacha,3/1/15 10:41,Stray,Normal,Dog,Spayed Female,6 years,Labrador Retriever Mix,Black,Sporting,Dark
+A593537,Chacha,3/1/15 10:41,Stray,Normal,Dog,Spayed Female,6 years,Labrador Retriever Mix,Black,Sporting,Dark
+A628456,Tasha,3/1/15 15:46,Owner Surrender,Normal,Dog,Spayed Female,4 years,American Staffordshire Terrier Mix,Tan/White,Terrier,Medium/Light
+A631804,Root Beer,3/2/15 14:44,Stray,Normal,Dog,Spayed Female,5 years,German Shepherd Mix,Tan,Herding,Medium
+A697910,Boris,3/3/15 14:03,Owner Surrender,Normal,Cat,Neutered Male,2 years,Domestic Medium Hair Mix,Orange Tabby/White,Domestic Medium Hair,Medium/Light
+A627862,Blanca,3/4/15 13:36,Stray,Normal,Dog,Spayed Female,4 years,Chihuahua Shorthair Mix,White/Brown,Toy,Light/Medium
+A322813,Tyson,3/5/15 14:49,Public Assist,Normal,Dog,Neutered Male,11 years,Rottweiler Mix,Black/Brown,Working,Dark/Medium
+A672136,Chica,3/5/15 17:11,Stray,Normal,Dog,Spayed Female,1 year,Pit Bull/Boxer,Red/White,Pit Bull,Medium/Light
+A673530,Cece,3/6/15 1:02,Stray,Normal,Dog,Intact Female,4 years,Chihuahua Shorthair Mix,Tan/Tan,Toy,Medium
+A698141,Max,3/6/15 13:36,Stray,Normal,Dog,Intact Male,1 year,Plott Hound Mix,Brown Brindle,Hound,Medium
+A696755,April,3/6/15 16:16,Owner Surrender,Injured,Dog,Spayed Female,10 months,Pit Bull Mix,Yellow Brindle/White,Pit Bull,Light/Medium
+A698222,*Moonpie,3/7/15 14:51,Stray,Normal,Dog,Spayed Female,5 years,Labrador Retriever Mix,Brown,Sporting,Medium
+A652101,Stella,3/7/15 14:59,Stray,Normal,Dog,Spayed Female,3 years,Pit Bull/Chow Chow,Tan/White,Pit Bull,Medium/Light
+A695189,Gunner,3/7/15 16:36,Owner Surrender,Normal,Dog,Neutered Male,5 months,Border Collie/German Shepherd,Black/White,Herding,Dark/Light
+A695189,Gunner,3/7/15 16:36,Owner Surrender,Normal,Dog,Neutered Male,5 months,Border Collie/German Shepherd,Black/White,Herding,Dark/Light
+A696970,Rowdy,3/8/15 18:41,Public Assist,Normal,Dog,Neutered Male,1 year,Chihuahua Shorthair Mix,Tan/Black,Toy,Medium/Dark
+A663819,Zeus,3/10/15 15:55,Stray,Normal,Dog,Neutered Male,2 years,Pit Bull Mix,Black/White,Pit Bull,Dark/Light
+A698675,Parker,3/16/15 10:41,Stray,Injured,Dog,Intact Male,2 years,Pit Bull Mix,Black/White,Pit Bull,Dark/Light
+A698705,*Rico,3/16/15 16:35,Stray,Normal,Dog,Intact Male,2 years,Labrador Retriever Mix,Black/White,Sporting,Dark/Light
+A698796,*Hank,3/18/15 11:42,Stray,Sick,Dog,Intact Male,9 months,Pit Bull Mix,Blue/White,Pit Bull,Medium/Light
+A683137,Batman,3/19/15 14:44,Owner Surrender,Normal,Cat,Neutered Male,10 months,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A698921,Belle,3/19/15 17:21,Stray,Normal,Dog,Spayed Female,10 years,Chihuahua Shorthair Mix,Chocolate/White,Toy,Dark/Light
+A698980,Eddie,3/20/15 14:26,Stray,Normal,Dog,Neutered Male,4 years,Chihuahua Shorthair/Cardigan Welsh Corgi,Tan/White,Toy,Medium/Light
+A699262,Estrella,3/24/15 16:56,Stray,Normal,Dog,Spayed Female,3 years,Staffordshire Mix,White/Black,Terrier,Light/Dark
+A688959,Pricilla Sue,3/25/15 12:52,Stray,Normal,Dog,Spayed Female,1 year,Chihuahua Shorthair/Yorkshire Terrier,Black/Red,Terrier,Dark/Medium
+A699427,*Curley,3/27/15 10:57,Stray,Normal,Cat,Intact Male,3 weeks,Balinese Mix,Flame Point,Exotic,Light
+A699675,Charlie,3/31/15 17:50,Stray,Normal,Dog,Neutered Male,5 years,Labrador Retriever/Greyhound,Black,Sporting,Dark
+A699731,Mugsy,4/1/15 15:13,Owner Surrender,Normal,Cat,Neutered Male,7 years,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A699820,Ginger,4/2/15 19:36,Public Assist,Normal,Dog,Spayed Female,6 years,Chihuahua Shorthair/Pug,Tan,Toy,Medium
+A652101,Stella,4/5/15 12:57,Owner Surrender,Normal,Dog,Spayed Female,3 years,Pit Bull/Chow Chow,Tan/White,Pit Bull,Medium/Light
+A595090,Tigz,4/6/15 14:18,Owner Surrender,Normal,Dog,Neutered Male,4 years,Boerboel Mix,Tan/Black,Working,Medium/Dark
+A700061,Chubbs,4/7/15 11:21,Stray,Normal,Cat,Neutered Male,6 years,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A700074,*Cynthia,4/7/15 14:25,Stray,Normal,Dog,Intact Female,1 year,Pit Bull Mix,White/Brown,Pit Bull,Light/Medium
+A552796,Jd,4/8/15 16:35,Stray,Normal,Dog,Neutered Male,7 years,Pit Bull Mix,Black/White,Pit Bull,Dark/Light
+A700396,Calseta,4/13/15 10:58,Stray,Normal,Dog,Intact Female,3 years,Pit Bull Mix,Black/White,Pit Bull,Dark/Light
+A700396,Calseta,4/13/15 10:58,Stray,Normal,Dog,Intact Female,3 years,Pit Bull Mix,Black/White,Pit Bull,Dark/Light
+A700396,Calseta,4/13/15 10:58,Stray,Normal,Dog,Intact Female,3 years,Pit Bull Mix,Black/White,Pit Bull,Dark/Light
+A700398,*Poppy,4/13/15 11:03,Stray,Normal,Dog,Intact Female,2 years,Chihuahua Shorthair Mix,Fawn/White,Toy,Light
+A700252,Manchas,4/13/15 13:12,Public Assist,Normal,Dog,Intact Male,6 months,American Bulldog Mix,White/Brown Brindle,Non-Sporting,Light/Medium
+A700252,Manchas,4/13/15 13:12,Public Assist,Normal,Dog,Intact Male,6 months,American Bulldog Mix,White/Brown Brindle,Non-Sporting,Light/Medium
+A700467,*Tolstoy,4/14/15 11:09,Stray,Normal,Cat,Neutered Male,1 year,Domestic Shorthair Mix,Cream Tabby,Domestic Shorthair,Light/Medium
+A700479,Quinn,4/14/15 13:01,Stray,Normal,Dog,Intact Female,1 month,Labrador Retriever,Brown/White,Sporting,Medium/Light
+A700482,*Pixie,4/14/15 13:23,Stray,Normal,Cat,Spayed Female,1 year,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A700574,Guardian,4/16/15 11:51,Stray,Normal,Dog,Intact Male,1 month,Australian Cattle Dog Mix,Red Merle/White,Herding,Light/Medium
+A691899,Oreo,4/16/15 15:09,Stray,Normal,Dog,Neutered Male,4 years,Australian Cattle Dog Mix,White/Black,Herding,Light/Dark
+A700740,*Charlie,4/18/15 18:00,Stray,Injured,Dog,Intact Male,1 year,Chihuahua Shorthair,White,Toy,Light
+A629737,Umi,4/19/15 11:05,Owner Surrender,Normal,Cat,Spayed Female,3 years,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A700754,Hope,4/19/15 11:22,Owner Surrender,Normal,Cat,Intact Female,2 years,Domestic Shorthair Mix,Calico,Domestic Shorthair,Tricolor
+A700792,Kit,4/19/15 16:18,Owner Surrender,Normal,Cat,Spayed Female,2 years,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A699890,Zoey,4/20/15 14:51,Owner Surrender,Normal,Dog,Spayed Female,2 years,Pit Bull Mix,Brown Brindle/White,Pit Bull,Medium/Light
+A700906,Charli,4/21/15 11:36,Stray,Normal,Cat,Intact Female,2 years,Siamese Mix,Blue Point,Siamese,Light/Medium
+A699262,Estrella,4/21/15 12:52,Stray,Normal,Dog,Spayed Female,3 years,Staffordshire Mix,White/Black,Terrier,Light/Dark
+A700959,Giselle,4/21/15 17:37,Stray,Nursing,Cat,Intact Female,3 years,Domestic Shorthair Mix,Brown Tabby/White,Domestic Shorthair,Medium/Light
+A681890,Marilyn,4/24/15 12:12,Public Assist,Normal,Dog,Spayed Female,5 years,West Highland,White,Terrier,Light
+A675639,Boomer,4/24/15 17:46,Stray,Normal,Dog,Neutered Male,3 years,Pit Bull Mix,Tan/White,Pit Bull,Medium/Light
+A623561,Marley,4/25/15 10:38,Public Assist,Normal,Dog,Neutered Male,6 years,Pit Bull Mix,Blue/White,Pit Bull,Medium/Light
+A701252,Pepper,4/26/15 13:23,Owner Surrender,Normal,Dog,Neutered Male,4 years,Australian Shepherd Mix,Blue Merle,Herding,Light/Medium
+A701329,*Jordan,4/27/15 17:13,Stray,Normal,Dog,Intact Male,2 months,Black Mouth Cur,Brown,Herding,Medium
+A701451,Mio,4/29/15 16:55,Public Assist,Normal,Dog,Neutered Male,1 month,Chihuahua Shorthair/Boston Terrier,Brown Brindle/White,Terrier,Medium/Light
+A663819,Zeus,4/29/15 18:38,Stray,Normal,Dog,Neutered Male,2 years,Pit Bull Mix,Black/White,Pit Bull,Dark/Light
+A701495,Bella,4/30/15 12:28,Owner Surrender,Normal,Dog,Spayed Female,5 years,Pit Bull Mix,Blue/White,Pit Bull,Medium/Light
+A613650,Diamond,5/1/15 11:08,Stray,Normal,Dog,Spayed Female,5 years,American Pit Bull Terrier Mix,Fawn/White,Terrier,Light
+A701554,Kahlua,5/1/15 13:54,Owner Surrender,Normal,Dog,Spayed Female,2 years,American Staffordshire Terrier/Australian Cattle Dog,Black/White,Terrier,Dark/Light
+A701575,Hastings,5/1/15 17:28,Stray,Normal,Dog,Intact Male,1 year,Pit Bull Mix,Brown Brindle/White,Pit Bull,Medium/Light
+A695857,Cherry,5/2/15 15:47,Stray,Normal,Dog,Spayed Female,1 year,Labrador Retriever Mix,Black,Sporting,Dark
+A695857,Cherry,5/2/15 15:47,Stray,Normal,Dog,Spayed Female,1 year,Labrador Retriever Mix,Black,Sporting,Dark
+A593109,Sydney,5/2/15 15:47,Stray,Normal,Dog,Spayed Female,6 years,Pit Bull Mix,White/Black,Pit Bull,Light/Dark
+A593109,Sydney,5/2/15 15:47,Stray,Normal,Dog,Spayed Female,6 years,Pit Bull Mix,White/Black,Pit Bull,Light/Dark
+A699262,Estrella,5/4/15 21:13,Stray,Normal,Dog,Spayed Female,3 years,Staffordshire Mix,White/Black,Terrier,Light/Dark
+A701879,Puma,5/5/15 16:20,Stray,Normal,Dog,Neutered Male,2 years,Miniature Poodle Mix,White,Non-Sporting,Light
+A632028,Daisy,5/5/15 17:55,Stray,Normal,Dog,Spayed Female,4 years,Great Pyrenees Mix,White,Working,Light
+A632028,Daisy,5/5/15 17:55,Stray,Normal,Dog,Spayed Female,4 years,Great Pyrenees Mix,White,Working,Light
+A529310,Angel,5/6/15 7:04,Stray,Normal,Dog,Intact Female,8 years,Vizsla,Red,Sporting,Medium
+A701901,Sasha,5/6/15 9:02,Stray,Normal,Dog,Spayed Female,1 year,Pit Bull Mix,Blue,Pit Bull,Medium
+A701901,Sasha,5/6/15 9:02,Stray,Normal,Dog,Spayed Female,1 year,Pit Bull Mix,Blue,Pit Bull,Medium
+A701917,Zena,5/6/15 11:59,Stray,Normal,Dog,Spayed Female,2 years,Australian Shepherd Mix,Black/Tan,Herding,Dark/Medium
+A668598,Sprinkles,5/6/15 11:59,Stray,Normal,Dog,Neutered Male,1 year,Rottweiler Mix,Black/White,Working,Dark/Light
+A699262,Estrella,5/7/15 10:56,Stray,Normal,Dog,Spayed Female,3 years,Staffordshire Mix,White/Black,Terrier,Light/Dark
+A701979,Winnie,5/7/15 11:45,Owner Surrender,Normal,Dog,Spayed Female,10 years,Labrador Retriever Mix,Tan,Sporting,Medium
+A702002,Diamond,5/7/15 14:47,Stray,Normal,Dog,Intact Female,1 year,Pit Bull Mix,White,Pit Bull,Light
+A702014,Diamond,5/7/15 17:04,Stray,Normal,Dog,Intact Female,5 months,Blue Lacy Mix,Blue/White,Herding,Medium/Light
+A702075,Rocky,5/8/15 20:55,Stray,Normal,Dog,Neutered Male,10 years,Rottweiler/Rhod Ridgeback,Brown/White,Working,Medium/Light
+A702164,Sparkle,5/10/15 11:04,Stray,Normal,Cat,Spayed Female,13 years,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A694501,Penelope,5/12/15 1:11,Stray,Normal,Dog,Spayed Female,10 months,Labrador Retriever Mix,Black/White,Sporting,Dark/Light
+A694501,Penelope,5/12/15 1:11,Stray,Normal,Dog,Spayed Female,10 months,Labrador Retriever Mix,Black/White,Sporting,Dark/Light
+A694501,Penelope,5/12/15 1:11,Stray,Normal,Dog,Spayed Female,10 months,Labrador Retriever Mix,Black/White,Sporting,Dark/Light
+A702370,*Beamer,5/12/15 16:56,Stray,Normal,Dog,Neutered Male,9 years,Rat Terrier Mix,White/Black,Terrier,Light/Dark
+A693840,Angel,5/13/15 14:49,Stray,Normal,Dog,Spayed Female,7 months,Pit Bull Mix,Fawn/White,Pit Bull,Light
+A702471,Simona,5/14/15 11:32,Stray,Normal,Dog,Intact Female,2 years,American Pit Bull Terrier/Labrador Retriever,Brown Brindle/White,Terrier,Medium/Light
+A702476,*Betty,5/14/15 12:22,Stray,Injured,Cat,Intact Female,2 years,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A702481,Winnie,5/14/15 12:55,Public Assist,Normal,Dog,Spayed Female,3 years,Australian Shepherd Mix,Brown/White,Herding,Medium/Light
+A702676,*Sage,5/16/15 16:03,Owner Surrender,Normal,Dog,Intact Female,1 month,Australian Cattle Dog Mix,Tricolor,Herding,Tricolor
+A702701,Pepper,5/16/15 18:38,Stray,Normal,Dog,Spayed Female,2 years,Miniature Pinscher Mix,Chocolate/Brown,Toy,Dark/Medium
+A698023,Bo,5/17/15 13:51,Stray,Normal,Dog,Neutered Male,11 months,Black Mouth Cur Mix,Brown,Herding,Medium
+A702383,Zee,5/17/15 13:51,Stray,Normal,Dog,Neutered Male,1 year,Black Mouth Cur Mix,Brown/Black,Herding,Medium/Dark
+A702800,,5/18/15 9:27,Stray,Nursing,Cat,Intact Male,1 day,Domestic Shorthair Mix,Blue Tabby/White,Domestic Shorthair,Medium/Light
+A702835,*Pepe,5/18/15 13:11,Stray,Sick,Cat,Intact Female,4 weeks,Domestic Shorthair Mix,Torbie,Domestic Shorthair,Medium/Dark
+A701901,Sasha,5/19/15 9:30,Public Assist,Normal,Dog,Spayed Female,1 year,Pit Bull Mix,Blue,Pit Bull,Medium
+A701901,Sasha,5/19/15 9:30,Public Assist,Normal,Dog,Spayed Female,1 year,Pit Bull Mix,Blue,Pit Bull,Medium
+A703058,*Cricket,5/20/15 10:04,Public Assist,Normal,Cat,Intact Female,1 year,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A703059,*Rocket,5/20/15 10:04,Public Assist,Normal,Cat,Intact Male,1 year,Domestic Shorthair Mix,Orange Tabby,Domestic Shorthair,Medium
+A703057,Charles,5/20/15 10:17,Owner Surrender,Sick,Dog,Intact Male,10 months,Catahoula Mix,White/Black Brindle,Herding,Tricolor
+A453083,Liz,5/21/15 8:38,Stray,Aged,Dog,Spayed Female,9 years,Border Collie Mix,Chocolate/White,Herding,Dark/Light
+A703189,Squeaker,5/21/15 13:51,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Shorthair Mix,Brown Tabby/Orange,Domestic Shorthair,Medium/Light
+A696155,Brurdaoex,5/21/15 14:31,Stray,Normal,Dog,Neutered Male,2 years,Pit Bull Mix,Red,Pit Bull,Medium
+A703294,Zoe,5/22/15 16:42,Stray,Normal,Dog,Intact Female,2 years,Pit Bull Mix,Brown Brindle/White,Pit Bull,Medium/Light
+A703322,Sophie,5/23/15 11:48,Owner Surrender,Normal,Cat,Spayed Female,6 years,Domestic Shorthair Mix,Cream Tabby,Domestic Shorthair,Light/Medium
+A702922,Lili,5/23/15 14:17,Public Assist,Normal,Dog,Intact Female,1 year,Chihuahua Shorthair/Swedish Vallhund,Brown/Black,Toy,Medium/Dark
+A699675,Charlie,5/23/15 15:06,Stray,Normal,Dog,Neutered Male,5 years,Labrador Retriever/Greyhound,Black,Sporting,Dark
+A703393,3Buster,5/24/15 12:20,Stray,Normal,Dog,Intact Male,9 months,Pointer Mix,Black/White,Sporting,Dark/Light
+A703414,Sundae,5/24/15 14:12,Stray,Normal,Dog,Spayed Female,3 years,Boston Terrier,Black/White,Terrier,Dark/Light
+A703583,*Aspen,5/27/15 10:49,Stray,Normal,Cat,Intact Female,4 weeks,Siamese Mix,Lynx Point,Siamese,Light/Medium
+A703615,Bailey,5/27/15 13:06,Stray,Normal,Dog,Intact Male,1 month,Labrador Retriever Mix,Black/White,Sporting,Dark/Light
+A703649,*Kismit,5/27/15 16:11,Stray,Normal,Dog,Intact Female,3 years,Pit Bull Mix,White/Brown,Pit Bull,Light/Medium
+A687987,Koda,5/27/15 18:46,Owner Surrender,Normal,Dog,Spayed Female,5 years,Pit Bull Mix,Brown/White,Pit Bull,Medium/Light
+A703718,Durbin,5/28/15 11:17,Stray,Normal,Dog,Intact Male,5 months,Labrador Retriever Mix,Black/White,Sporting,Dark/Light
+A703563,Noah,5/28/15 11:32,Stray,Normal,Dog,Intact Male,2 months,Alaskan Husky/German Shepherd,Black/Tan,Herding,Dark/Medium
+A703723,Brindlee,5/28/15 11:46,Stray,Normal,Dog,Intact Female,2 years,Pit Bull/Pointer,Brown Brindle/White,Pit Bull,Medium/Light
+A703723,Brindlee,5/28/15 11:46,Stray,Normal,Dog,Intact Female,2 years,Pit Bull/Pointer,Brown Brindle/White,Pit Bull,Medium/Light
+A703506,Nala,5/28/15 18:57,Public Assist,Normal,Dog,Intact Female,10 months,Pit Bull Mix,Brown Brindle,Pit Bull,Medium
+A703506,Nala,5/28/15 18:57,Public Assist,Normal,Dog,Intact Female,10 months,Pit Bull Mix,Brown Brindle,Pit Bull,Medium
+A702014,Diamond,5/29/15 15:34,Owner Surrender,Normal,Dog,Spayed Female,5 months,Blue Lacy Mix,Blue/White,Herding,Medium/Light
+A650619,Tate,5/29/15 16:36,Public Assist,Normal,Dog,Neutered Male,8 years,German Shepherd/Labrador Retriever,Tricolor,Herding,Tricolor
+A703876,Conrad,5/29/15 17:56,Stray,Normal,Dog,Neutered Male,2 years,Rottweiler Mix,Tricolor,Working,Tricolor
+A668079,King,5/29/15 19:51,Public Assist,Normal,Dog,Neutered Male,7 years,Pit Bull/Labrador Retriever,Black/White,Pit Bull,Dark/Light
+A703892,*Opal Jane,5/30/15 10:13,Stray,Normal,Dog,Intact Female,12 years,Chihuahua Shorthair Mix,White/Brown,Toy,Light/Medium
+A703983,*Victoria,5/31/15 11:39,Stray,Normal,Dog,Intact Female,10 months,Carolina Dog Mix,Tan/White,Non-Sporting,Medium/Light
+A704114,*Muzzy,6/1/15 16:24,Stray,Normal,Dog,Neutered Male,8 years,Shetland Sheepdog Mix,White/Brown,Herding,Light/Medium
+A633441,Powder,6/1/15 17:00,Public Assist,Normal,Dog,Spayed Female,5 years,Pit Bull Mix,White,Pit Bull,Light
+A704136,*Kisses,6/1/15 18:24,Stray,Normal,Dog,Intact Female,2 years,Boxer Mix,Brown Brindle/White,Working,Medium/Light
+A704145,Leo,6/2/15 7:51,Stray,Normal,Cat,Intact Male,3 weeks,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A697910,Boris,6/2/15 14:27,Public Assist,Normal,Cat,Neutered Male,2 years,Domestic Medium Hair Mix,Orange Tabby/White,Domestic Medium Hair,Medium/Light
+A678174,Scarlet Rose,6/2/15 16:05,Owner Surrender,Normal,Dog,Intact Female,3 years,Pit Bull Mix,Red/White,Pit Bull,Medium/Light
+A704287,Bevo,6/3/15 13:22,Stray,Normal,Dog,Intact Male,11 years,American Staffordshire Terrier Mix,White/Tan,Terrier,Light/Medium
+A704419,*Cindy,6/4/15 15:42,Stray,Normal,Cat,Intact Female,1 month,Siamese Mix,Lynx Point,Siamese,Light/Medium
+A704180,Thor,6/4/15 16:59,Owner Surrender,Normal,Dog,Neutered Male,2 months,Chow Chow/Pit Bull,Cream,Non-Sporting,Light
+A704427,*Oscar,6/4/15 17:09,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Orange Tabby,Domestic Shorthair,Medium
+A672679,Mellie,6/5/15 14:39,Stray,Normal,Dog,Spayed Female,4 years,Labrador Retriever/Boxer,Black/White,Sporting,Dark/Light
+A704526,Lucy,6/5/15 17:52,Stray,Normal,Dog,Intact Female,5 months,Pointer Mix,White/Brown,Sporting,Light/Medium
+A704577,Big Cat,6/6/15 13:57,Stray,Normal,Cat,Spayed Female,9 years,Domestic Shorthair Mix,White/Blue,Domestic Shorthair,Light/Medium
+A704599,Levi,6/6/15 16:19,Stray,Normal,Dog,Intact Male,4 years,Pit Bull Mix,Black/White,Pit Bull,Dark/Light
+A704715,*Isabella,6/8/15 11:52,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A704718,*Paulie,6/8/15 11:52,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Shorthair Mix,White/Black,Domestic Shorthair,Light/Dark
+A704733,Lyle,6/8/15 14:00,Stray,Normal,Cat,Neutered Male,8 years,Domestic Medium Hair Mix,Brown Tabby/White,Domestic Medium Hair,Medium/Light
+A623561,Marley,6/8/15 17:44,Stray,Normal,Dog,Neutered Male,6 years,Pit Bull Mix,Blue/White,Pit Bull,Medium/Light
+A704812,Meisha,6/9/15 10:59,Stray,Normal,Dog,Spayed Female,5 years,Australian Cattle Dog Mix,Black/White,Herding,Dark/Light
+A704827,*Lilia,6/9/15 13:22,Stray,Normal,Cat,Intact Female,1 year,Domestic Shorthair Mix,Torbie/White,Domestic Shorthair,Tricolor
+A704844,*Tilly,6/9/15 15:36,Stray,Normal,Dog,Intact Female,3 years,Labrador Retriever Mix,Black/White,Sporting,Dark/Light
+A704913,*Brooks,6/10/15 16:47,Owner Surrender,Normal,Dog,Intact Male,1 year,Pit Bull Mix,Blue/White,Pit Bull,Medium/Light
+A704944,Shalanda,6/11/15 10:21,Stray,Normal,Dog,Intact Female,4 years,Bichon Frise/Miniature Poodle,White,Toy,Light
+A704953,Zafira,6/11/15 11:17,Owner Surrender,Normal,Dog,Spayed Female,3 years,Pit Bull Mix,Chocolate/White,Pit Bull,Dark/Light
+A704973,*Pixie,6/11/15 12:18,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A705147,Zeffie,6/13/15 16:37,Owner Surrender,Normal,Dog,Spayed Female,1 year,German Shepherd Mix,Black,Herding,Dark
+A703294,Zoe,6/14/15 11:03,Stray,Normal,Dog,Intact Female,2 years,Pit Bull Mix,Brown Brindle/White,Pit Bull,Medium/Light
+A705175,*Sky,6/14/15 11:40,Stray,Normal,Dog,Intact Female,9 months,Australian Kelpie Mix,Black/Tan,Working,Dark/Medium
+A705236,Nanny,6/15/15 10:57,Public Assist,Normal,Dog,Intact Female,2 years,Pit Bull/Bulldog,White/Black,Pit Bull,Light/Dark
+A705278,Tuffy,6/15/15 13:41,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A697910,Boris,6/15/15 14:20,Public Assist,Normal,Cat,Neutered Male,2 years,Domestic Medium Hair Mix,Orange Tabby/White,Domestic Medium Hair,Medium/Light
+A705299,Dexter,6/15/15 16:15,Stray,Normal,Dog,Intact Male,2 years,Pit Bull Mix,Blue/White,Pit Bull,Medium/Light
+A705333,Tori,6/16/15 11:03,Owner Surrender,Normal,Cat,Spayed Female,3 years,Domestic Shorthair Mix,Torbie,Domestic Shorthair,Medium/Dark
+A705337,Haylie,6/16/15 11:36,Stray,Normal,Dog,Intact Female,2 years,Pit Bull Mix,Tan/White,Pit Bull,Medium/Light
+A700973,Loco,6/16/15 13:54,Stray,Normal,Dog,Intact Male,1 year,Pit Bull Mix,Brown Brindle/White,Pit Bull,Medium/Light
+A700973,Loco,6/16/15 13:54,Stray,Normal,Dog,Intact Male,1 year,Pit Bull Mix,Brown Brindle/White,Pit Bull,Medium/Light
+A700972,Whiskers,6/16/15 13:54,Stray,Normal,Dog,Intact Male,6 months,Chihuahua Shorthair Mix,Black,Toy,Dark
+A678174,Scarlet Rose,6/17/15 20:41,Public Assist,Normal,Dog,Intact Female,3 years,Pit Bull Mix,Red/White,Pit Bull,Medium/Light
+A705677,*Luigi,6/20/15 11:40,Stray,Normal,Dog,Intact Male,2 years,Dogo Argentino Mix,White,Hound,Light
+A705770,*Lucy Fox,6/21/15 11:41,Owner Surrender,Normal,Dog,Spayed Female,5 years,Chihuahua Shorthair Mix,Tan,Toy,Medium
+A687689,Buddha,6/22/15 14:06,Owner Surrender,Normal,Dog,Intact Male,11 months,American Bulldog Mix,White/Brown,Non-Sporting,Light/Medium
+A705920,*Dancer,6/22/15 16:13,Stray,Normal,Dog,Intact Female,11 months,Pit Bull/Labrador Retriever,Black/White,Pit Bull,Dark/Light
+A705938,Baby Bella,6/22/15 17:49,Stray,Normal,Dog,Intact Female,1 month,Chihuahua Shorthair Mix,Black/White,Toy,Dark/Light
+A693938,King,6/23/15 13:12,Stray,Normal,Dog,Neutered Male,8 months,Beagle Mix,Tan/White,Hound,Medium/Light
+A705368,*Maggie May,6/23/15 14:53,Stray,Normal,Dog,Intact Female,10 months,American Staffordshire Terrier Mix,Black Brindle/White,Terrier,Tricolor
+A552796,Jd,6/24/15 11:18,Owner Surrender,Normal,Dog,Neutered Male,7 years,Pit Bull Mix,Black/White,Pit Bull,Dark/Light
+A706248,Buda,6/26/15 14:59,Stray,Normal,Dog,Intact Male,4 months,Pit Bull Mix,Blue/White,Pit Bull,Medium/Light
+A706334,*Ace,6/27/15 14:56,Stray,Normal,Dog,Intact Male,2 years,Staffordshire Mix,White/Black,Terrier,Light/Dark
+A706356,Raider,6/27/15 16:51,Stray,Normal,Dog,Neutered Male,14 years,Basset Hound Mix,White/Brown,Hound,Light/Medium
+A623561,Marley,6/28/15 11:43,Stray,Normal,Dog,Neutered Male,6 years,Pit Bull Mix,Blue/White,Pit Bull,Medium/Light
+A706392,*Ozzy,6/28/15 13:27,Stray,Normal,Cat,Neutered Male,4 weeks,Domestic Medium Hair Mix,Blue Tabby/White,Domestic Medium Hair,Medium/Light
+A706393,*Charles,6/28/15 13:27,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Medium Hair Mix,Blue Tabby/White,Domestic Medium Hair,Medium/Light
+A706441,*Rupert,6/28/15 20:22,Stray,Normal,Dog,Intact Male,1 year,Australian Cattle Dog Mix,Tricolor,Herding,Tricolor
+A706513,*Becky,6/29/15 17:34,Stray,Normal,Dog,Intact Female,2 years,Pit Bull Mix,Black/White,Pit Bull,Dark/Light
+A706536,Butch,6/30/15 10:55,Public Assist,Normal,Dog,Neutered Male,5 years,English Bulldog,Tan/White,Non-Sporting,Medium/Light
+A706536,Butch,6/30/15 10:55,Public Assist,Normal,Dog,Neutered Male,5 years,English Bulldog,Tan/White,Non-Sporting,Medium/Light
+A706536,Butch,6/30/15 10:55,Public Assist,Normal,Dog,Neutered Male,5 years,English Bulldog,Tan/White,Non-Sporting,Medium/Light
+A706536,Butch,6/30/15 10:55,Public Assist,Normal,Dog,Neutered Male,5 years,English Bulldog,Tan/White,Non-Sporting,Medium/Light
+A706605,*Tina,6/30/15 22:08,Owner Surrender,Normal,Dog,Intact Female,11 months,Black Mouth Cur Mix,Brown/Black,Herding,Medium/Dark
+A706641,*Evie,7/1/15 12:14,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A706673,*Luis,7/1/15 18:49,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A706689,Karen,7/2/15 9:47,Stray,Normal,Dog,Intact Female,1 year,Catahoula/Labrador Retriever,Blue Merle,Herding,Light/Medium
+A706766,*Radar,7/3/15 11:10,Stray,Normal,Cat,Neutered Male,2 years,Domestic Shorthair Mix,White/Orange Tabby,Domestic Shorthair,Light/Medium
+A706870,*Tigger,7/4/15 12:34,Owner Surrender,Sick,Cat,Neutered Male,5 years,Domestic Shorthair Mix,Orange Tabby/White,Domestic Shorthair,Medium/Light
+A706874,Maya,7/4/15 12:49,Stray,Normal,Dog,Spayed Female,2 years,Australian Shepherd/Border Collie,Blue Merle/White,Herding,Light/Medium
+A706875,Milo,7/4/15 12:56,Stray,Normal,Dog,Intact Male,4 years,Pit Bull Mix,Blue/White,Pit Bull,Medium/Light
+A706897,*Bjorn,7/5/15 10:44,Stray,Normal,Dog,Intact Male,5 years,Pit Bull Mix,Brown/White,Pit Bull,Medium/Light
+A706906,*Poe,7/5/15 11:24,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A601482,Pepe,7/5/15 13:11,Stray,Normal,Dog,Neutered Male,7 years,Chow Chow/Australian Cattle Dog,Tan/Black,Non-Sporting,Medium/Dark
+A706928,Calvert,7/5/15 13:17,Stray,Normal,Cat,Neutered Male,4 years,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A706893,*Corina,7/5/15 14:48,Stray,Aged,Dog,Intact Female,5 years,Pit Bull Mix,Brown Brindle,Pit Bull,Medium
+A672136,Chica,7/5/15 20:23,Stray,Normal,Dog,Spayed Female,2 years,Pit Bull/Boxer,Red/White,Pit Bull,Medium/Light
+A706951,*Chomps,7/6/15 0:26,Stray,Normal,Dog,Intact Male,2 years,Pit Bull Mix,Brown Brindle/White,Pit Bull,Medium/Light
+A706977,*Darby,7/6/15 12:34,Stray,Normal,Other,Intact Male,1 year,Rabbit Sh Mix,Orange/Black,Unknown,Medium/Dark
+A707012,*Rosevelt,7/6/15 15:57,Stray,Normal,Other,Intact Male,2 years,New Zealand Wht Mix,White/Black,Unknown,Light/Dark
+A707069,*Cally,7/7/15 13:26,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Tortie,Domestic Shorthair,Dark/Medium
+A588601,Jackie,7/7/15 14:52,Stray,Normal,Dog,Spayed Female,6 years,Australian Cattle Dog Mix,Blue Merle/White,Herding,Light/Medium
+A588601,Jackie,7/7/15 14:52,Stray,Normal,Dog,Spayed Female,6 years,Australian Cattle Dog Mix,Blue Merle/White,Herding,Light/Medium
+A707046,Jameson,7/7/15 16:17,Public Assist,Normal,Dog,Neutered Male,3 years,Siberian Husky Mix,White/White,Working,Light
+A702481,Winnie,7/8/15 11:39,Owner Surrender,Normal,Dog,Spayed Female,3 years,Australian Shepherd Mix,Brown/White,Herding,Medium/Light
+A707119,Maxwell,7/8/15 11:56,Stray,Normal,Dog,Intact Male,2 years,Pit Bull Mix,Brown Brindle/White,Pit Bull,Medium/Light
+A707129,Manchas,7/8/15 12:53,Stray,Normal,Dog,Intact Male,11 months,Smooth Fox Terrier Mix,White/Brown,Terrier,Light/Medium
+A707160,Snoop,7/8/15 18:00,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Black Smoke,Domestic Shorthair,Dark
+A707163,Biggie,7/8/15 18:00,Stray,Normal,Cat,Intact Female,1 month,Domestic Medium Hair Mix,Tortie/Black Smoke,Domestic Medium Hair,Dark/Medium
+A658920,Scotty,7/9/15 13:45,Euthanasia Request,Normal,Dog,Neutered Male,7 years,Miniature Poodle Mix,White,Non-Sporting,Light
+A707251,Honey Bunny,7/10/15 13:23,Owner Surrender,Normal,Other,Intact Male,1 year,Dutch Mix,Black/White,Unknown,Dark/Light
+A707253,Goowa,7/10/15 13:54,Public Assist,Normal,Dog,Intact Male,3 years,Pit Bull Mix,Apricot/Brown,Pit Bull,Light/Medium
+A707301,*Barnaby,7/11/15 11:42,Stray,Injured,Dog,Intact Male,1 year,Pit Bull Mix,Brown,Pit Bull,Medium
+A702922,Lili,7/11/15 13:54,Public Assist,Normal,Dog,Spayed Female,1 year,Chihuahua Shorthair/Swedish Vallhund,Brown/Black,Toy,Medium/Dark
+A707375,*Candy Cane,7/11/15 18:19,Stray,Normal,Dog,Intact Female,5 months,Pit Bull,Brown/White,Pit Bull,Medium/Light
+A704526,Lucy,7/12/15 12:23,Stray,Normal,Dog,Spayed Female,6 months,Pointer Mix,White/Brown,Sporting,Light/Medium
+A707409,Leia,7/12/15 14:23,Stray,Normal,Dog,Intact Female,4 months,German Shepherd Mix,Black/Tan,Herding,Dark/Medium
+A707409,Leia,7/12/15 14:23,Stray,Normal,Dog,Intact Female,4 months,German Shepherd Mix,Black/Tan,Herding,Dark/Medium
+A707434,Choni,7/13/15 11:17,Stray,Normal,Dog,Intact Male,2 years,Chihuahua Shorthair Mix,Tan,Toy,Medium
+A707435,Thelma,7/13/15 11:22,Stray,Normal,Dog,Intact Female,2 months,German Shorthair Pointer Mix,Liver Tick,Herding,Light/Medium
+A707567,*Kong,7/14/15 18:02,Stray,Normal,Other,Neutered Male,1 year,Rabbit Sh Mix,Black,Unknown,Dark
+A633545,Sugar,7/15/15 3:02,Stray,Normal,Dog,Spayed Female,6 years,Staffordshire Mix,White,Terrier,Light
+A631433,Meathead,7/15/15 10:37,Public Assist,Normal,Dog,Neutered Male,7 years,Pit Bull/Catahoula,White/Blue Merle,Pit Bull,Light/Medium
+A707609,Libby,7/15/15 11:20,Stray,Normal,Dog,Intact Female,3 years,Black Mouth Cur/Australian Cattle Dog,Tan/White,Herding,Medium/Light
+A707666,Skoll,7/15/15 18:45,Stray,Normal,Cat,Intact Male,2 weeks,Domestic Shorthair Mix,Blue Tabby/White,Domestic Shorthair,Medium/Light
+A707711,*Rosie,7/16/15 16:56,Stray,Normal,Cat,Intact Female,1 weeks,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A707779,Roo,7/17/15 15:57,Stray,Normal,Dog,Spayed Female,7 months,Chihuahua Shorthair/Jack Russell Terrier,Tricolor,Terrier,Tricolor
+A707780,Oreo,7/17/15 15:57,Stray,Normal,Dog,Neutered Male,7 months,Chihuahua Shorthair/Jack Russell Terrier,Black/White,Terrier,Dark/Light
+A707781,Pearl,7/17/15 15:57,Stray,Normal,Dog,Spayed Female,7 months,Chihuahua Shorthair/Jack Russell Terrier,Black/White,Terrier,Dark/Light
+A707801,*Oz,7/18/15 11:44,Stray,Normal,Cat,Intact Male,2 months,Domestic Shorthair Mix,Cream Tabby/White,Domestic Shorthair,Light/Medium
+A707825,Rocco,7/18/15 14:57,Owner Surrender,Normal,Cat,Neutered Male,8 years,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A329502,Gizmo,7/19/15 12:54,Stray,Normal,Dog,Neutered Male,16 years,Chihuahua Shorthair,Brown,Toy,Medium
+A672679,Mellie,7/19/15 15:51,Owner Surrender,Normal,Dog,Spayed Female,4 years,Labrador Retriever/Boxer,Black/White,Sporting,Dark/Light
+A707896,*Tokyo,7/19/15 16:11,Stray,Normal,Cat,Intact Male,2 years,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A693283,Maximus,7/20/15 8:10,Stray,Normal,Dog,Neutered Male,2 years,Pit Bull Mix,Tan,Pit Bull,Medium
+A706536,Butch,7/20/15 10:19,Public Assist,Normal,Dog,Neutered Male,5 years,English Bulldog,Tan/White,Non-Sporting,Medium/Light
+A706536,Butch,7/20/15 10:19,Public Assist,Normal,Dog,Neutered Male,5 years,English Bulldog,Tan/White,Non-Sporting,Medium/Light
+A706536,Butch,7/20/15 10:19,Public Assist,Normal,Dog,Neutered Male,5 years,English Bulldog,Tan/White,Non-Sporting,Medium/Light
+A706536,Butch,7/20/15 10:19,Public Assist,Normal,Dog,Neutered Male,5 years,English Bulldog,Tan/White,Non-Sporting,Medium/Light
+A707979,,7/20/15 18:13,Stray,Normal,Cat,Intact Male,3 weeks,Siamese Mix,Lynx Point,Siamese,Light/Medium
+A707980,,7/20/15 18:13,Stray,Normal,Cat,Intact Male,3 weeks,Siamese Mix,Lynx Point,Siamese,Light/Medium
+A708091,Bee-Boh,7/22/15 15:52,Owner Surrender,Normal,Cat,Intact Female,1 year,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A708134,*Velo,7/23/15 13:40,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A703723,Brindlee,7/23/15 14:40,Owner Surrender,Normal,Dog,Spayed Female,2 years,Pit Bull/Pointer,Brown Brindle/White,Pit Bull,Medium/Light
+A703723,Brindlee,7/23/15 14:40,Owner Surrender,Normal,Dog,Spayed Female,2 years,Pit Bull/Pointer,Brown Brindle/White,Pit Bull,Medium/Light
+A708152,*Laurena,7/23/15 14:59,Stray,Normal,Cat,Intact Female,1 weeks,Domestic Medium Hair Mix,Blue Tabby/White,Domestic Medium Hair,Medium/Light
+A708153,*Lancelot,7/23/15 14:59,Stray,Normal,Cat,Intact Male,2 weeks,Domestic Medium Hair Mix,Brown Tabby/White,Domestic Medium Hair,Medium/Light
+A708230,Spike,7/24/15 13:53,Stray,Normal,Dog,Intact Male,2 years,Basset Hound Mix,White/Black,Hound,Light/Dark
+A705423,*Bronco,7/26/15 11:23,Owner Surrender,Normal,Dog,Neutered Male,5 months,German Shepherd/Labrador Retriever,Black/White,Herding,Dark/Light
+A708364,,7/26/15 15:16,Stray,Normal,Cat,Intact Male,5 months,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A708397,Gizmo,7/27/15 13:41,Owner Surrender,Normal,Cat,Neutered Male,6 years,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A708411,Bravi,7/27/15 15:16,Owner Surrender,Normal,Dog,Intact Male,2 years,Carolina Dog Mix,Red/White,Non-Sporting,Medium/Light
+A706536,Butch,7/27/15 16:02,Public Assist,Normal,Dog,Neutered Male,5 years,English Bulldog,Tan/White,Non-Sporting,Medium/Light
+A706536,Butch,7/27/15 16:02,Public Assist,Normal,Dog,Neutered Male,5 years,English Bulldog,Tan/White,Non-Sporting,Medium/Light
+A706536,Butch,7/27/15 16:02,Public Assist,Normal,Dog,Neutered Male,5 years,English Bulldog,Tan/White,Non-Sporting,Medium/Light
+A706536,Butch,7/27/15 16:02,Public Assist,Normal,Dog,Neutered Male,5 years,English Bulldog,Tan/White,Non-Sporting,Medium/Light
+A693320,Asuna,7/27/15 16:06,Owner Surrender,Normal,Cat,Spayed Female,6 years,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A708485,*Snickers,7/28/15 11:58,Stray,Normal,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Tortie,Domestic Shorthair,Dark/Medium
+A708487,*Kit Kat,7/28/15 11:58,Stray,Normal,Cat,Neutered Male,2 months,Domestic Shorthair Mix,Orange Tabby,Domestic Shorthair,Medium
+A708496,*Stella,7/28/15 13:55,Stray,Nursing,Cat,Intact Female,2 years,Domestic Shorthair Mix,Brown Tabby/White,Domestic Shorthair,Medium/Light
+A708499,*Junie,7/28/15 13:55,Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair Mix,White/Brown Tabby,Domestic Shorthair,Light/Medium
+A699731,Mugsy,7/29/15 7:18,Owner Surrender,Normal,Cat,Neutered Male,7 years,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A689705,Tux,7/29/15 12:59,Owner Surrender,Normal,Dog,Neutered Male,1 year,Pit Bull Mix,Black/White,Pit Bull,Dark/Light
+A708593,Bree,7/29/15 14:47,Owner Surrender,Sick,Cat,Spayed Female,5 years,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A708629,Frankie,7/29/15 16:48,Stray,Normal,Dog,Intact Female,2 years,Labrador Retriever/Catahoula,Brown/White,Sporting,Medium/Light
+A708629,Frankie,7/29/15 16:48,Stray,Normal,Dog,Intact Female,2 years,Labrador Retriever/Catahoula,Brown/White,Sporting,Medium/Light
+A646776,Hercules,7/29/15 18:51,Public Assist,Normal,Dog,Intact Male,3 years,German Shepherd,Black/Tan,Herding,Dark/Medium
+A708645,*Spring,7/29/15 22:49,Stray,Nursing,Cat,Intact Female,2 weeks,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A708646,*Summer,7/29/15 22:49,Stray,Nursing,Cat,Intact Female,2 weeks,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A708737,Maverick,7/30/15 18:50,Stray,Normal,Dog,Intact Male,2 years,German Shepherd/Anatol Shepherd,Sable,Herding,Medium/Dark
+A708737,Maverick,7/30/15 18:50,Stray,Normal,Dog,Intact Male,2 years,German Shepherd/Anatol Shepherd,Sable,Herding,Medium/Dark
+A708738,*Sweet Tart,7/30/15 18:59,Stray,Nursing,Cat,Intact Female,1 year,Domestic Shorthair Mix,Calico,Domestic Shorthair,Tricolor
+A708740,*Twix,7/30/15 18:59,Stray,Nursing,Cat,Intact Female,2 weeks,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A708741,*Kit Kat,7/30/15 18:59,Stray,Nursing,Cat,Intact Female,2 weeks,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A708777,Emma,7/31/15 13:40,Stray,Normal,Dog,Intact Female,3 years,Chihuahua Shorthair/Manchester Terrier,Black/Brown,Terrier,Dark/Medium
+A707253,Goowa,8/1/15 12:20,Public Assist,Normal,Dog,Intact Male,3 years,Pit Bull Mix,Apricot/Brown,Pit Bull,Light/Medium
+A708831,,8/1/15 12:21,Stray,Nursing,Cat,Intact Female,2 days,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A708831,,8/1/15 12:21,Stray,Nursing,Cat,Intact Female,2 days,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A708832,,8/1/15 12:21,Stray,Nursing,Cat,Intact Male,2 days,Domestic Shorthair Mix,Blue/White,Domestic Shorthair,Medium/Light
+A708834,,8/1/15 12:21,Stray,Nursing,Cat,Intact Female,2 days,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A708835,,8/1/15 12:21,Stray,Nursing,Cat,Intact Female,2 days,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A708836,,8/1/15 12:21,Stray,Nursing,Cat,Intact Male,2 days,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A708829,*Eva,8/1/15 12:21,Stray,Nursing,Cat,Intact Female,1 year,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A708830,,8/1/15 12:21,Stray,Nursing,Cat,Intact Female,2 days,Domestic Shorthair Mix,Blue,Domestic Shorthair,Medium
+A708830,,8/1/15 12:21,Stray,Nursing,Cat,Intact Female,2 days,Domestic Shorthair Mix,Blue,Domestic Shorthair,Medium
+A708854,*Fall,8/1/15 14:28,Stray,Normal,Cat,Intact Female,3 weeks,Domestic Shorthair Mix,Brown Tabby/White,Domestic Shorthair,Medium/Light
+A708855,Steve,8/1/15 14:39,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A708890,*Obsidian,8/2/15 11:30,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A708891,*Quartz,8/2/15 11:30,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Calico,Domestic Shorthair,Tricolor
+A708903,*Dottie,8/2/15 12:27,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Orange Tabby,Domestic Shorthair,Medium
+A708904,*Dawson,8/2/15 12:27,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Cream Tabby,Domestic Shorthair,Light/Medium
+A708904,*Dawson,8/2/15 12:27,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Cream Tabby,Domestic Shorthair,Light/Medium
+A708905,*Dale,8/2/15 12:27,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Blue Tabby,Domestic Shorthair,Medium/Light
+A708906,*Delia,8/2/15 12:27,Stray,Normal,Cat,Intact Female,1 month,Domestic Longhair Mix,Orange Tabby/White,Domestic Longhair,Medium/Light
+A594739,Stan,8/3/15 11:06,Owner Surrender,Normal,Dog,Neutered Male,6 years,Staffordshire Mix,Tan/White,Terrier,Medium/Light
+A708999,*Daisy,8/3/15 18:28,Stray,Normal,Dog,Intact Female,8 months,Australian Cattle Dog Mix,Brown Brindle/White,Herding,Medium/Light
+A709020,Juju,8/4/15 11:10,Euthanasia Request,Normal,Dog,Spayed Female,13 years,Labrador Retriever Mix,Yellow,Sporting,Light
+A709040,Raven,8/4/15 11:20,Owner Surrender,Normal,Dog,Intact Female,4 months,Chihuahua Shorthair Mix,Black/White,Toy,Dark/Light
+A709064,Marley,8/4/15 14:52,Stray,Normal,Cat,Intact Male,2 months,Domestic Shorthair Mix,Brown Tabby/White,Domestic Shorthair,Medium/Light
+A709065,Graham,8/4/15 14:52,Stray,Normal,Cat,Intact Male,2 months,Domestic Longhair Mix,Brown Tabby/White,Domestic Longhair,Medium/Light
+A709112,*Jasmine,8/5/15 11:30,Stray,Normal,Dog,Intact Female,6 years,Pit Bull Mix,White/Brown Brindle,Pit Bull,Light/Medium
+A709231,Shaggy,8/6/15 11:54,Stray,Injured,Dog,Neutered Male,9 months,Manchester Terrier Mix,Black/Tan,Terrier,Dark/Medium
+A709232,,8/6/15 12:06,Stray,Normal,Cat,Intact Male,5 months,Domestic Shorthair Mix,Orange Tabby,Domestic Shorthair,Medium
+A690998,Bon Bon,8/6/15 12:35,Stray,Normal,Dog,Intact Male,3 years,Miniature Poodle Mix,White,Non-Sporting,Light
+A709258,Bull,8/6/15 14:53,Owner Surrender,Normal,Cat,Intact Male,2 months,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A709297,Sirius,8/7/15 11:17,Stray,Normal,Dog,Neutered Male,1 year,German Shepherd Mix,Black/White,Herding,Dark/Light
+A709334,*Larry,8/7/15 13:59,Stray,Normal,Cat,Neutered Male,3 years,Domestic Shorthair Mix,Orange Tabby,Domestic Shorthair,Medium
+A709334,*Larry,8/7/15 13:59,Stray,Normal,Cat,Neutered Male,3 years,Domestic Shorthair Mix,Orange Tabby,Domestic Shorthair,Medium
+A707046,Jameson,8/7/15 18:56,Owner Surrender,Normal,Dog,Neutered Male,3 years,Siberian Husky Mix,White/White,Working,Light
+A709407,*Barbarella,8/8/15 14:40,Stray,Normal,Dog,Spayed Female,2 years,Boxer Mix,Tan/White,Working,Medium/Light
+A708230,Spike,8/9/15 11:28,Owner Surrender,Normal,Dog,Neutered Male,3 years,Basset Hound Mix,White/Black,Hound,Light/Dark
+A709485,*Lancelot,8/9/15 16:42,Stray,Normal,Cat,Neutered Male,2 years,Siamese Mix,Flame Point,Siamese,Light
+A709493,*Gus,8/10/15 8:38,Stray,Normal,Cat,Neutered Male,12 years,Domestic Shorthair Mix,White/Black,Domestic Shorthair,Light/Dark
+A709511,*Toad,8/10/15 11:57,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Medium Hair Mix,White/Black,Domestic Medium Hair,Light/Dark
+A709536,*Ringo,8/10/15 14:23,Stray,Normal,Dog,Intact Male,7 months,Pit Bull/Labrador Retriever,Black/White,Pit Bull,Dark/Light
+A681179,Tyson,8/10/15 14:42,Owner Surrender,Normal,Dog,Neutered Male,1 year,Catahoula Mix,Fawn/White,Herding,Light
+A695189,Gunner,8/10/15 23:58,Stray,Normal,Dog,Neutered Male,10 months,Border Collie/German Shepherd,Black/White,Herding,Dark/Light
+A695189,Gunner,8/10/15 23:58,Stray,Normal,Dog,Neutered Male,10 months,Border Collie/German Shepherd,Black/White,Herding,Dark/Light
+A709588,Eddie,8/11/15 9:31,Stray,Aged,Dog,Neutered Male,9 years,Collie Rough Mix,Brown,Herding,Medium
+A704526,Lucy,8/11/15 10:53,Stray,Normal,Dog,Spayed Female,7 months,Pointer Mix,White/Brown,Sporting,Light/Medium
+A709607,,8/11/15 12:04,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A709691,*Chloe,8/12/15 12:25,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A709724,Tatum,8/12/15 15:14,Stray,Normal,Cat,Intact Female,3 weeks,Domestic Shorthair Mix,Calico,Domestic Shorthair,Tricolor
+A708737,Maverick,8/12/15 18:05,Owner Surrender,Normal,Dog,Neutered Male,2 years,German Shepherd/Anatol Shepherd,Sable,Herding,Medium/Dark
+A708737,Maverick,8/12/15 18:05,Owner Surrender,Normal,Dog,Neutered Male,2 years,German Shepherd/Anatol Shepherd,Sable,Herding,Medium/Dark
+A709750,Moose,8/12/15 18:29,Stray,Normal,Cat,Intact Male,3 weeks,Domestic Medium Hair Mix,Orange Tabby/White,Domestic Medium Hair,Medium/Light
+A709752,*Jessamine,8/12/15 18:29,Stray,Normal,Cat,Intact Female,3 weeks,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A709754,Skitches,8/12/15 18:29,Stray,Normal,Cat,Intact Female,3 weeks,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A703649,*Kismit,8/13/15 11:00,Owner Surrender,Normal,Dog,Spayed Female,3 years,Pit Bull Mix,White/Brown,Pit Bull,Light/Medium
+A709784,Max,8/13/15 11:20,Stray,Normal,Dog,Intact Male,1 year,Miniature Pinscher Mix,Black/Tan,Toy,Dark/Medium
+A709859,Jenna,8/13/15 17:13,Owner Surrender,Normal,Dog,Neutered Male,3 years,English Springer Spaniel Mix,White/Black,Sporting,Light/Dark
+A709918,Francis,8/14/15 14:05,Stray,Normal,Dog,Intact Female,5 months,Australian Cattle Dog Mix,White/Brown,Herding,Light/Medium
+A568123,Miley,8/14/15 14:44,Public Assist,Normal,Dog,Neutered Male,5 years,Chihuahua Shorthair Mix,Black/Tan,Toy,Dark/Medium
+A704697,Captain,8/14/15 16:01,Public Assist,Normal,Dog,Intact Male,1 year,German Shepherd Mix,Sable,Herding,Medium/Dark
+A710006,*Chunk,8/15/15 16:57,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A684412,Ben,8/15/15 23:30,Stray,Normal,Dog,Neutered Male,3 years,Catahoula Mix,Blue Merle,Herding,Light/Medium
+A684412,Ben,8/15/15 23:30,Stray,Normal,Dog,Neutered Male,3 years,Catahoula Mix,Blue Merle,Herding,Light/Medium
+A710030,*Pepper,8/16/15 11:40,Stray,Normal,Dog,Intact Female,3 weeks,Redbone Hound Mix,Brown/White,Hound,Medium/Light
+A415823,Two,8/16/15 12:21,Stray,Normal,Dog,Neutered Male,12 years,Pit Bull Mix,Tan,Pit Bull,Medium
+A708855,Steve,8/17/15 13:27,Owner Surrender,Normal,Cat,Neutered Male,2 months,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A710100,*Luci,8/17/15 16:43,Stray,Normal,Dog,Intact Female,4 years,Staffordshire,White/Tan,Terrier,Light/Medium
+A710104,Snow White,8/17/15 17:11,Stray,Normal,Dog,Intact Female,2 years,American Bulldog Mix,White,Non-Sporting,Light
+A710106,Cody,8/17/15 18:23,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A710108,*Charles,8/17/15 18:23,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A710130,Tango,8/18/15 11:46,Public Assist,Injured,Cat,Intact Male,1 month,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A710125,Maximus,8/18/15 11:46,Public Assist,Injured,Cat,Intact Male,1 month,Domestic Shorthair Mix,Orange Tabby,Domestic Shorthair,Medium
+A710137,Sissy,8/18/15 13:04,Owner Surrender,Normal,Cat,Spayed Female,3 years,Domestic Shorthair Mix,Calico,Domestic Shorthair,Tricolor
+A710139,Bastet,8/18/15 13:04,Owner Surrender,Normal,Cat,Spayed Female,3 years,Domestic Longhair,Calico,Domestic Longhair,Tricolor
+A703506,Nala,8/18/15 15:26,Owner Surrender,Normal,Dog,Intact Female,1 year,Pit Bull Mix,Brown Brindle,Pit Bull,Medium
+A703506,Nala,8/18/15 15:26,Owner Surrender,Normal,Dog,Intact Female,1 year,Pit Bull Mix,Brown Brindle,Pit Bull,Medium
+A710164,*Brandy,8/19/15 10:50,Stray,Normal,Dog,Intact Female,4 years,Pit Bull Mix,White/Red,Pit Bull,Light/Medium
+A710166,*Melody,8/19/15 11:03,Stray,Nursing,Cat,Intact Female,1 year,Domestic Shorthair Mix,Brown Tabby/White,Domestic Shorthair,Medium/Light
+A710167,*Skeeter,8/19/15 11:03,Stray,Nursing,Cat,Intact Male,2 weeks,Domestic Shorthair Mix,Brown Tabby/White,Domestic Shorthair,Medium/Light
+A710168,,8/19/15 11:03,Stray,Nursing,Cat,Intact Female,2 weeks,Domestic Shorthair Mix,Brown Tabby/White,Domestic Shorthair,Medium/Light
+A710169,,8/19/15 11:03,Stray,Nursing,Cat,Intact Male,2 weeks,Domestic Shorthair Mix,Brown Tabby/White,Domestic Shorthair,Medium/Light
+A710170,,8/19/15 11:03,Stray,Nursing,Cat,Intact Male,2 weeks,Domestic Shorthair Mix,Lynx Point,Domestic Shorthair,Light/Medium
+A710171,,8/19/15 11:03,Stray,Nursing,Cat,Intact Male,2 weeks,Domestic Shorthair Mix,Lynx Point,Domestic Shorthair,Light/Medium
+A710189,Bear,8/19/15 15:16,Public Assist,Normal,Dog,Intact Male,4 years,American Bulldog Mix,Black/White,Non-Sporting,Dark/Light
+A710226,Rosie,8/20/15 8:02,Stray,Sick,Dog,Intact Female,1 weeks,Toy Fox Terrier Mix,White/Tricolor,Terrier,Tricolor
+A710295,*Rza,8/20/15 18:37,Stray,Normal,Dog,Intact Male,1 year,Pit Bull Mix,Chocolate/White,Pit Bull,Dark/Light
+A710347,Lulu,8/22/15 0:50,Public Assist,Normal,Dog,Spayed Female,7 months,Labrador Retriever Mix,Black,Sporting,Dark
+A710348,*Jewel,8/22/15 7:39,Stray,Injured,Cat,Intact Female,1 month,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A710398,*Baxter,8/22/15 13:22,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A710399,,8/22/15 13:22,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A710400,*Brinley,8/22/15 13:22,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A710401,,8/22/15 13:22,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Shorthair Mix,Tortie,Domestic Shorthair,Dark/Medium
+A710419,*Darby,8/22/15 16:09,Stray,Normal,Cat,Intact Female,2 years,Domestic Shorthair Mix,Tortie,Domestic Shorthair,Dark/Medium
+A658920,Scotty,8/23/15 8:26,Stray,Normal,Dog,Neutered Male,8 years,Miniature Poodle Mix,White,Non-Sporting,Light
+A702481,Winnie,8/23/15 11:17,Public Assist,Normal,Dog,Spayed Female,3 years,Australian Shepherd Mix,Brown/White,Herding,Medium/Light
+A643862,Brownie,8/23/15 11:50,Stray,Normal,Dog,Neutered Male,5 years,Beagle/Australian Cattle Dog,Red Tick/Brown,Hound,Light/Medium
+A710471,*Jimmy,8/23/15 14:03,Stray,Normal,Dog,Intact Male,2 years,Pharaoh Hound Mix,Brown/White,Hound,Medium/Light
+A710474,Lexy,8/23/15 14:48,Stray,Normal,Dog,Intact Female,2 years,Pit Bull Mix,Blue Tiger,Pit Bull,Medium
+A710477,Yogi,8/23/15 15:31,Owner Surrender,Normal,Dog,Intact Male,5 years,Australian Cattle Dog/Cardigan Welsh Corgi,Tan,Herding,Medium
+A710483,Eta,8/23/15 16:50,Stray,Normal,Cat,Intact Male,3 weeks,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A710491,*Cupcake,8/24/15 8:40,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Longhair Mix,Black/White,Domestic Longhair,Dark/Light
+A710492,*Fudge,8/24/15 8:40,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Longhair Mix,Brown Tabby,Domestic Longhair,Medium/Light
+A710493,*Milkshake,8/24/15 8:40,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Longhair Mix,Blue Tabby,Domestic Longhair,Medium/Light
+A710511,*Henrietta,8/24/15 11:30,Stray,Normal,Dog,Spayed Female,7 years,Dachshund Longhair Mix,Red,Hound,Medium
+A710512,*Henry,8/24/15 11:30,Stray,Normal,Dog,Neutered Male,7 years,Dachshund Mix,Red,Hound,Medium
+A710521,*Fred,8/24/15 12:06,Stray,Normal,Cat,Intact Male,3 weeks,Domestic Shorthair Mix,Orange Tabby/White,Domestic Shorthair,Medium/Light
+A710522,*Ginger,8/24/15 12:06,Stray,Normal,Cat,Intact Female,3 weeks,Domestic Shorthair Mix,Brown Tabby/White,Domestic Shorthair,Medium/Light
+A710538,Olive,8/24/15 13:25,Stray,Normal,Cat,Intact Female,1 weeks,Domestic Shorthair Mix,White/Blue,Domestic Shorthair,Light/Medium
+A710539,*Alfonso,8/24/15 13:25,Stray,Normal,Cat,Intact Female,1 weeks,Domestic Shorthair Mix,White/Black,Domestic Shorthair,Light/Dark
+A710547,*Sidney,8/24/15 13:50,Stray,Normal,Cat,Intact Male,3 weeks,Domestic Medium Hair Mix,Brown Tabby/White,Domestic Medium Hair,Medium/Light
+A710566,*Ollily,8/24/15 17:22,Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A710567,*Otis,8/24/15 17:22,Stray,Nursing,Cat,Intact Male,0 years,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A710568,*Orson,8/24/15 17:22,Stray,Nursing,Cat,Intact Female,0 years,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A710660,Hannah,8/25/15 18:51,Owner Surrender,Normal,Cat,Spayed Female,13 years,Domestic Longhair Mix,Tortie,Domestic Longhair,Dark/Medium
+A710679,Jeramiah,8/26/15 11:00,Owner Surrender,Normal,Cat,Neutered Male,8 years,Domestic Longhair Mix,Black,Domestic Longhair,Dark
+A709407,*Barbarella,8/26/15 11:27,Owner Surrender,Normal,Dog,Spayed Female,2 years,Boxer Mix,Tan/White,Working,Medium/Light
+A710727,*Zoey,8/26/15 18:39,Stray,Normal,Cat,Intact Female,3 weeks,Domestic Shorthair Mix,Torbie,Domestic Shorthair,Medium/Dark
+A710728,*Zach,8/26/15 18:39,Stray,Normal,Cat,Intact Male,3 weeks,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A694301,Legend,8/27/15 13:50,Stray,Normal,Dog,Neutered Male,1 year,Pit Bull/Alaskan Husky,Tricolor,Pit Bull,Tricolor
+A549056,Miss Mel,8/27/15 13:53,Stray,Normal,Cat,Spayed Female,10 years,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A710778,Nash,8/27/15 14:12,Stray,Normal,Dog,Intact Male,2 years,Pit Bull Mix,Tan/White,Pit Bull,Medium/Light
+A710781,Storm,8/27/15 14:53,Owner Surrender,Normal,Cat,Spayed Female,8 years,Domestic Shorthair Mix,Blue/Orange,Domestic Shorthair,Medium
+A710738,Kit-Kat,8/27/15 16:09,Stray,Nursing,Cat,Intact Female,3 days,Domestic Shorthair Mix,Blue Tabby,Domestic Shorthair,Medium/Light
+A710739,*Denham,8/27/15 16:09,Stray,Nursing,Cat,Intact Male,3 days,Domestic Shorthair Mix,Blue Tabby,Domestic Shorthair,Medium/Light
+A710740,,8/27/15 16:09,Stray,Nursing,Cat,Intact Male,3 days,Domestic Shorthair Mix,Blue,Domestic Shorthair,Medium
+A710741,*Devon,8/27/15 16:09,Stray,Nursing,Cat,Intact Male,3 days,Domestic Shorthair Mix,Cream Tabby/White,Domestic Shorthair,Light/Medium
+A710795,Jasmin,8/27/15 16:28,Owner Surrender,Normal,Cat,Spayed Female,9 years,Domestic Shorthair Mix,Brown Tabby/White,Domestic Shorthair,Medium/Light
+A710796,Missy,8/27/15 16:28,Owner Surrender,Normal,Cat,Spayed Female,9 years,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A646897,Jojo,8/27/15 19:07,Owner Surrender,Normal,Dog,Neutered Male,2 years,Pit Bull,Red/White,Pit Bull,Medium/Light
+A710810,Tula,8/28/15 7:24,Stray,Injured,Dog,Intact Female,4 months,Golden Retriever/Collie Rough,Brown/Tan,Sporting,Medium
+A710810,Tula,8/28/15 7:24,Stray,Injured,Dog,Intact Female,4 months,Golden Retriever/Collie Rough,Brown/Tan,Sporting,Medium
+A710853,Oso,8/29/15 1:38,Public Assist,Normal,Dog,Intact Male,2 years,German Shepherd Mix,Brown,Herding,Medium
+A702075,Rocky,8/29/15 13:12,Owner Surrender,Normal,Dog,Neutered Male,10 years,Rottweiler/Rhod Ridgeback,Brown/White,Working,Medium/Light
+A710898,*Winston,8/29/15 14:36,Stray,Normal,Dog,Neutered Male,2 years,Labrador Retriever Mix,Black,Sporting,Dark
+A710898,*Winston,8/29/15 14:36,Stray,Normal,Dog,Neutered Male,2 years,Labrador Retriever Mix,Black,Sporting,Dark
+A710916,*Galinda,8/30/15 8:25,Stray,Sick,Cat,Intact Female,1 month,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A710942,,8/30/15 13:36,Stray,Normal,Cat,Intact Male,5 months,Domestic Shorthair Mix,Brown Tabby/White,Domestic Shorthair,Medium/Light
+A710957,Bruce,8/30/15 16:33,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A701979,Winnie,8/30/15 17:11,Owner Surrender,Normal,Dog,Spayed Female,10 years,Labrador Retriever Mix,Tan,Sporting,Medium
+A710966,*Gilbert,8/31/15 7:04,Stray,Nursing,Cat,Neutered Male,4 years,Domestic Longhair Mix,Orange Tabby,Domestic Longhair,Medium
+A710966,*Gilbert,8/31/15 7:04,Stray,Nursing,Cat,Neutered Male,4 years,Domestic Longhair Mix,Orange Tabby,Domestic Longhair,Medium
+A650619,Tate,8/31/15 13:16,Stray,Normal,Dog,Neutered Male,8 years,German Shepherd/Labrador Retriever,Tricolor,Herding,Tricolor
+A711007,Penny,8/31/15 16:49,Stray,Normal,Dog,Intact Female,1 year,Staffordshire Mix,Brown/White,Terrier,Medium/Light
+A711018,Milo,8/31/15 18:32,Owner Surrender,Normal,Dog,Intact Male,2 years,Australian Cattle Dog Mix,Brown/White,Herding,Medium/Light
+A711018,Milo,8/31/15 18:32,Owner Surrender,Normal,Dog,Intact Male,2 years,Australian Cattle Dog Mix,Brown/White,Herding,Medium/Light
+A711041,Angel Girl,9/1/15 10:45,Owner Surrender,Normal,Cat,Spayed Female,12 years,Domestic Shorthair Mix,White/Brown Tabby,Domestic Shorthair,Light/Medium
+A711036,Blackie Boy,9/1/15 10:45,Owner Surrender,Normal,Cat,Intact Male,1 year,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A711064,*Avery,9/1/15 12:21,Stray,Injured,Cat,Intact Female,2 months,Siamese Mix,Lilac Point,Siamese,Light/Medium
+A613650,Diamond,9/1/15 13:47,Owner Surrender,Normal,Dog,Spayed Female,5 years,American Pit Bull Terrier Mix,Fawn/White,Terrier,Light
+A711096,Dahlia,9/1/15 16:33,Stray,Normal,Dog,Spayed Female,2 years,American Staffordshire Terrier Mix,Blue/White,Terrier,Medium/Light
+A711130,*Clara,9/2/15 13:45,Stray,Normal,Dog,Intact Female,2 years,Pit Bull Mix,Blue/White,Pit Bull,Medium/Light
+A711173,*Endora,9/2/15 21:06,Stray,Normal,Cat,Intact Female,2 months,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A670612,Sheila,9/3/15 13:04,Stray,Normal,Dog,Intact Female,4 years,Beagle,Brown/White,Hound,Medium/Light
+A702922,Lili,9/3/15 13:57,Public Assist,Normal,Dog,Spayed Female,1 year,Chihuahua Shorthair/Swedish Vallhund,Brown/Black,Toy,Medium/Dark
+A711222,Capone,9/4/15 1:52,Stray,Normal,Dog,Intact Male,3 years,Pit Bull Mix,Brown/White,Pit Bull,Medium/Light
+A711231,*Ebby,9/4/15 10:41,Stray,Normal,Dog,Intact Female,2 years,Pit Bull Mix,White/Blue,Pit Bull,Light/Medium
+A711249,,9/4/15 12:23,Stray,Sick,Cat,Intact Male,3 weeks,Domestic Shorthair Mix,Orange Tabby,Domestic Shorthair,Medium
+A711250,,9/4/15 12:23,Stray,Sick,Cat,Intact Male,3 weeks,Domestic Shorthair Mix,Orange Tabby,Domestic Shorthair,Medium
+A711251,,9/4/15 12:23,Stray,Sick,Cat,Intact Female,3 weeks,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A711258,Cash,9/4/15 13:31,Owner Surrender,Normal,Dog,Neutered Male,3 years,Boxer Mix,White/Brown Brindle,Working,Light/Medium
+A711257,,9/4/15 14:00,Stray,Nursing,Dog,Intact Female,2 years,Papillon/Skye Terrier,White/Brown,Terrier,Light/Medium
+A711259,,9/4/15 14:00,Stray,Nursing,Dog,Intact Female,1 week,Flat Coat Retriever/Papillon,Black,Sporting,Dark
+A701901,Sasha,9/4/15 16:55,Stray,Normal,Dog,Spayed Female,1 year,Pit Bull Mix,Blue,Pit Bull,Medium
+A701901,Sasha,9/4/15 16:55,Stray,Normal,Dog,Spayed Female,1 year,Pit Bull Mix,Blue,Pit Bull,Medium
+A711297,*Billy,9/5/15 10:24,Stray,Normal,Dog,Intact Female,1 year,Pit Bull Mix,Blue/White,Pit Bull,Medium/Light
+A709918,Francis,9/5/15 11:04,Owner Surrender,Normal,Dog,Spayed Female,6 months,Australian Cattle Dog Mix,White/Brown,Herding,Light/Medium
+A711319,*Leah,9/5/15 12:37,Stray,Normal,Cat,Intact Female,1 year,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A711320,Max,9/5/15 12:37,Stray,Normal,Cat,Intact Male,4 days,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A711322,Dixie,9/5/15 12:37,Stray,Normal,Cat,Intact Female,4 days,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A711324,,9/5/15 12:37,Stray,Normal,Cat,Intact Female,4 days,Domestic Shorthair Mix,Blue,Domestic Shorthair,Medium
+A711325,,9/5/15 12:37,Stray,Normal,Cat,Intact Female,4 days,Domestic Shorthair Mix,Blue,Domestic Shorthair,Medium
+A711330,*Cassie,9/5/15 12:37,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A711334,Gabby,9/5/15 13:02,Owner Surrender,Normal,Cat,Spayed Female,7 years,Domestic Longhair Mix,Blue/White,Domestic Longhair,Medium/Light
+A711341,*Duck,9/5/15 14:06,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A711342,*Goose,9/5/15 14:06,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Shorthair Mix,Orange Tabby,Domestic Shorthair,Medium
+A711343,*Chicken,9/5/15 14:06,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A711362,*Oscar,9/5/15 16:18,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Orange Tabby/White,Domestic Shorthair,Medium/Light
+A711363,*Odette,9/5/15 16:18,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Tortie,Domestic Shorthair,Dark/Medium
+A711461,Autumn,9/7/15 11:42,Owner Surrender,Normal,Dog,Spayed Female,6 years,Black Mouth Cur Mix,Fawn/White,Herding,Light
+A711463,*Gary,9/7/15 12:02,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A711463,*Gary,9/7/15 12:02,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A711464,*Angel,9/7/15 12:02,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Blue Tabby/White,Domestic Shorthair,Medium/Light
+A711465,*Gladys,9/7/15 12:02,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Brown Tabby/White,Domestic Shorthair,Medium/Light
+A711467,*Peanut,9/7/15 12:42,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A711482,*Fred,9/7/15 13:43,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A711483,*Barney,9/7/15 13:43,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Shorthair Mix,Black Smoke,Domestic Shorthair,Dark
+A711486,L.C.,9/7/15 14:14,Owner Surrender,Normal,Cat,Neutered Male,9 years,Domestic Longhair Mix,Black/White,Domestic Longhair,Dark/Light
+A711494,*Celeste,9/7/15 14:39,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Orange Tabby/White,Domestic Shorthair,Medium/Light
+A696688,Mari,9/7/15 16:41,Owner Surrender,Normal,Cat,Spayed Female,3 years,Domestic Shorthair Mix,Calico/White,Domestic Shorthair,Tricolor
+A711522,Junebug,9/7/15 23:30,Stray,Normal,Dog,Intact Female,1 year,Pit Bull Mix,Red/White,Pit Bull,Medium/Light
+A711552,Quincy,9/8/15 16:35,Stray,Normal,Dog,Neutered Male,4 years,American Staffordshire Terrier Mix,Red/White,Terrier,Medium/Light
+A711553,*Abbott,9/8/15 17:07,Stray,Normal,Dog,Intact Male,4 years,Cardigan Welsh Corgi Mix,Tricolor,Herding,Tricolor
+A711568,*Dolly,9/9/15 8:08,Stray,Injured,Cat,Intact Female,6 years,Domestic Shorthair Mix,Brown Tabby/Black,Domestic Shorthair,Tricolor
+A711571,Reggie Veggi,9/9/15 10:47,Stray,Sick,Dog,Intact Male,3 years,Border Collie Mix,Black/White,Herding,Dark/Light
+A711582,Angelina,9/9/15 11:43,Stray,Normal,Dog,Intact Female,1 year,Pit Bull Mix,Black/White,Pit Bull,Dark/Light
+A711582,Angelina,9/9/15 11:43,Stray,Normal,Dog,Intact Female,1 year,Pit Bull Mix,Black/White,Pit Bull,Dark/Light
+A711582,Angelina,9/9/15 11:43,Stray,Normal,Dog,Intact Female,1 year,Pit Bull Mix,Black/White,Pit Bull,Dark/Light
+A711585,,9/9/15 12:16,Stray,Normal,Dog,Intact Female,1 month,Labrador Retriever Mix,Black/White,Sporting,Dark/Light
+A711602,Alphones,9/9/15 14:10,Stray,Normal,Dog,Neutered Male,2 years,Labrador Retriever/Mastiff,Red/White,Sporting,Medium/Light
+A711602,Alphones,9/9/15 14:10,Stray,Normal,Dog,Neutered Male,2 years,Labrador Retriever/Mastiff,Red/White,Sporting,Medium/Light
+A711612,Rambo,9/9/15 16:16,Stray,Normal,Dog,Neutered Male,4 years,Beauceron Mix,Black/Tan,Herding,Dark/Medium
+A711612,Rambo,9/9/15 16:16,Stray,Normal,Dog,Neutered Male,4 years,Beauceron Mix,Black/Tan,Herding,Dark/Medium
+A711613,Lola,9/9/15 16:16,Stray,Normal,Dog,Spayed Female,1 year,Beauceron Mix,Black/Tan,Herding,Dark/Medium
+A711613,Lola,9/9/15 16:16,Stray,Normal,Dog,Spayed Female,1 year,Beauceron Mix,Black/Tan,Herding,Dark/Medium
+A711622,,9/9/15 17:50,Stray,Normal,Dog,Intact Male,1 month,Labrador Retriever Mix,Black/White,Sporting,Dark/Light
+A711623,Emma,9/9/15 18:19,Stray,Normal,Dog,Intact Female,3 years,Black Mouth Cur Mix,Brown/White,Herding,Medium/Light
+A711624,Rambo,9/9/15 18:29,Public Assist,Normal,Dog,Intact Male,2 years,American Pit Bull Terrier Mix,White/Blue,Terrier,Light/Medium
+A711657,*Mina,9/10/15 12:57,Stray,Normal,Dog,Intact Female,3 years,Pit Bull Mix,Black/White,Pit Bull,Dark/Light
+A711660,*Dinah,9/10/15 13:09,Owner Surrender,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A711661,*Danzig,9/10/15 13:09,Owner Surrender,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Black Smoke,Domestic Shorthair,Dark
+A711662,*Carl,9/10/15 13:09,Owner Surrender,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A711721,,9/11/15 12:44,Stray,Normal,Cat,Neutered Male,1 year,Domestic Medium Hair Mix,Brown Tabby,Domestic Medium Hair,Medium/Light
+A711720,*Lucy,9/11/15 12:49,Stray,Normal,Dog,Intact Female,1 year,Pointer/Bull Terrier,White/Brown,Terrier,Light/Medium
+A711739,Lola,9/11/15 14:22,Stray,Normal,Dog,Intact Female,3 years,Pit Bull Mix,Blue/White,Pit Bull,Medium/Light
+A711739,Lola,9/11/15 14:22,Stray,Normal,Dog,Intact Female,3 years,Pit Bull Mix,Blue/White,Pit Bull,Medium/Light
+A711740,*Sylvan,9/11/15 14:22,Stray,Normal,Dog,Intact Male,3 years,Pit Bull Mix,Tan/White,Pit Bull,Medium/Light
+A711751,Gibson,9/11/15 16:31,Stray,Normal,Dog,Intact Male,5 months,Dachshund/Chihuahua Shorthair,Black/White,Hound,Dark/Light
+A711823,*Beau,9/12/15 8:07,Stray,Normal,Cat,Intact Male,5 weeks,Domestic Shorthair Mix,Orange Tabby,Domestic Shorthair,Medium
+A711783,*Carl,9/12/15 11:54,Stray,Normal,Dog,Intact Male,4 years,American Bulldog/Pit Bull,White/Brown,Non-Sporting,Light/Medium
+A623562,Leto,9/12/15 14:04,Owner Surrender,Normal,Dog,Neutered Male,4 years,Cairn Terrier/Dachshund Wirehair,Black/Tan,Terrier,Dark/Medium
+A623562,Leto,9/12/15 14:04,Owner Surrender,Normal,Dog,Neutered Male,4 years,Cairn Terrier/Dachshund Wirehair,Black/Tan,Terrier,Dark/Medium
+A711817,*Tibby,9/12/15 14:22,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A711818,*Tellison,9/12/15 14:22,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A711819,Spirit,9/12/15 14:22,Stray,Normal,Cat,Intact Male,3 weeks,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A711820,Tuxedo,9/12/15 14:22,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A711821,Leo,9/12/15 14:22,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Longhair Mix,Black,Domestic Longhair,Dark
+A711824,*Bindi,9/12/15 14:35,Stray,Normal,Cat,Intact Female,5 weeks,Domestic Shorthair Mix,Torbie,Domestic Shorthair,Medium/Dark
+A711825,*Bonnie,9/12/15 14:35,Stray,Normal,Cat,Intact Female,5 weeks,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A711826,*Jolie,9/12/15 14:35,Stray,Normal,Cat,Intact Female,5 weeks,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A711827,*Baron,9/12/15 14:35,Stray,Normal,Cat,Intact Male,5 weeks,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A711830,*Daisy,9/12/15 15:15,Stray,Normal,Dog,Intact Female,2 years,Pit Bull Mix,Black Brindle/White,Pit Bull,Tricolor
+A711828,*Donald,9/12/15 15:15,Stray,Normal,Dog,Intact Male,2 years,American Bulldog Mix,White/Tan,Non-Sporting,Light/Medium
+A711846,Zeezou,9/12/15 16:23,Owner Surrender,Normal,Cat,Intact Male,4 weeks,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A711847,*Simba,9/12/15 16:23,Owner Surrender,Normal,Cat,Intact Male,4 weeks,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A711850,*Beethoven,9/12/15 16:23,Owner Surrender,Normal,Cat,Intact Male,4 weeks,Domestic Shorthair Mix,Orange Tabby,Domestic Shorthair,Medium
+A711851,*Bach,9/12/15 16:23,Owner Surrender,Normal,Cat,Intact Male,1 weeks,Domestic Shorthair Mix,Orange Tabby/White,Domestic Shorthair,Medium/Light
+A711852,*Chopin,9/12/15 16:23,Owner Surrender,Normal,Cat,Intact Male,3 weeks,Domestic Shorthair Mix,Cream Tabby,Domestic Shorthair,Light/Medium
+A711852,*Chopin,9/12/15 16:23,Owner Surrender,Normal,Cat,Intact Male,3 weeks,Domestic Shorthair Mix,Cream Tabby,Domestic Shorthair,Light/Medium
+A711853,*Nala,9/12/15 16:23,Owner Surrender,Normal,Cat,Intact Female,4 weeks,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A711854,*Mozart,9/12/15 16:23,Owner Surrender,Normal,Cat,Intact Female,1 weeks,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A711859,*Travis,9/12/15 17:27,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A711876,*Greta,9/13/15 10:38,Stray,Injured,Cat,Intact Female,2 months,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A711894,Hubble,9/13/15 12:44,Stray,Normal,Dog,Spayed Female,2 years,Labrador Retriever Mix,Black/White,Sporting,Dark/Light
+A696247,*Jillian,9/13/15 14:14,Owner Surrender,Normal,Dog,Spayed Female,2 years,Pointer Mix,Chocolate/White,Sporting,Dark/Light
+A631494,Taco Bell,9/13/15 15:11,Public Assist,Normal,Dog,Neutered Male,4 years,Chihuahua Shorthair Mix,Brown,Toy,Medium
+A711910,Zoey,9/13/15 16:45,Stray,Normal,Dog,Spayed Female,8 years,German Shorthair Pointer Mix,White/Liver,Herding,Light/Medium
+A711923,*Remy,9/14/15 8:31,Stray,Injured,Dog,Intact Male,3 months,Patterdale Terr Mix,Black,Terrier,Dark
+A700396,Calseta,9/14/15 10:57,Stray,Normal,Dog,Spayed Female,3 years,Pit Bull Mix,Black/White,Pit Bull,Dark/Light
+A700396,Calseta,9/14/15 10:57,Stray,Normal,Dog,Spayed Female,3 years,Pit Bull Mix,Black/White,Pit Bull,Dark/Light
+A700396,Calseta,9/14/15 10:57,Stray,Normal,Dog,Spayed Female,3 years,Pit Bull Mix,Black/White,Pit Bull,Dark/Light
+A712012,*Nala,9/15/15 13:04,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A710966,*Gilbert,9/15/15 14:26,Stray,Normal,Cat,Neutered Male,4 years,Domestic Longhair Mix,Orange Tabby,Domestic Longhair,Medium
+A710966,*Gilbert,9/15/15 14:26,Stray,Normal,Cat,Neutered Male,4 years,Domestic Longhair Mix,Orange Tabby,Domestic Longhair,Medium
+A712025,Hudson,9/15/15 17:15,Public Assist,Sick,Dog,Intact Male,1 year,Labrador Retriever Mix,Black/White,Sporting,Dark/Light
+A712070,Honey,9/16/15 14:05,Owner Surrender,Normal,Cat,Spayed Female,5 years,British Shorthair Mix,Cream Tabby,Domestic,Light/Medium
+A712071,Toby,9/16/15 14:39,Stray,Normal,Dog,Intact Male,3 years,Australian Cattle Dog Mix,Black Brindle/White,Herding,Tricolor
+A712071,Toby,9/16/15 14:39,Stray,Normal,Dog,Intact Male,3 years,Australian Cattle Dog Mix,Black Brindle/White,Herding,Tricolor
+A712073,Ruger,9/16/15 15:05,Owner Surrender,Normal,Dog,Intact Male,1 year,Australian Cattle Dog/Pointer,Red Tick,Herding,Light/Medium
+A588258,Diamond,9/16/15 15:42,Public Assist,Normal,Dog,Spayed Female,7 years,German Shepherd Mix,Black/Tan,Herding,Dark/Medium
+A712085,*Furiosa,9/16/15 17:43,Stray,Nursing,Cat,Intact Female,3 weeks,Havana Brown Mix,Chocolate,Exotic,Dark
+A712090,*Jalapeno,9/16/15 18:42,Stray,Normal,Cat,Intact Male,3 weeks,Domestic Shorthair Mix,Orange Tabby,Domestic Shorthair,Medium
+A712093,Simba,9/16/15 18:42,Stray,Normal,Cat,Intact Male,3 weeks,Domestic Shorthair Mix,Orange Tabby/White,Domestic Shorthair,Medium/Light
+A712095,Coco,9/16/15 21:34,Stray,Normal,Dog,Intact Female,2 years,Pit Bull Mix,White,Pit Bull,Light
+A712098,Jazz,9/17/15 7:38,Stray,Normal,Dog,Intact Female,3 years,Rat Terrier Mix,White/Tricolor,Terrier,Tricolor
+A712135,*Louie,9/17/15 17:25,Stray,Injured,Dog,Intact Male,1 year,Shiba Inu Mix,Tan,Non-Sporting,Medium
+A712157,Girlfriend,9/18/15 14:20,Stray,Normal,Dog,Intact Female,1 year,Labrador Retriever Mix,Black,Sporting,Dark
+A712195,Gizmo,9/19/15 11:00,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Calico,Domestic Shorthair,Tricolor
+A712210,Juliet,9/19/15 12:20,Stray,Normal,Cat,Intact Female,1 year,Domestic Shorthair Mix,Tortie,Domestic Shorthair,Dark/Medium
+A712332,*Monkey,9/19/15 12:20,Stray,Normal,Cat,Intact Female,0 years,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A712225,*Tangerine,9/19/15 14:11,Stray,Normal,Cat,Intact Female,2 years,Domestic Shorthair Mix,Orange Tabby,Domestic Shorthair,Medium
+A712228,*Saffron,9/19/15 14:11,Stray,Normal,Cat,Intact Male,3 weeks,Domestic Shorthair Mix,Orange Tabby/White,Domestic Shorthair,Medium/Light
+A712229,*Ginger,9/19/15 14:11,Stray,Normal,Cat,Intact Male,3 weeks,Domestic Shorthair Mix,Orange Tabby,Domestic Shorthair,Medium
+A712230,*Tarragon,9/19/15 14:11,Stray,Normal,Cat,Intact Male,3 weeks,Domestic Shorthair Mix,White,Domestic Shorthair,Light
+A712231,*Juniper,9/19/15 14:11,Stray,Normal,Cat,Intact Female,3 weeks,Siamese Mix,Lynx Point,Siamese,Light/Medium
+A712232,*Cardamom,9/19/15 14:11,Stray,Normal,Cat,Intact Female,3 weeks,Domestic Shorthair Mix,Tortie/White,Domestic Shorthair,Tricolor
+A712240,*Carlisle,9/19/15 14:31,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A712241,*Charlotte,9/19/15 14:31,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Cream Tabby,Domestic Shorthair,Light/Medium
+A712246,*Blue,9/19/15 14:58,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Shorthair Mix,Blue,Domestic Shorthair,Medium
+A712247,*Violet,9/19/15 14:58,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Shorthair Mix,Blue/White,Domestic Shorthair,Medium/Light
+A712252,*Puff,9/19/15 16:30,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Blue/White,Domestic Shorthair,Medium/Light
+A712267,*Titan,9/20/15 9:54,Stray,Injured,Cat,Intact Male,11 months,Domestic Shorthair Mix,White/Black,Domestic Shorthair,Light/Dark
+A681179,Tyson,9/20/15 12:02,Owner Surrender,Normal,Dog,Neutered Male,1 year,Catahoula Mix,Fawn/White,Herding,Light
+A712282,*Israel,9/20/15 14:09,Stray,Normal,Dog,Intact Male,3 years,Labrador Retriever Mix,Black,Sporting,Dark
+A712286,Punkin,9/20/15 16:06,Stray,Normal,Cat,Intact Female,3 weeks,Domestic Longhair Mix,Orange Tabby/White,Domestic Longhair,Medium/Light
+A671425,Luna,9/20/15 17:10,Owner Surrender,Normal,Dog,Spayed Female,5 years,Redbone Hound Mix,Red/White,Hound,Medium/Light
+A671426,Big Red,9/20/15 17:10,Owner Surrender,Normal,Dog,Neutered Male,2 years,American Staffordshire Terrier/Labrador Retriever,Tan/White,Terrier,Medium/Light
+A712299,*Possum,9/21/15 12:20,Stray,Normal,Cat,Intact Female,1 day,Domestic Shorthair Mix,Calico,Domestic Shorthair,Tricolor
+A712300,*Pandora,9/21/15 12:20,Stray,Normal,Cat,Intact Female,1 day,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A712301,*Clay,9/21/15 12:20,Stray,Normal,Cat,Intact Male,1 day,Domestic Shorthair Mix,Blue/White,Domestic Shorthair,Medium/Light
+A712302,*Johanna,9/21/15 12:20,Stray,Normal,Cat,Intact Female,1 day,Domestic Shorthair Mix,Blue,Domestic Shorthair,Medium
+A708230,Spike,9/21/15 12:43,Owner Surrender,Normal,Dog,Neutered Male,3 years,Basset Hound Mix,White/Black,Hound,Light/Dark
+A712313,*Stallone,9/21/15 13:25,Stray,Normal,Dog,Intact Male,2 years,Pit Bull Mix,Fawn/White,Pit Bull,Light
+A712337,*Howard,9/21/15 16:21,Stray,Normal,Dog,Intact Male,2 years,Australian Cattle Dog/Staffordshire,Black/White,Herding,Dark/Light
+A712337,*Howard,9/21/15 16:21,Stray,Normal,Dog,Intact Male,2 years,Australian Cattle Dog/Staffordshire,Black/White,Herding,Dark/Light
+A587332,Eloise,9/22/15 11:24,Owner Surrender,Normal,Cat,Intact Female,5 years,Siamese Mix,Tortie Point,Siamese,Light/Dark
+A712373,*Pumpkin,9/22/15 11:36,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A712375,Reynero,9/22/15 11:47,Stray,Normal,Dog,Intact Male,1 year,Australian Cattle Dog/Labrador Retriever,White/Brown,Herding,Light/Medium
+A712390,,9/22/15 12:33,Stray,Nursing,Cat,Intact Female,1 weeks,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A712391,,9/22/15 12:33,Stray,Nursing,Cat,Intact Male,1 weeks,Domestic Shorthair Mix,Blue Tabby,Domestic Shorthair,Medium/Light
+A712392,,9/22/15 12:33,Stray,Nursing,Cat,Intact Female,1 weeks,Domestic Shorthair Mix,Blue Tabby,Domestic Shorthair,Medium/Light
+A712403,*Ronnie,9/22/15 12:48,Owner Surrender,Normal,Cat,Intact Male,4 months,Domestic Shorthair Mix,Orange Tabby,Domestic Shorthair,Medium
+A712421,*Cameron,9/22/15 18:31,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,White/Blue Tabby,Domestic Shorthair,Light/Medium
+A712422,*Burton,9/22/15 18:31,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,White/Blue Tabby,Domestic Shorthair,Light/Medium
+A712423,*Spielberg,9/22/15 18:31,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,White/Blue Tabby,Domestic Shorthair,Light/Medium
+A712414,Neville,9/22/15 18:32,Public Assist,Normal,Dog,Neutered Male,2 years,Labrador Retriever Mix,Tan/White,Sporting,Medium/Light
+A712426,*Pope,9/22/15 22:48,Stray,Normal,Dog,Intact Male,1 year,Great Pyrenees Mix,White,Working,Light
+A712434,*Brook,9/23/15 10:41,Stray,Normal,Dog,Intact Female,1 year,Pit Bull Mix,White/Black,Pit Bull,Light/Dark
+A712434,*Brook,9/23/15 10:41,Stray,Normal,Dog,Intact Female,1 year,Pit Bull Mix,White/Black,Pit Bull,Light/Dark
+A712439,*Ashley,9/23/15 11:16,Stray,Normal,Cat,Intact Female,3 weeks,Domestic Shorthair Mix,Tortie,Domestic Shorthair,Dark/Medium
+A712440,*Mary Kate,9/23/15 11:16,Stray,Normal,Cat,Intact Female,3 weeks,Domestic Shorthair Mix,Tortie,Domestic Shorthair,Dark/Medium
+A712451,Buddy,9/23/15 13:11,Owner Surrender,Normal,Cat,Neutered Male,3 years,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A712452,Lucy Lou,9/23/15 13:11,Owner Surrender,Normal,Dog,Intact Female,5 years,Chihuahua Shorthair/Dachshund,Red/White,Toy,Medium/Light
+A712493,*Iris,9/23/15 17:46,Stray,Injured,Cat,Spayed Female,4 years,Domestic Longhair Mix,Black,Domestic Longhair,Dark
+A672216,Rambo,9/24/15 7:53,Stray,Normal,Dog,Neutered Male,2 years,Doberman Pinsch,Black/Tan,Working,Dark/Medium
+A712507,Hera,9/24/15 13:35,Stray,Normal,Dog,Spayed Female,6 years,Cane Corso,Black,Working,Dark
+A712510,Baldo,9/24/15 13:38,Stray,Normal,Dog,Intact Male,6 months,German Shepherd Mix,White/Brown,Herding,Light/Medium
+A712516,*Amber,9/24/15 14:22,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A712517,Stella,9/24/15 14:22,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A712518,Zoe,9/24/15 14:22,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A712529,*Starburst,9/24/15 15:25,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A712530,*Kitkat,9/24/15 15:25,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A712538,*Edgar,9/24/15 17:13,Stray,Normal,Dog,Intact Male,2 years,Pit Bull Mix,Red/White,Pit Bull,Medium/Light
+A712556,Josephine,9/25/15 11:36,Stray,Normal,Cat,Spayed Female,7 months,Domestic Shorthair Mix,Blue Tabby/White,Domestic Shorthair,Medium/Light
+A712574,*Sardine,9/25/15 13:33,Stray,Normal,Cat,Intact Female,3 weeks,Domestic Medium Hair Mix,Tortie/White,Domestic Medium Hair,Tricolor
+A712575,*Mackerel,9/25/15 13:33,Stray,Normal,Cat,Intact Female,3 weeks,Domestic Medium Hair Mix,Calico,Domestic Medium Hair,Tricolor
+A712570,*Tuna,9/25/15 13:33,Stray,Normal,Cat,Intact Female,3 weeks,Domestic Medium Hair Mix,Black,Domestic Medium Hair,Dark
+A712577,*Gracy,9/25/15 13:48,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Blue/White,Domestic Shorthair,Medium/Light
+A712583,*Ernestine,9/25/15 14:30,Stray,Nursing,Cat,Intact Female,2 weeks,Domestic Shorthair Mix,Cream Tabby/White,Domestic Shorthair,Light/Medium
+A712585,*Edith,9/25/15 14:30,Stray,Nursing,Cat,Intact Female,2 weeks,Domestic Shorthair Mix,Cream Tabby/White,Domestic Shorthair,Light/Medium
+A712586,*Engelbert,9/25/15 14:30,Stray,Nursing,Cat,Intact Male,2 weeks,Domestic Shorthair Mix,Cream Tabby/White,Domestic Shorthair,Light/Medium
+A712588,*Errol,9/25/15 14:30,Stray,Nursing,Cat,Intact Male,2 weeks,Domestic Shorthair Mix,Cream Tabby,Domestic Shorthair,Light/Medium
+A712589,*Captain,9/25/15 14:30,Stray,Nursing,Cat,Intact Male,2 weeks,Domestic Shorthair Mix,Cream Tabby,Domestic Shorthair,Light/Medium
+A696594,Riggins,9/26/15 8:16,Stray,Normal,Dog,Spayed Female,10 months,Labrador Retriever Mix,Brown/White,Sporting,Medium/Light
+A712649,*Cecily,9/26/15 12:11,Stray,Normal,Cat,Intact Female,1 month,Domestic Medium Hair Mix,Tortie,Domestic Medium Hair,Dark/Medium
+A712650,*Celia,9/26/15 12:11,Stray,Normal,Cat,Intact Female,1 month,Domestic Medium Hair Mix,Tortie,Domestic Medium Hair,Dark/Medium
+A712657,*Hank,9/26/15 12:53,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A712660,*Neo,9/26/15 13:09,Stray,Normal,Cat,Neutered Male,8 years,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A712660,*Neo,9/26/15 13:09,Stray,Normal,Cat,Neutered Male,8 years,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A712659,Precious,9/26/15 13:10,Owner Surrender,Normal,Dog,Intact Female,2 years,Pit Bull Mix,White/Gray,Pit Bull,Light/Medium
+A712665,*Jack Nick,9/26/15 13:39,Stray,Normal,Dog,Intact Male,1 year,Pit Bull Mix,Fawn/White,Pit Bull,Light
+A712670,*Hanna,9/26/15 14:21,Stray,Normal,Dog,Intact Female,3 years,Labrador Retriever Mix,Black,Sporting,Dark
+A712671,Riley,9/26/15 14:21,Stray,Normal,Dog,Intact Female,3 years,Labrador Retriever Mix,Chocolate,Sporting,Dark
+A712678,*Velvet,9/26/15 14:54,Stray,Normal,Cat,Intact Female,3 years,Domestic Longhair Mix,Black/White,Domestic Longhair,Dark/Light
+A712679,*Vic,9/26/15 14:54,Stray,Normal,Cat,Neutered Male,4 weeks,Domestic Longhair Mix,Brown Tabby,Domestic Longhair,Medium/Light
+A712680,*Valorie,9/26/15 14:54,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Longhair Mix,Calico,Domestic Longhair,Tricolor
+A712708,,9/27/15 8:08,Stray,Normal,Cat,Intact Female,3 weeks,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A712712,Gia,9/27/15 11:00,Stray,Normal,Cat,Intact Female,1 weeks,Domestic Shorthair Mix,Torbie,Domestic Shorthair,Medium/Dark
+A712713,Jake,9/27/15 11:00,Stray,Normal,Cat,Intact Male,1 weeks,Domestic Shorthair Mix,Orange Tabby,Domestic Shorthair,Medium
+A712714,Softpaws,9/27/15 11:00,Stray,Normal,Cat,Intact Female,1 weeks,Domestic Shorthair Mix,Black Smoke/White,Domestic Shorthair,Dark/Light
+A701979,Winnie,9/27/15 11:59,Owner Surrender,Normal,Dog,Spayed Female,10 years,Labrador Retriever Mix,Tan,Sporting,Medium
+A712727,*Paddington,9/27/15 12:42,Stray,Normal,Cat,Intact Male,1 day,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A712729,*Paisley,9/27/15 12:42,Stray,Normal,Cat,Intact Female,3 weeks,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A712744,Weez,9/27/15 14:53,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,White/Brown Tabby,Domestic Shorthair,Light/Medium
+A712755,*Sadie,9/27/15 15:32,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Medium Hair Mix,Calico,Domestic Medium Hair,Tricolor
+A712756,*Sophie,9/27/15 15:32,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Medium Hair Mix,Calico,Domestic Medium Hair,Tricolor
+A712757,*Sandy,9/27/15 15:32,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Medium Hair Mix,Calico,Domestic Medium Hair,Tricolor
+A712758,*Seth,9/27/15 15:32,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Medium Hair Mix,Cream Tabby/White,Domestic Medium Hair,Light/Medium
+A712759,*Sylvie,9/27/15 15:32,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Medium Hair Mix,Torbie,Domestic Medium Hair,Medium/Dark
+A712760,Richard,9/27/15 15:32,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Medium Hair Mix,Orange Tabby,Domestic Medium Hair,Medium
+A712752,*Clementine,9/27/15 15:57,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Orange Tabby,Domestic Shorthair,Medium
+A712753,*Cutie,9/27/15 15:57,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Orange Tabby,Domestic Shorthair,Medium
+A712754,*Tangerine,9/27/15 15:57,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Orange Tabby,Domestic Shorthair,Medium
+A667109,Hank,9/28/15 10:10,Owner Surrender,Normal,Dog,Neutered Male,3 years,American Bulldog/Labrador Retriever,Black/White,Non-Sporting,Dark/Light
+A552447,Jakey,9/28/15 11:44,Owner Surrender,Normal,Cat,Neutered Male,6 years,Domestic Longhair Mix,Blue/White,Domestic Longhair,Medium/Light
+A712787,Ginger,9/28/15 12:47,Owner Surrender,Normal,Cat,Spayed Female,7 years,Domestic Shorthair Mix,Calico,Domestic Shorthair,Tricolor
+A712788,*Tito,9/28/15 13:04,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A712790,Bob,9/28/15 13:13,Owner Surrender,Normal,Cat,Neutered Male,5 years,Domestic Shorthair Mix,Blue Tabby,Domestic Shorthair,Medium/Light
+A628792,Chloe,9/28/15 13:13,Owner Surrender,Normal,Cat,Spayed Female,3 years,Domestic Shorthair Mix,Blue Tabby,Domestic Shorthair,Medium/Light
+A712792,*Austin,9/28/15 13:49,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Orange Tabby,Domestic Shorthair,Medium
+A712793,*Dylan,9/28/15 13:49,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A712797,*Grayson,9/28/15 14:33,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Blue/White,Domestic Shorthair,Medium/Light
+A712836,*Bambi,9/28/15 23:44,Stray,Normal,Dog,Intact Female,7 months,Pit Bull Mix,Brown/White,Pit Bull,Medium/Light
+A712852,Louie,9/29/15 11:16,Stray,Normal,Cat,Intact Male,1 weeks,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A712853,Elwood,9/29/15 11:16,Stray,Normal,Cat,Intact Male,1 weeks,Domestic Shorthair Mix,Orange Tabby,Domestic Shorthair,Medium
+A681769,Pixie,9/29/15 12:26,Owner Surrender,Normal,Dog,Spayed Female,7 years,American Pit Bull Terrier Mix,White,Terrier,Light
+A712880,Jonse,9/29/15 13:01,Owner Surrender,Normal,Cat,Intact Male,2 months,Domestic Shorthair Mix,Orange Tabby,Domestic Shorthair,Medium
+A712896,Pumpkinpatch,9/29/15 16:22,Stray,Normal,Cat,Intact Female,3 weeks,Domestic Medium Hair Mix,Torbie/White,Domestic Medium Hair,Tricolor
+A712911,*Eloise,9/30/15 7:15,Stray,Injured,Dog,Intact Female,8 years,Shih Tzu Mix,White/Black,Toy,Light/Dark
+A712924,*Baxter,9/30/15 11:45,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Brown Tabby/White,Domestic Shorthair,Medium/Light
+A712941,Robert,9/30/15 13:59,Stray,Normal,Dog,Intact Male,1 year,American Bulldog Mix,White/Tan,Non-Sporting,Light/Medium
+A712942,Pete,9/30/15 14:17,Stray,Normal,Dog,Intact Male,2 years,American Bulldog Mix,Black/White,Non-Sporting,Dark/Light
+A712942,Pete,9/30/15 14:17,Stray,Normal,Dog,Intact Male,2 years,American Bulldog Mix,Black/White,Non-Sporting,Dark/Light
+A703876,Conrad,9/30/15 14:22,Owner Surrender,Normal,Dog,Neutered Male,2 years,Rottweiler Mix,Tricolor,Working,Tricolor
+A712969,*Jacob,9/30/15 17:33,Stray,Normal,Dog,Intact Male,7 months,Labrador Retriever/German Shorthair Pointer,Chocolate/White,Sporting,Dark/Light
+A712969,*Jacob,9/30/15 17:33,Stray,Normal,Dog,Intact Male,7 months,Labrador Retriever/German Shorthair Pointer,Chocolate/White,Sporting,Dark/Light
+A692521,Coby,9/30/15 18:13,Stray,Normal,Dog,Intact Male,1 year,Pit Bull Mix,Fawn/White,Pit Bull,Light
+A712987,Twiggy,10/1/15 11:03,Owner Surrender,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A712990,*Hanna,10/1/15 11:23,Stray,Normal,Cat,Intact Female,3 weeks,Domestic Shorthair Mix,Silver Tabby/White,Domestic Shorthair,Tricolor
+A712991,*Laney,10/1/15 11:29,Stray,Normal,Dog,Intact Female,1 year,Finnish Spitz Mix,Black,Non-Sporting,Dark
+A712992,Tullia,10/1/15 11:35,Stray,Normal,Dog,Intact Female,1 year,Dachshund Mix,Black,Hound,Dark
+A712997,,10/1/15 12:54,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Blue Tabby,Domestic Shorthair,Medium/Light
+A713003,*Meredith,10/1/15 14:06,Owner Surrender,Normal,Cat,Intact Female,1 month,Siamese Mix,Calico Point,Siamese,Tricolor
+A713004,*Dutchess,10/1/15 14:06,Owner Surrender,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Blue/White,Domestic Shorthair,Medium/Light
+A713018,*Tyrion,10/1/15 14:45,Stray,Normal,Cat,Neutered Male,4 weeks,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A419723,Mysterio,10/1/15 14:47,Stray,Normal,Dog,Neutered Male,11 years,Pit Bull,Tan/White,Pit Bull,Medium/Light
+A713016,*Loquat,10/1/15 15:29,Stray,Sick,Cat,Intact Female,6 months,Domestic Shorthair Mix,Cream Tabby,Domestic Shorthair,Light/Medium
+A631433,Meathead,10/1/15 15:51,Public Assist,Normal,Dog,Neutered Male,7 years,Pit Bull/Catahoula,White/Blue Merle,Pit Bull,Light/Medium
+A713075,*Sabrina,10/2/15 12:28,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A713076,*Kelly,10/2/15 12:28,Stray,Normal,Cat,Intact Female,5 weeks,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A713078,*Jill,10/2/15 12:28,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A713083,*Bosley,10/2/15 12:28,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Blue,Domestic Shorthair,Medium
+A713090,*Reyna,10/2/15 13:57,Stray,Normal,Dog,Intact Female,3 years,German Shepherd Mix,Tan/Black,Herding,Medium/Dark
+A713090,*Reyna,10/2/15 13:57,Stray,Normal,Dog,Intact Female,3 years,German Shepherd Mix,Tan/Black,Herding,Medium/Dark
+A713093,*Mindy,10/2/15 14:10,Stray,Normal,Cat,Intact Female,2 years,Domestic Shorthair Mix,Brown Tabby/White,Domestic Shorthair,Medium/Light
+A713094,Bruce,10/2/15 14:10,Stray,Normal,Cat,Intact Male,3 weeks,Siamese Mix,Lynx Point,Siamese,Light/Medium
+A713101,*Joanna,10/2/15 14:42,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A713103,,10/2/15 15:36,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,White/Blue Tabby,Domestic Shorthair,Light/Medium
+A713139,Bruno,10/3/15 10:34,Stray,Normal,Dog,Neutered Male,9 months,Pit Bull Mix,Black Brindle/White,Pit Bull,Tricolor
+A713148,Bruce,10/3/15 11:38,Stray,Normal,Dog,Intact Male,7 months,Boxer Mix,Brown Brindle,Working,Medium
+A631494,Taco Bell,10/3/15 11:40,Owner Surrender,Injured,Dog,Neutered Male,4 years,Chihuahua Shorthair Mix,Brown,Toy,Medium
+A713155,*Clementine,10/3/15 12:14,Stray,Normal,Cat,Intact Female,2 months,Domestic Shorthair Mix,Calico,Domestic Shorthair,Tricolor
+A713161,Tila,10/3/15 12:39,Stray,Normal,Dog,Spayed Female,3 years,Pit Bull Mix,Brown Brindle/White,Pit Bull,Medium/Light
+A713176,Ajax,10/3/15 12:39,Stray,Normal,Cat,Intact Female,5 weeks,Domestic Longhair Mix,Blue,Domestic Longhair,Medium
+A713163,*Peanut,10/3/15 12:45,Stray,Normal,Cat,Intact Male,4 years,Domestic Shorthair Mix,Blue Tabby,Domestic Shorthair,Medium/Light
+A713165,Reaver,10/3/15 13:03,Owner Surrender,Normal,Cat,Intact Male,6 months,Domestic Shorthair Mix,Brown Tabby/White,Domestic Shorthair,Medium/Light
+A713166,*Matty,10/3/15 13:03,Stray,Normal,Cat,Intact Male,1 weeks,Domestic Shorthair Mix,Brown Tabby/White,Domestic Shorthair,Medium/Light
+A713167,*Markie,10/3/15 13:03,Stray,Normal,Cat,Intact Male,1 weeks,Domestic Shorthair Mix,Brown Tabby/White,Domestic Shorthair,Medium/Light
+A713168,*Skittles,10/3/15 13:03,Stray,Normal,Cat,Intact Male,1 weeks,Domestic Shorthair Mix,White/Blue,Domestic Shorthair,Light/Medium
+A713170,Lucky,10/3/15 13:30,Stray,Normal,Dog,Neutered Male,6 years,Bichon Frise Mix,White,Toy,Light
+A713171,*Bruce,10/3/15 13:37,Stray,Normal,Dog,Intact Male,1 year,Queensland Heeler Mix,Tricolor,Herding,Tricolor
+A713172,*Boscoe,10/3/15 13:38,Stray,Normal,Dog,Neutered Male,5 years,Labrador Retriever Mix,Black/White,Sporting,Dark/Light
+A713192,*Renji,10/3/15 16:10,Stray,Nursing,Cat,Intact Male,3 weeks,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A713193,*Sebastian,10/3/15 16:10,Stray,Nursing,Cat,Intact Male,3 weeks,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A713194,*Ichigo,10/3/15 16:10,Stray,Nursing,Cat,Intact Male,3 weeks,Domestic Shorthair Mix,Orange Tabby,Domestic Shorthair,Medium
+A713195,*Saya,10/3/15 16:10,Stray,Nursing,Cat,Intact Female,3 weeks,Domestic Shorthair Mix,Tortie,Domestic Shorthair,Dark/Medium
+A713208,Cash,10/4/15 10:34,Stray,Normal,Dog,Neutered Male,6 months,Labrador Retriever Mix,Black/White,Sporting,Dark/Light
+A713209,*Mica,10/4/15 10:38,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A713210,*Amber,10/4/15 10:38,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A713211,*Piper,10/4/15 11:09,Stray,Normal,Cat,Intact Female,2 months,Domestic Shorthair Mix,Cream Tabby,Domestic Shorthair,Light/Medium
+A713215,*Ursa,10/4/15 11:37,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A713216,Sylvester,10/4/15 11:46,Owner Surrender,Normal,Cat,Neutered Male,3 years,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A713217,*Newton,10/4/15 11:51,Stray,Normal,Dog,Intact Male,5 years,Labrador Retriever/German Shepherd,Black,Herding,Dark
+A713217,*Newton,10/4/15 11:51,Stray,Normal,Dog,Intact Male,5 years,Labrador Retriever/German Shepherd,Black,Herding,Dark
+A713226,*Peony,10/4/15 13:16,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Shorthair Mix,Torbie,Domestic Shorthair,Medium/Dark
+A713227,*Petunia,10/4/15 13:16,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A713228,*Poppy,10/4/15 13:16,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A712641,Lolita,10/4/15 13:23,Public Assist,Normal,Dog,Spayed Female,2 years,Chihuahua Shorthair Mix,Brown/White,Toy,Medium/Light
+A713229,*Gorgin,10/4/15 13:30,Stray,Normal,Cat,Intact Male,1 month,Maine Coon Mix,Brown Tabby,Exotic,Medium/Light
+A713232,Lucrecia,10/4/15 13:40,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A713233,Gunner,10/4/15 13:49,Stray,Normal,Dog,Intact Male,6 months,Labrador Retriever Mix,Black/Blue Tick,Sporting,Dark/Medium
+A713235,Luke,10/4/15 13:49,Stray,Normal,Dog,Intact Male,6 months,Queensland Heeler Mix,Blue Tick/Red Tick,Herding,Medium/Light
+A713241,*Henny,10/4/15 14:37,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Shorthair Mix,Torbie,Domestic Shorthair,Medium/Dark
+A713242,Birdie,10/4/15 14:37,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Shorthair Mix,Calico,Domestic Shorthair,Tricolor
+A713245,Fetty,10/4/15 15:10,Stray,Normal,Cat,Intact Female,2 weeks,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A713247,George,10/4/15 15:32,Owner Surrender,Normal,Other,Intact Male,2 years,Rabbit Sh Mix,Brown,Unknown,Medium
+A713249,Chewy,10/4/15 16:15,Stray,Normal,Dog,Neutered Male,2 years,Blue Lacy Mix,Blue/White,Herding,Medium/Light
+A713254,*Denny,10/4/15 16:34,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A713255,*Oliver,10/4/15 18:00,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Orange Tabby,Domestic Shorthair,Medium
+A713268,*Sinatra,10/5/15 11:07,Stray,Nursing,Cat,Intact Male,3 weeks,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A713282,Romeo,10/5/15 11:09,Stray,Normal,Cat,Neutered Male,8 years,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A713272,*Lyra,10/5/15 12:39,Stray,Normal,Cat,Intact Female,1 month,Domestic Longhair Mix,Black,Domestic Longhair,Dark
+A708741,*Kit Kat,10/5/15 12:46,Owner Surrender,Normal,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A708740,*Twix,10/5/15 12:46,Owner Surrender,Normal,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A708738,*Sweet Tart,10/5/15 12:46,Owner Surrender,Normal,Cat,Spayed Female,1 year,Domestic Shorthair Mix,Calico,Domestic Shorthair,Tricolor
+A713289,*Tucker,10/5/15 12:56,Stray,Normal,Dog,Intact Male,5 years,Boxer,Brown Brindle/White,Working,Medium/Light
+A713293,Oliver,10/5/15 12:56,Stray,Normal,Dog,Intact Male,9 months,Labrador Retriever/Chinese Sharpei,Black/White,Sporting,Dark/Light
+A713290,*Maya,10/5/15 13:05,Stray,Injured,Cat,Intact Female,1 month,Domestic Shorthair Mix,Blue Tabby,Domestic Shorthair,Medium/Light
+A713340,Azara,10/5/15 18:04,Stray,Normal,Cat,Intact Female,2 years,Domestic Shorthair Mix,Blue,Domestic Shorthair,Medium
+A713340,Azara,10/5/15 18:04,Stray,Normal,Cat,Intact Female,2 years,Domestic Shorthair Mix,Blue,Domestic Shorthair,Medium
+A713341,N,10/5/15 18:04,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Shorthair Mix,Blue Smoke,Domestic Shorthair,Medium
+A713342,,10/5/15 18:04,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Medium Hair Mix,Blue Smoke,Domestic Medium Hair,Medium
+A713343,Greenbean,10/5/15 18:04,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Medium Hair Mix,Blue Smoke,Domestic Medium Hair,Medium
+A713344,Nn,10/5/15 18:04,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Medium Hair Mix,Blue,Domestic Medium Hair,Medium
+A713345,,10/5/15 18:04,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Medium Hair Mix,Blue Smoke,Domestic Medium Hair,Medium
+A713346,,10/5/15 18:04,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Medium Hair Mix,Blue Smoke,Domestic Medium Hair,Medium
+A713352,,10/5/15 18:38,Stray,Normal,Cat,Intact Male,1 month,Siamese Mix,Lynx Point,Siamese,Light/Medium
+A713349,,10/5/15 18:38,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A713350,,10/5/15 18:38,Stray,Normal,Cat,Intact Male,1 month,Domestic Longhair Mix,Brown Tabby,Domestic Longhair,Medium/Light
+A713359,*Campbell,10/6/15 9:19,Stray,Normal,Dog,Intact Male,1 year,Labrador Retriever Mix,Black/White,Sporting,Dark/Light
+A713360,*Berry,10/6/15 9:19,Stray,Normal,Dog,Intact Male,1 year,Labrador Retriever Mix,Black/White,Sporting,Dark/Light
+A713364,*Calypso,10/6/15 10:19,Owner Surrender,Normal,Cat,Intact Female,1 year,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A713365,,10/6/15 10:19,Owner Surrender,Normal,Cat,Intact Female,5 days,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A713366,,10/6/15 10:19,Owner Surrender,Normal,Cat,Intact Male,5 days,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A713367,,10/6/15 10:19,Owner Surrender,Normal,Cat,Intact Female,5 days,Domestic Shorthair Mix,White/Gray,Domestic Shorthair,Light/Medium
+A713368,,10/6/15 10:19,Owner Surrender,Normal,Cat,Intact Male,5 days,Domestic Shorthair Mix,Blue,Domestic Shorthair,Medium
+A713369,,10/6/15 10:19,Owner Surrender,Normal,Cat,Intact Male,5 days,Domestic Shorthair Mix,White/Blue,Domestic Shorthair,Light/Medium
+A713370,,10/6/15 10:19,Owner Surrender,Normal,Cat,Intact Male,5 days,Domestic Shorthair Mix,White/Black,Domestic Shorthair,Light/Dark
+A710347,Lulu,10/6/15 10:37,Public Assist,Normal,Dog,Spayed Female,9 months,Labrador Retriever Mix,Black,Sporting,Dark
+A713374,Paul,10/6/15 11:16,Stray,Normal,Cat,Intact Male,3 months,Domestic Shorthair Mix,Orange Tabby,Domestic Shorthair,Medium
+A713377,*Burton,10/6/15 11:40,Stray,Normal,Dog,Intact Male,1 year,American Pit Bull Terrier Mix,Tan/White,Terrier,Medium/Light
+A713399,Oscar,10/6/15 12:28,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A713401,*Larry,10/6/15 12:28,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A713405,,10/6/15 12:28,Stray,Normal,Cat,Intact Male,4 weeks,Siamese Mix,Seal Point,Siamese,Light/Dark
+A713407,*Curley,10/6/15 12:28,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A713408,Trinity,10/6/15 12:28,Stray,Normal,Cat,Intact Female,1 year,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A226069,Cedar,10/6/15 12:29,Stray,Normal,Dog,Neutered Male,15 years,Labrador Retriever/Beagle,Sable/White,Sporting,Tricolor
+A713387,Rocky,10/6/15 13:20,Stray,Normal,Dog,Neutered Male,1 year,Pit Bull Mix,White/Blue,Pit Bull,Light/Medium
+A713391,*Periwinkle,10/6/15 13:39,Stray,Sick,Dog,Intact Female,3 years,Chihuahua Shorthair Mix,Tan,Toy,Medium
+A713392,*Basil,10/6/15 13:51,Stray,Injured,Dog,Intact Male,2 months,Chihuahua Shorthair Mix,Black/White,Toy,Dark/Light
+A713437,Lily,10/6/15 19:15,Stray,Normal,Dog,Intact Female,1 year,Labrador Retriever Mix,Tan/White,Sporting,Medium/Light
+A713437,Lily,10/6/15 19:15,Stray,Normal,Dog,Intact Female,1 year,Labrador Retriever Mix,Tan/White,Sporting,Medium/Light
+A713437,Lily,10/6/15 19:15,Stray,Normal,Dog,Intact Female,1 year,Labrador Retriever Mix,Tan/White,Sporting,Medium/Light
+A713448,*Clement,10/7/15 7:55,Stray,Normal,Dog,Intact Male,4 years,Labrador Retriever Mix,Black,Sporting,Dark
+A713451,*Dolly,10/7/15 11:02,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Medium Hair Mix,White/Black,Domestic Medium Hair,Light/Dark
+A713451,*Dolly,10/7/15 11:02,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Medium Hair Mix,White/Black,Domestic Medium Hair,Light/Dark
+A713452,*Deedee,10/7/15 11:02,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A713457,*Hiram,10/7/15 11:15,Stray,Normal,Dog,Intact Male,1 year,Bull Terrier/Boxer,Brown Brindle/White,Terrier,Medium/Light
+A713461,*Mary,10/7/15 11:32,Stray,Normal,Dog,Spayed Female,5 years,Labrador Retriever Mix,Chocolate,Sporting,Dark
+A713484,Sara,10/7/15 14:27,Owner Surrender,Normal,Cat,Intact Female,9 months,Domestic Medium Hair Mix,Calico,Domestic Medium Hair,Tricolor
+A713485,Kuku,10/7/15 14:27,Owner Surrender,Normal,Cat,Intact Female,9 months,Domestic Medium Hair Mix,Calico,Domestic Medium Hair,Tricolor
+A702014,Diamond,10/7/15 14:49,Owner Surrender,Normal,Dog,Spayed Female,10 months,Blue Lacy Mix,Blue/White,Herding,Medium/Light
+A713491,Boo!,10/7/15 14:53,Stray,Normal,Cat,Intact Male,1 month,Domestic Longhair Mix,Brown Tabby,Domestic Longhair,Medium/Light
+A713492,*Leo,10/7/15 14:53,Stray,Normal,Cat,Intact Male,1 month,Domestic Longhair Mix,Brown Tabby/White,Domestic Longhair,Medium/Light
+A713493,*Buddha,10/7/15 14:53,Stray,Normal,Cat,Intact Male,1 month,Domestic Longhair Mix,Brown Tabby/White,Domestic Longhair,Medium/Light
+A713495,*Sparrow,10/7/15 14:53,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A663422,Sparky Rex,10/7/15 19:31,Stray,Normal,Dog,Neutered Male,4 years,German Shepherd/Rottweiler,Chocolate/Tan,Herding,Dark/Medium
+A713517,*Flynn,10/8/15 9:33,Stray,Normal,Dog,Intact Male,2 years,Pit Bull Mix,Blue/White,Pit Bull,Medium/Light
+A713518,*Winnifred,10/8/15 9:33,Stray,Normal,Dog,Intact Female,1 year,Pit Bull Mix,Black Brindle/White,Pit Bull,Tricolor
+A713519,*Viola,10/8/15 9:33,Stray,Normal,Dog,Intact Female,3 years,Pit Bull Mix,Black/White,Pit Bull,Dark/Light
+A713523,Buster,10/8/15 10:06,Stray,Normal,Dog,Intact Male,2 years,Pointer/Labrador Retriever,White/Chocolate,Sporting,Light/Dark
+A713535,Buster,10/8/15 11:08,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Blue Tabby/White,Domestic Shorthair,Medium/Light
+A713536,*Eggy,10/8/15 11:37,Stray,Normal,Cat,Neutered Male,2 years,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A713540,*Templeton,10/8/15 12:26,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A693991,Oso,10/8/15 15:24,Public Assist,Normal,Dog,Intact Male,3 years,Labrador Retriever/German Shepherd,Tan,Herding,Medium
+A693989,Lobo,10/8/15 15:24,Public Assist,Normal,Dog,Intact Male,3 years,Labrador Retriever/German Shepherd,Cream,Herding,Light
+A713553,*Alex,10/8/15 15:48,Stray,Normal,Cat,Intact Female,4 weeks,Siamese Mix,Seal Point,Siamese,Light/Dark
+A713554,*Mallory,10/8/15 15:48,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Shorthair Mix,Tortie,Domestic Shorthair,Dark/Medium
+A713562,*Gracie,10/8/15 16:43,Stray,Normal,Dog,Intact Female,1 year,Staffordshire Mix,Black/White,Terrier,Dark/Light
+A713552,Prince,10/8/15 16:50,Owner Surrender,Normal,Dog,Intact Male,9 months,Pit Bull Mix,Blue/White,Pit Bull,Medium/Light
+A713581,*Agamemnon,10/9/15 11:28,Stray,Normal,Cat,Neutered Male,4 months,Domestic Shorthair Mix,Blue/White,Domestic Shorthair,Medium/Light
+A713587,Luna Bella,10/9/15 11:41,Owner Surrender,Normal,Dog,Spayed Female,10 years,Labrador Retriever Mix,Black/White,Sporting,Dark/Light
+A713588,Bryce,10/9/15 11:41,Owner Surrender,Normal,Dog,Neutered Male,8 years,Great Dane Mix,Black/White,Working,Dark/Light
+A713592,*Simon,10/9/15 12:32,Stray,Normal,Dog,Intact Male,2 years,Labrador Retriever/German Shepherd,Brown/White,Herding,Medium/Light
+A713598,Willie,10/9/15 13:40,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Orange Tabby,Domestic Shorthair,Medium
+A713608,*Stitch,10/9/15 14:24,Stray,Normal,Dog,Intact Male,1 year,Pit Bull Mix,Black/White,Pit Bull,Dark/Light
+A713620,Cosette,10/9/15 17:09,Owner Surrender,Normal,Dog,Intact Female,3 years,Siberian Husky Mix,White,Working,Light
+A618937,Max,10/9/15 17:13,Owner Surrender,Normal,Dog,Neutered Male,4 years,German Shepherd Mix,Black/Tan,Herding,Dark/Medium
+A713621,Killa,10/9/15 17:18,Public Assist,Normal,Dog,Intact Male,2 years,Pit Bull Mix,Red,Pit Bull,Medium
+A713621,Killa,10/9/15 17:18,Public Assist,Normal,Dog,Intact Male,2 years,Pit Bull Mix,Red,Pit Bull,Medium
+A713622,Kiki,10/9/15 17:18,Public Assist,Normal,Dog,Intact Female,2 years,Pit Bull Mix,Red/White,Pit Bull,Medium/Light
+A713622,Kiki,10/9/15 17:18,Public Assist,Normal,Dog,Intact Female,2 years,Pit Bull Mix,Red/White,Pit Bull,Medium/Light
+A713627,Taco,10/9/15 17:58,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A713628,,10/9/15 17:58,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Brown Tabby/White,Domestic Shorthair,Medium/Light
+A713629,,10/9/15 17:58,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Brown Tabby/White,Domestic Shorthair,Medium/Light
+A713630,,10/9/15 17:58,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A713645,Peaches,10/10/15 11:23,Owner Surrender,Normal,Cat,Spayed Female,1 year,Domestic Shorthair Mix,Calico,Domestic Shorthair,Tricolor
+A713646,Spit Fire,10/10/15 11:23,Owner Surrender,Normal,Cat,Spayed Female,1 year,Domestic Shorthair Mix,Calico,Domestic Shorthair,Tricolor
+A656708,Peter,10/10/15 11:23,Stray,Normal,Cat,Neutered Male,18 years,Domestic Shorthair,Orange Tabby,Domestic Shorthair,Medium
+A713649,*Lancelot,10/10/15 12:08,Stray,Normal,Other,Intact Male,1 year,Rabbit Sh Mix,White/Gray,Unknown,Light/Medium
+A713672,*Tina,10/10/15 16:00,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A713674,Handsome Dan,10/10/15 16:16,Stray,Injured,Dog,Intact Male,2 years,Border Collie Mix,Black/White,Herding,Dark/Light
+A713683,Garth,10/10/15 20:32,Stray,Normal,Dog,Intact Male,5 months,Australian Cattle Dog Mix,Blue Tick,Herding,Medium
+A710865,Lady,10/11/15 10:35,Public Assist,Normal,Dog,Spayed Female,1 year,Pharaoh Hound Mix,Tan,Hound,Medium
+A713692,*Mightykitty,10/11/15 11:25,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A713694,*Darby,10/11/15 11:25,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Blue/White,Domestic Shorthair,Medium/Light
+A713695,*Drake,10/11/15 11:25,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Blue/White,Domestic Shorthair,Medium/Light
+A713696,*Kami,10/11/15 12:07,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Tortie,Domestic Shorthair,Dark/Medium
+A713697,*Tora,10/11/15 12:07,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Tortie,Domestic Shorthair,Dark/Medium
+A713709,Shelby Lynn,10/11/15 13:35,Owner Surrender,Normal,Dog,Spayed Female,11 years,Greyhound/Labrador Retriever,Black,Hound,Dark
+A713715,Cheyenne,10/11/15 13:35,Owner Surrender,Normal,Dog,Spayed Female,9 years,Dachshund Wirehair/Miniature Poodle,Blue/Tan,Hound,Medium
+A713710,*Pepsi,10/11/15 13:43,Stray,Normal,Cat,Spayed Female,1 year,Domestic Shorthair Mix,Tortie,Domestic Shorthair,Dark/Medium
+A713711,*Hirrally,10/11/15 13:43,Stray,Normal,Cat,Spayed Female,1 year,Domestic Shorthair Mix,Tortie,Domestic Shorthair,Dark/Medium
+A713719,*Petey,10/11/15 15:01,Stray,Normal,Cat,Intact Male,3 weeks,Domestic Shorthair Mix,Brown Tabby/White,Domestic Shorthair,Medium/Light
+A713720,*Griffin,10/11/15 15:03,Stray,Normal,Dog,Intact Male,1 year,Schnauzer Giant Mix,Black,Herding,Dark
+A713752,Pepita,10/12/15 11:26,Owner Surrender,Normal,Cat,Intact Female,1 year,Domestic Shorthair Mix,Calico,Domestic Shorthair,Tricolor
+A713752,Pepita,10/12/15 11:26,Owner Surrender,Normal,Cat,Intact Female,1 year,Domestic Shorthair Mix,Calico,Domestic Shorthair,Tricolor
+A713753,Pixie,10/12/15 11:26,Owner Surrender,Normal,Cat,Intact Female,2 months,Domestic Shorthair Mix,Tortie,Domestic Shorthair,Dark/Medium
+A713754,*Harper,10/12/15 11:29,Stray,Normal,Dog,Intact Male,1 year,Catahoula Mix,Blue Merle,Herding,Light/Medium
+A713755,*Winston,10/12/15 11:29,Stray,Normal,Dog,Intact Male,4 years,Catahoula Mix,Black/Blue Merle,Herding,Tricolor
+A713760,B,10/12/15 13:05,Owner Surrender,Normal,Cat,Intact Male,5 months,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A713761,Biff,10/12/15 13:27,Stray,Normal,Dog,Intact Male,4 years,American Bulldog Mix,White/Black,Non-Sporting,Light/Dark
+A713765,Anaya,10/12/15 14:41,Owner Surrender,Normal,Dog,Intact Female,1 year,Pit Bull Mix,Blue/White,Pit Bull,Medium/Light
+A713766,*Leo,10/12/15 15:06,Owner Surrender,Normal,Cat,Intact Male,1 year,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A713768,Hank,10/12/15 15:53,Stray,Normal,Dog,Intact Male,3 years,Labrador Retriever Mix,Brown,Sporting,Medium
+A713780,,10/13/15 7:43,Wildlife,Sick,Other,Unknown,3 years,Raccoon Mix,Black,Unknown,Dark
+A713786,*Eli,10/13/15 11:02,Stray,Nursing,Cat,Intact Male,3 weeks,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A713787,*Eddie,10/13/15 11:02,Stray,Nursing,Cat,Intact Male,3 weeks,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A713788,*Elle,10/13/15 11:02,Stray,Nursing,Cat,Intact Female,3 weeks,Domestic Shorthair Mix,Blue/White,Domestic Shorthair,Medium/Light
+A713790,Sader,10/13/15 11:10,Stray,Normal,Dog,Spayed Female,2 years,Pit Bull Mix,Tan/White,Pit Bull,Medium/Light
+A713793,*Pumpkin,10/13/15 11:31,Stray,Normal,Cat,Intact Male,1 month,Domestic Medium Hair Mix,Orange Tabby,Domestic Medium Hair,Medium
+A713797,*Ceilia,10/13/15 11:59,Stray,Normal,Cat,Spayed Female,2 years,Domestic Shorthair Mix,Torbie,Domestic Shorthair,Medium/Dark
+A713800,*Peanut,10/13/15 12:39,Stray,Normal,Cat,Intact Male,1 month,Domestic Medium Hair Mix,Orange Tabby,Domestic Medium Hair,Medium
+A713801,*Cashew,10/13/15 12:39,Stray,Normal,Cat,Intact Female,1 month,Domestic Medium Hair Mix,Calico,Domestic Medium Hair,Tricolor
+A713802,*Walnut,10/13/15 12:39,Stray,Normal,Cat,Intact Female,1 month,Domestic Medium Hair Mix,Calico,Domestic Medium Hair,Tricolor
+A713803,*Pecan,10/13/15 12:39,Stray,Normal,Cat,Intact Female,1 month,Domestic Medium Hair Mix,Tortie,Domestic Medium Hair,Dark/Medium
+A713812,*Leo,10/13/15 15:20,Stray,Nursing,Cat,Intact Male,2 weeks,Domestic Shorthair Mix,Orange Tabby,Domestic Shorthair,Medium
+A712025,Hudson,10/13/15 18:15,Owner Surrender,Normal,Dog,Neutered Male,1 year,Labrador Retriever Mix,Black/White,Sporting,Dark/Light
+A713825,*Nemo,10/13/15 18:32,Stray,Nursing,Cat,Intact Male,3 weeks,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A713811,,10/13/15 18:38,Stray,Normal,Cat,Intact Female,1 month,Siamese Mix,Lynx Point,Siamese,Light/Medium
+A713827,*Sugar,10/13/15 19:00,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Shorthair Mix,Tortie,Domestic Shorthair,Dark/Medium
+A713828,*Spice,10/13/15 19:00,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Shorthair Mix,Tortie,Domestic Shorthair,Dark/Medium
+A713829,George,10/13/15 19:00,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Blue,Domestic Shorthair,Medium
+A713830,Alice,10/13/15 19:00,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Blue Tabby,Domestic Shorthair,Medium/Light
+A713835,,10/14/15 7:51,Stray,Injured,Dog,Intact Male,2 years,Chihuahua Shorthair Mix,Black/Brown,Toy,Dark/Medium
+A713844,*Milton,10/14/15 9:50,Stray,Normal,Dog,Intact Male,2 years,Pit Bull Mix,Blue/White,Pit Bull,Medium/Light
+A713850,*Hilton,10/14/15 11:23,Stray,Normal,Dog,Intact Male,7 months,Catahoula/Anatol Shepherd,Brown Merle,Herding,Light/Medium
+A713853,Elly,10/14/15 11:34,Owner Surrender,Normal,Cat,Intact Female,4 weeks,Domestic Shorthair Mix,Calico/White,Domestic Shorthair,Tricolor
+A713854,Stormy,10/14/15 11:34,Owner Surrender,Normal,Cat,Intact Male,4 weeks,Domestic Shorthair Mix,Blue Tabby/White,Domestic Shorthair,Medium/Light
+A713855,*Edina,10/14/15 11:34,Owner Surrender,Normal,Cat,Intact Female,4 weeks,Domestic Shorthair Mix,Torbie,Domestic Shorthair,Medium/Dark
+A713863,*Cassandra,10/14/15 13:15,Stray,Normal,Cat,Intact Female,7 months,Domestic Shorthair Mix,Calico,Domestic Shorthair,Tricolor
+A713865,*Drewster,10/14/15 13:15,Stray,Normal,Cat,Intact Male,2 months,Domestic Shorthair Mix,Orange Tabby,Domestic Shorthair,Medium
+A713871,Riley Grace,10/14/15 13:42,Owner Surrender,Injured,Dog,Spayed Female,6 years,Border Collie Mix,Black,Herding,Dark
+A702019,Bowie,10/14/15 15:34,Stray,Normal,Dog,Neutered Male,1 year,Labrador Retriever Mix,White,Sporting,Light
+A713887,*Alexander,10/14/15 15:57,Stray,Normal,Cat,Intact Male,2 months,Domestic Shorthair Mix,Orange Tabby,Domestic Shorthair,Medium
+A713888,Theo,10/14/15 15:57,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A713889,*Mackerel,10/14/15 15:57,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A713890,Pele,10/14/15 15:57,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A713891,*Marlin,10/14/15 15:57,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A713892,*Tuna,10/14/15 15:57,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A713893,*Guppy,10/14/15 15:57,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A713882,Jonah,10/14/15 16:31,Owner Surrender,Normal,Dog,Intact Male,1 year,Pit Bull Mix,Brown Brindle,Pit Bull,Medium
+A692221,Rocky,10/14/15 16:31,Owner Surrender,Normal,Dog,Neutered Male,1 year,Labrador Retriever/Pit Bull,Black/White,Sporting,Dark/Light
+A692221,Rocky,10/14/15 16:31,Owner Surrender,Normal,Dog,Neutered Male,1 year,Labrador Retriever/Pit Bull,Black/White,Sporting,Dark/Light
+A692221,Rocky,10/14/15 16:31,Owner Surrender,Normal,Dog,Neutered Male,1 year,Labrador Retriever/Pit Bull,Black/White,Sporting,Dark/Light
+A713895,Oliver,10/14/15 17:33,Stray,Normal,Cat,Intact Male,3 weeks,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A713899,Theo,10/14/15 18:49,Stray,Normal,Dog,Intact Male,7 months,Australian Kelpie Mix,Tricolor,Working,Tricolor
+A707129,Manchas,10/14/15 23:11,Stray,Normal,Dog,Neutered Male,1 year,Smooth Fox Terrier Mix,White/Brown,Terrier,Light/Medium
+A713907,*Cleo,10/15/15 7:30,Stray,Injured,Dog,Intact Female,2 months,Siberian Husky Mix,Black/White,Working,Dark/Light
+A713909,Sage,10/15/15 7:30,Stray,Injured,Dog,Intact Female,4 years,Labrador Retriever Mix,Black,Sporting,Dark
+A713916,Winnie,10/15/15 9:11,Stray,Injured,Dog,Intact Female,4 years,Chihuahua Shorthair Mix,Liver/Tan,Toy,Medium
+A713919,*Finch,10/15/15 11:03,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A713920,*Wren,10/15/15 11:03,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A713921,*Starling,10/15/15 11:03,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A713922,*Chickadee,10/15/15 11:03,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A713931,,10/15/15 13:14,Stray,Normal,Cat,Intact Female,3 weeks,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A713932,,10/15/15 13:14,Stray,Normal,Cat,Intact Female,3 weeks,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A713937,Fisher,10/15/15 13:45,Stray,Normal,Dog,Intact Male,2 years,Staffordshire Mix,Black/White,Terrier,Dark/Light
+A710778,Nash,10/15/15 13:52,Stray,Normal,Dog,Neutered Male,2 years,Pit Bull Mix,Tan/White,Pit Bull,Medium/Light
+A573141,Dongkae,10/15/15 14:03,Owner Surrender,Normal,Dog,Neutered Male,13 years,Dogo Argentino Mix,White/Black,Hound,Light/Dark
+A713950,*Lois,10/15/15 16:04,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Shorthair Mix,Calico,Domestic Shorthair,Tricolor
+A713951,*Clark,10/15/15 16:04,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Shorthair Mix,Brown Tabby/White,Domestic Shorthair,Medium/Light
+A713953,*Jack-O-Lant,10/15/15 16:15,Stray,Normal,Cat,Intact Male,4 months,Domestic Shorthair Mix,Orange Tabby,Domestic Shorthair,Medium
+A713955,Luke,10/15/15 16:29,Owner Surrender,Injured,Cat,Neutered Male,2 years,Domestic Shorthair Mix,Brown Tabby/White,Domestic Shorthair,Medium/Light
+A713961,*Tilly,10/15/15 17:22,Stray,Normal,Dog,Intact Female,1 year,Staffordshire Mix,Black/White,Terrier,Dark/Light
+A616229,Rebecca,10/15/15 17:28,Stray,Normal,Cat,Spayed Female,6 years,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A713970,,10/15/15 23:40,Wildlife,Normal,Other,Unknown,4 weeks,Bat,Black/Brown,Unknown,Dark/Medium
+A517502,Punkin,10/16/15 11:02,Owner Surrender,Normal,Cat,Neutered Male,10 years,Domestic Shorthair Mix,Orange Tabby,Domestic Shorthair,Medium
+A713980,*Ember,10/16/15 11:52,Public Assist,Normal,Cat,Intact Female,4 weeks,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A713983,Casey,10/16/15 12:28,Stray,Normal,Dog,Intact Male,8 years,English Foxhound Mix,Tricolor,Hound,Tricolor
+A633545,Sugar,10/16/15 12:46,Stray,Normal,Dog,Spayed Female,7 years,Staffordshire Mix,White,Terrier,Light
+A651386,*Diego,10/16/15 13:00,Stray,Normal,Dog,Neutered Male,8 years,Chihuahua Shorthair Mix,Red/White,Toy,Medium/Light
+A713990,*Blade,10/16/15 13:59,Stray,Normal,Dog,Neutered Male,2 years,Labrador Retriever/Pit Bull,Black/White,Sporting,Dark/Light
+A532694,Coco,10/16/15 14:04,Stray,Normal,Dog,Neutered Male,8 years,Chihuahua Shorthair Mix,Tan/White,Toy,Medium/Light
+A532694,Coco,10/16/15 14:04,Stray,Normal,Dog,Neutered Male,8 years,Chihuahua Shorthair Mix,Tan/White,Toy,Medium/Light
+A713996,*Perkins,10/16/15 14:15,Stray,Injured,Dog,Intact Male,4 years,Chihuahua Shorthair Mix,Buff,Toy,Light
+A714001,*Jimmy,10/16/15 14:54,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A714014,*Josie,10/16/15 16:59,Stray,Normal,Dog,Intact Female,10 months,Chihuahua Shorthair Mix,Black/White,Toy,Dark/Light
+A712538,*Edgar,10/16/15 17:10,Public Assist,Normal,Dog,Neutered Male,2 years,Pit Bull Mix,Red/White,Pit Bull,Medium/Light
+A714003,Alexander,10/16/15 17:25,Public Assist,Normal,Dog,Intact Male,1 year,Siberian Husky,Red/White,Working,Medium/Light
+A714016,*Betty,10/16/15 17:29,Stray,Normal,Cat,Intact Female,3 weeks,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A714017,*Bindy,10/16/15 17:29,Stray,Normal,Cat,Intact Female,3 weeks,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A714029,Ghost,10/17/15 9:39,Owner Surrender,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Tortie Point,Domestic Shorthair,Light/Dark
+A714030,Henry,10/17/15 9:39,Owner Surrender,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Blue Point,Domestic Shorthair,Light/Medium
+A716085,*Willie Nel,10/17/15 9:39,Owner Surrender,Normal,Cat,Intact Male,2 weeks,Domestic Medium Hair Mix,Cream Tabby,Domestic Medium Hair,Light/Medium
+A716086,*Waylon,10/17/15 9:39,Owner Surrender,Normal,Cat,Intact Male,2 weeks,Domestic Medium Hair Mix,Cream Tabby,Domestic Medium Hair,Light/Medium
+A717451,*Fallerina,10/17/15 9:39,Owner Surrender,Normal,Cat,Spayed Female,1 year,Domestic Medium Hair Mix,Tortie,Domestic Medium Hair,Dark/Medium
+A717449,*Francisella,10/17/15 9:39,Owner Surrender,Normal,Cat,Spayed Female,7 months,Domestic Medium Hair Mix,Tortie,Domestic Medium Hair,Dark/Medium
+A717450,Blue Lover,10/17/15 9:39,Owner Surrender,Normal,Cat,Spayed Female,7 months,Domestic Medium Hair Mix,Blue,Domestic Medium Hair,Medium
+A717450,Blue Lover,10/17/15 9:39,Owner Surrender,Normal,Cat,Spayed Female,7 months,Domestic Medium Hair Mix,Blue,Domestic Medium Hair,Medium
+A717987,*Pru,10/17/15 9:39,Owner Surrender,Normal,Cat,Intact Female,3 months,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A718386,Little Boy,10/17/15 9:39,Owner Surrender,Normal,Cat,Neutered Male,2 years,Domestic Shorthair Mix,Orange Tabby,Domestic Shorthair,Medium
+A689761,Skye,10/17/15 10:35,Stray,Normal,Dog,Spayed Female,7 years,Labrador Retriever Mix,Buff,Sporting,Light
+A714041,*Annie,10/17/15 11:14,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Brown Tabby/White,Domestic Shorthair,Medium/Light
+A714046,*Bambi,10/17/15 12:22,Stray,Normal,Dog,Intact Female,2 years,Pit Bull Mix,Brown,Pit Bull,Medium
+A699890,Zoey,10/17/15 12:22,Owner Surrender,Normal,Dog,Spayed Female,2 years,Pit Bull Mix,Brown Brindle/White,Pit Bull,Medium/Light
+A714051,*Brad,10/17/15 12:55,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,White/Black,Domestic Shorthair,Light/Dark
+A714055,*Jorge Mcfly,10/17/15 12:55,Stray,Normal,Cat,Intact Male,1 year,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A714067,Sophie,10/17/15 13:43,Euthanasia Request,Aged,Dog,Intact Female,16 years,Labrador Retriever Mix,Chocolate,Sporting,Dark
+A714068,*Saturn,10/17/15 14:00,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Shorthair Mix,Brown Tabby/White,Domestic Shorthair,Medium/Light
+A714069,*Jupiter,10/17/15 14:00,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Shorthair Mix,Black Tabby/White,Domestic Shorthair,Dark/Light
+A714071,*Earth,10/17/15 14:00,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Shorthair Mix,Calico/White,Domestic Shorthair,Tricolor
+A714074,*Joan,10/17/15 14:00,Stray,Normal,Cat,Intact Female,3 years,Domestic Shorthair Mix,Brown Tabby/White,Domestic Shorthair,Medium/Light
+A714075,*Bonnie,10/17/15 14:22,Stray,Normal,Dog,Spayed Female,3 years,Australian Kelpie Mix,Black,Working,Dark
+A714076,*Wyatt,10/17/15 14:27,Stray,Normal,Cat,Intact Male,3 weeks,Domestic Shorthair Mix,Orange Tabby,Domestic Shorthair,Medium
+A714096,*Mandy,10/17/15 17:48,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A713977,Jumbly,10/17/15 18:15,Public Assist,Normal,Cat,Spayed Female,3 years,Domestic Shorthair Mix,Calico,Domestic Shorthair,Tricolor
+A714106,*Nexus,10/18/15 11:03,Stray,Normal,Dog,Intact Male,1 year,Pit Bull Mix,White/Brown,Pit Bull,Light/Medium
+A714106,*Nexus,10/18/15 11:03,Stray,Normal,Dog,Intact Male,1 year,Pit Bull Mix,White/Brown,Pit Bull,Light/Medium
+A714110,*Rupert,10/18/15 11:21,Stray,Normal,Dog,Intact Male,2 years,Dachshund Mix,Black,Hound,Dark
+A710781,Storm,10/18/15 12:03,Owner Surrender,Normal,Cat,Spayed Female,8 years,Domestic Shorthair Mix,Blue/Orange,Domestic Shorthair,Medium
+A714119,*Klause,10/18/15 12:06,Stray,Normal,Dog,Intact Male,1 month,German Shepherd Mix,Brown/Black,Herding,Medium/Dark
+A714132,Aries,10/18/15 13:00,Owner Surrender,Normal,Cat,Neutered Male,8 years,Domestic Medium Hair Mix,Brown Tabby,Domestic Medium Hair,Medium/Light
+A714130,Nubzie,10/18/15 13:00,Owner Surrender,Normal,Cat,Neutered Male,8 years,Domestic Shorthair Mix,Blue Tabby,Domestic Shorthair,Medium/Light
+A714135,Sandy,10/18/15 14:13,Owner Surrender,Normal,Dog,Intact Female,6 months,Pit Bull Mix,Tan/White,Pit Bull,Medium/Light
+A714103,,10/18/15 14:51,Stray,Normal,Cat,Neutered Male,4 years,Munchkin Longhair Mix,Brown Tabby/White,Exotic,Medium/Light
+A714141,*Heidi,10/18/15 15:01,Stray,Normal,Dog,Intact Female,7 years,German Shepherd Mix,Brown/Black,Herding,Medium/Dark
+A714142,*Sammy,10/18/15 15:04,Owner Surrender,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Brown Tabby/White,Domestic Shorthair,Medium/Light
+A714143,*Sid,10/18/15 15:04,Owner Surrender,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Brown Tabby/White,Domestic Shorthair,Medium/Light
+A714144,*Sophie,10/18/15 15:04,Owner Surrender,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Brown Tabby/White,Domestic Shorthair,Medium/Light
+A714145,*Salado,10/18/15 15:04,Owner Surrender,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Cream Tabby,Domestic Shorthair,Light/Medium
+A714146,*Syrah,10/18/15 15:04,Owner Surrender,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Tortie,Domestic Shorthair,Dark/Medium
+A714147,King,10/18/15 15:07,Stray,Normal,Dog,Intact Male,5 months,Pit Bull Mix,Brown/White,Pit Bull,Medium/Light
+A714147,King,10/18/15 15:07,Stray,Normal,Dog,Intact Male,5 months,Pit Bull Mix,Brown/White,Pit Bull,Medium/Light
+A714148,*Lady,10/18/15 15:12,Stray,Other,Dog,Intact Female,4 years,Miniature Poodle Mix,Black/Tan,Non-Sporting,Dark/Medium
+A714148,*Lady,10/18/15 15:12,Stray,Other,Dog,Intact Female,4 years,Miniature Poodle Mix,Black/Tan,Non-Sporting,Dark/Medium
+A655860,Diego,10/18/15 16:23,Public Assist,Normal,Dog,Neutered Male,10 years,Great Pyrenees Mix,White/Cream,Working,Light
+A710778,Nash,10/18/15 16:27,Stray,Normal,Dog,Neutered Male,2 years,Pit Bull Mix,Tan/White,Pit Bull,Medium/Light
+A713523,Buster,10/18/15 17:53,Owner Surrender,Normal,Dog,Neutered Male,2 years,Pointer/Labrador Retriever,White/Chocolate,Sporting,Light/Dark
+A663422,Sparky Rex,10/18/15 18:30,Owner Surrender,Normal,Dog,Neutered Male,4 years,German Shepherd/Rottweiler,Chocolate/Tan,Herding,Dark/Medium
+A714155,*Drusilla,10/18/15 19:07,Stray,Normal,Dog,Intact Female,3 years,Rottweiler,Black/Brown,Working,Dark/Medium
+A714160,,10/19/15 4:57,Wildlife,Injured,Other,Unknown,3 years,Squirrel Mix,Brown,Unknown,Medium
+A714162,*Scout,10/19/15 9:19,Stray,Normal,Dog,Intact Male,1 month,Chihuahua Shorthair Mix,Sable/White,Toy,Tricolor
+A714163,*Ranger,10/19/15 9:49,Stray,Normal,Dog,Intact Male,1 month,Chihuahua Shorthair Mix,Cream,Toy,Light
+A714164,Thor,10/19/15 10:38,Stray,Normal,Dog,Intact Male,6 months,Black Mouth Cur Mix,Tan/White,Herding,Medium/Light
+A714172,,10/19/15 11:42,Public Assist,Sick,Cat,Intact Female,1 month,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A677626,Peppa,10/19/15 11:42,Stray,Normal,Cat,Spayed Female,1 year,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A714175,*Softie,10/19/15 12:03,Stray,Normal,Dog,Intact Female,1 year,Rottweiler Mix,Black/Tan,Working,Dark/Medium
+A714181,*Patricia,10/19/15 12:28,Stray,Normal,Dog,Intact Female,9 months,Australian Cattle Dog/Labrador Retriever,Tan/White,Herding,Medium/Light
+A714183,Lucy,10/19/15 12:44,Stray,Normal,Dog,Intact Female,7 months,Pharaoh Hound Mix,Tan,Hound,Medium
+A714185,Reese,10/19/15 13:06,Owner Surrender,Normal,Cat,Intact Female,5 months,Domestic Shorthair Mix,Tortie,Domestic Shorthair,Dark/Medium
+A714186,Fergus,10/19/15 13:06,Owner Surrender,Normal,Cat,Intact Male,3 months,Domestic Shorthair Mix,Orange Tabby,Domestic Shorthair,Medium
+A714193,Samantha,10/19/15 13:45,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A714197,Stella,10/19/15 13:53,Owner Surrender,Normal,Cat,Spayed Female,10 years,Maine Coon Mix,Brown Tabby,Exotic,Medium/Light
+A714196,Pookie Bear,10/19/15 15:01,Owner Surrender,Normal,Cat,Neutered Male,7 years,Domestic Longhair Mix,Black,Domestic Longhair,Dark
+A714201,*Murray,10/19/15 15:33,Stray,Normal,Dog,Intact Male,3 years,Pit Bull Mix,White/Brown,Pit Bull,Light/Medium
+A714203,*Marmalade,10/19/15 15:50,Stray,Normal,Cat,Intact Female,4 months,Domestic Shorthair Mix,Calico,Domestic Shorthair,Tricolor
+A714204,*Terence,10/19/15 16:08,Stray,Normal,Dog,Intact Male,1 year,Chihuahua Shorthair Mix,Black/Brown,Toy,Dark/Medium
+A714205,*Jorge,10/19/15 16:13,Stray,Normal,Dog,Intact Male,4 years,Chihuahua Shorthair Mix,Brown/Tan,Toy,Medium
+A714206,*Jimmy,10/19/15 16:13,Stray,Normal,Dog,Intact Male,4 years,Chihuahua Shorthair Mix,Black/Tan,Toy,Dark/Medium
+A714207,Alzeille,10/19/15 16:29,Owner Surrender,Normal,Dog,Intact Female,2 years,English Coonhound Mix,Black/Brown,Hound,Dark/Medium
+A694501,Penelope,10/19/15 16:32,Stray,Normal,Dog,Spayed Female,1 year,Labrador Retriever Mix,Black/White,Sporting,Dark/Light
+A694501,Penelope,10/19/15 16:32,Stray,Normal,Dog,Spayed Female,1 year,Labrador Retriever Mix,Black/White,Sporting,Dark/Light
+A694501,Penelope,10/19/15 16:32,Stray,Normal,Dog,Spayed Female,1 year,Labrador Retriever Mix,Black/White,Sporting,Dark/Light
+A676235,Lily,10/19/15 16:38,Owner Surrender,Normal,Dog,Spayed Female,1 year,Boxer Mix,Black/White,Working,Dark/Light
+A714210,*Wanda,10/19/15 16:45,Stray,Normal,Cat,Intact Female,2 months,Domestic Shorthair Mix,Blue Tabby,Domestic Shorthair,Medium/Light
+A714211,Jasmine,10/19/15 16:45,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Blue,Domestic Shorthair,Medium
+A714212,*Vivian,10/19/15 16:45,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Blue,Domestic Shorthair,Medium
+A714213,Buggy,10/19/15 16:45,Stray,Normal,Cat,Intact Female,2 months,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A714214,Bella,10/19/15 16:45,Stray,Normal,Cat,Intact Female,2 months,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A714216,*Velaz,10/19/15 16:45,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Black Smoke,Domestic Shorthair,Dark
+A714217,Beau,10/19/15 16:45,Stray,Normal,Cat,Intact Male,1 month,Siamese Mix,Lynx Point,Siamese,Light/Medium
+A714218,Aurora,10/19/15 17:04,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Longhair Mix,Tortie,Domestic Longhair,Dark/Medium
+A714219,*Pixie,10/19/15 17:04,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Shorthair Mix,Torbie,Domestic Shorthair,Medium/Dark
+A714220,*Polly,10/19/15 17:04,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Longhair Mix,Tortie,Domestic Longhair,Dark/Medium
+A714221,,10/19/15 17:04,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Medium Hair Mix,Orange Tabby,Domestic Medium Hair,Medium
+A714222,*Peter,10/19/15 17:04,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Medium Hair Mix,Black/White,Domestic Medium Hair,Dark/Light
+A714223,*Chekov,10/19/15 17:04,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A714224,Honey,10/19/15 17:19,Owner Surrender,Normal,Dog,Spayed Female,6 years,Australian Cattle Dog/Beagle,Blue Tick/Black,Herding,Medium/Dark
+A714226,Lars,10/19/15 18:11,Stray,Normal,Dog,Intact Male,6 years,Yorkshire Terrier Mix,Black/Brown,Terrier,Dark/Medium
+A613617,Max,10/19/15 18:33,Stray,Normal,Dog,Neutered Male,4 years,Cairn Terrier Mix,Gray/Tricolor,Terrier,Tricolor
+A714227,*Cari Blue,10/19/15 18:44,Stray,Normal,Dog,Intact Female,2 years,Pit Bull Mix,Blue/White,Pit Bull,Medium/Light
+A714234,Paula,10/20/15 8:24,Stray,Injured,Cat,Spayed Female,1 year,Domestic Shorthair Mix,Gray Tabby/White,Domestic Shorthair,Medium/Light
+A714241,Mya,10/20/15 10:42,Stray,Sick,Cat,Spayed Female,4 years,Domestic Shorthair Mix,Calico,Domestic Shorthair,Tricolor
+A714243,,10/20/15 11:15,Stray,Injured,Bird,Unknown,6 months,Chicken Mix,White,Unknown,Light
+A714244,*Tator Tot,10/20/15 11:19,Stray,Normal,Dog,Intact Male,1 month,German Shepherd Mix,Fawn/Black,Herding,Light/Dark
+A714245,*French Fry,10/20/15 11:19,Stray,Normal,Dog,Intact Female,1 month,German Shepherd Mix,Brown/Black,Herding,Medium/Dark
+A714247,*Hemingway,10/20/15 11:35,Stray,Injured,Cat,Intact Male,8 months,Domestic Shorthair Mix,White/Orange Tabby,Domestic Shorthair,Light/Medium
+A714257,Nigel,10/20/15 12:20,Stray,Normal,Dog,Intact Male,3 years,Miniature Poodle Mix,White,Non-Sporting,Light
+A714285,Oso,10/20/15 12:37,Owner Surrender,Sick,Dog,Intact Male,8 months,Labrador Retriever Mix,Black/White,Sporting,Dark/Light
+A714266,,10/20/15 13:36,Stray,Normal,Dog,Intact Female,4 years,Chihuahua Shorthair Mix,Tan,Toy,Medium
+A714267,,10/20/15 13:36,Stray,Normal,Dog,Intact Male,2 years,Chihuahua Shorthair Mix,Red/White,Toy,Medium/Light
+A714271,,10/20/15 13:46,Owner Surrender,Normal,Cat,Intact Male,4 months,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A714272,,10/20/15 13:46,Owner Surrender,Normal,Cat,Intact Male,4 months,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A702014,Diamond,10/20/15 14:20,Owner Surrender,Normal,Dog,Spayed Female,10 months,Blue Lacy Mix,Blue/White,Herding,Medium/Light
+A714278,Isabella,10/20/15 15:02,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A714279,Roberto,10/20/15 15:02,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A714280,*Kourtney,10/20/15 15:02,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A714284,Annie,10/20/15 16:32,Stray,Normal,Cat,Spayed Female,3 years,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A714288,Octavious,10/20/15 18:02,Stray,Normal,Dog,Intact Male,8 years,Chihuahua Shorthair,Sable,Toy,Medium/Dark
+A714282,Deliah,10/20/15 21:45,Stray,Normal,Dog,Spayed Female,5 years,Labrador Retriever Mix,Tan,Sporting,Medium
+A714295,Chief,10/21/15 7:25,Stray,Normal,Dog,Intact Male,2 years,Rat Terrier Mix,White/Brown,Terrier,Light/Medium
+A714302,Snuggles,10/21/15 11:16,Owner Surrender,Normal,Cat,Intact Male,5 months,Domestic Medium Hair Mix,Brown Tabby/White,Domestic Medium Hair,Medium/Light
+A714303,Little Grey,10/21/15 11:16,Owner Surrender,Normal,Cat,Intact Male,5 months,Domestic Medium Hair Mix,Brown Tabby,Domestic Medium Hair,Medium/Light
+A714311,Pickles,10/21/15 11:27,Owner Surrender,Normal,Dog,Spayed Female,7 years,Smooth Fox Terrier Mix,Tricolor,Terrier,Tricolor
+A713437,Lily,10/21/15 11:36,Owner Surrender,Normal,Dog,Spayed Female,1 year,Labrador Retriever Mix,Tan/White,Sporting,Medium/Light
+A713437,Lily,10/21/15 11:36,Owner Surrender,Normal,Dog,Spayed Female,1 year,Labrador Retriever Mix,Tan/White,Sporting,Medium/Light
+A713437,Lily,10/21/15 11:36,Owner Surrender,Normal,Dog,Spayed Female,1 year,Labrador Retriever Mix,Tan/White,Sporting,Medium/Light
+A714304,*Alana,10/21/15 11:39,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A714305,*Ariel,10/21/15 11:39,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A714306,*Anna,10/21/15 11:39,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A714314,Carley,10/21/15 12:38,Stray,Normal,Dog,Intact Female,8 months,Chihuahua Longhair Mix,Tan/White,Toy,Medium/Light
+A714315,*Kojak,10/21/15 12:44,Stray,Normal,Cat,Neutered Male,13 years,Russian Blue Mix,Blue,Exotic,Medium
+A714276,Trina,10/21/15 13:05,Public Assist,Normal,Dog,Intact Female,2 years,Pit Bull Mix,Brown/White,Pit Bull,Medium/Light
+A714025,,10/21/15 13:29,Stray,Normal,Dog,Intact Male,2 years,Yorkshire Terrier Mix,Brown,Terrier,Medium
+A714318,*Palomino,10/21/15 13:35,Public Assist,Normal,Dog,Intact Male,9 months,Catahoula Mix,Blue Merle,Herding,Light/Medium
+A714319,Stoli,10/21/15 13:43,Owner Surrender,Normal,Cat,Spayed Female,3 years,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A714320,Pils,10/21/15 13:43,Owner Surrender,Normal,Cat,Spayed Female,2 years,Domestic Shorthair Mix,Calico,Domestic Shorthair,Tricolor
+A714325,*Javier,10/21/15 15:55,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Blue/White,Domestic Shorthair,Medium/Light
+A714327,Billy Beane,10/21/15 16:05,Stray,Sick,Dog,Intact Male,2 years,Chihuahua Longhair Mix,Red,Toy,Medium
+A714328,,10/21/15 16:07,Stray,Normal,Dog,Neutered Male,3 years,Black Mouth Cur/Siberian Husky,Sable/Tan,Herding,Medium/Dark
+A714331,*Morgan,10/21/15 16:23,Stray,Injured,Cat,Intact Male,1 year,Domestic Shorthair Mix,Orange Tabby/White,Domestic Shorthair,Medium/Light
+A714337,Binx,10/21/15 16:47,Stray,Normal,Cat,Intact Female,2 months,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A714333,*Marcus,10/21/15 16:50,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A714334,*Flavia,10/21/15 16:50,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A714335,*Milonia,10/21/15 16:50,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A714336,*Livia,10/21/15 16:50,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A706536,Butch,10/21/15 17:07,Public Assist,Normal,Dog,Neutered Male,5 years,English Bulldog,Tan/White,Non-Sporting,Medium/Light
+A706536,Butch,10/21/15 17:07,Public Assist,Normal,Dog,Neutered Male,5 years,English Bulldog,Tan/White,Non-Sporting,Medium/Light
+A706536,Butch,10/21/15 17:07,Public Assist,Normal,Dog,Neutered Male,5 years,English Bulldog,Tan/White,Non-Sporting,Medium/Light
+A706536,Butch,10/21/15 17:07,Public Assist,Normal,Dog,Neutered Male,5 years,English Bulldog,Tan/White,Non-Sporting,Medium/Light
+A714339,*Ernie,10/21/15 17:32,Stray,Normal,Dog,Intact Male,2 years,Chihuahua Shorthair Mix,Tan/White,Toy,Medium/Light
+A714342,*Lucas,10/21/15 17:50,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A714343,*Charlotte,10/21/15 17:50,Stray,Normal,Cat,Intact Female,4 weeks,Siamese Mix,Seal Point,Siamese,Light/Dark
+A714344,*Jemma,10/21/15 17:50,Stray,Normal,Cat,Intact Female,3 months,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A714347,Dexter,10/21/15 18:29,Stray,Normal,Dog,Intact Male,4 months,Basset Hound Mix,Tricolor,Hound,Tricolor
+A714347,Dexter,10/21/15 18:29,Stray,Normal,Dog,Intact Male,4 months,Basset Hound Mix,Tricolor,Hound,Tricolor
+A714347,Dexter,10/21/15 18:29,Stray,Normal,Dog,Intact Male,4 months,Basset Hound Mix,Tricolor,Hound,Tricolor
+A712992,Tullia,10/21/15 18:44,Owner Surrender,Normal,Dog,Spayed Female,1 year,Dachshund Mix,Black,Hound,Dark
+A714348,*Jonah,10/22/15 7:18,Stray,Normal,Dog,Intact Male,4 months,Labrador Retriever,Black,Sporting,Dark
+A714355,*Sarah,10/22/15 11:03,Stray,Normal,Cat,Spayed Female,4 years,Domestic Longhair Mix,Brown Tabby,Domestic Longhair,Medium/Light
+A714354,*Bernard,10/22/15 11:09,Stray,Normal,Dog,Intact Male,9 years,Pomeranian Mix,White/Black,Toy,Light/Dark
+A714357,Rocky,10/22/15 11:46,Owner Surrender,Normal,Dog,Intact Female,8 months,Great Dane,Brown Merle/White,Working,Light/Medium
+A714358,Brown Butt,10/22/15 11:46,Owner Surrender,Normal,Dog,Intact Male,8 months,Great Dane,White/Brown,Working,Light/Medium
+A714361,*Claudia,10/22/15 12:17,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A671425,Luna,10/22/15 12:23,Owner Surrender,Normal,Dog,Spayed Female,5 years,Redbone Hound Mix,Red/White,Hound,Medium/Light
+A714360,,10/22/15 12:24,Stray,Normal,Cat,Neutered Male,2 years,Domestic Medium Hair Mix,Blue Tabby,Domestic Medium Hair,Medium/Light
+A714363,Louie,10/22/15 13:05,Owner Surrender,Normal,Cat,Neutered Male,7 years,Domestic Shorthair Mix,Orange Tabby,Domestic Shorthair,Medium
+A714364,*Pichus,10/22/15 13:13,Stray,Sick,Cat,Intact Male,1 month,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A714366,,10/22/15 13:30,Wildlife,Normal,Bird,Unknown,3 years,Goose Mix,White/Gray,Unknown,Light/Medium
+A714365,Lucky,10/22/15 13:32,Stray,Normal,Dog,Neutered Male,4 years,Yorkshire Terrier,Black/Brown,Terrier,Dark/Medium
+A714368,,10/22/15 13:55,Stray,Normal,Dog,Spayed Female,7 months,Whippet Mix,Chocolate/White,Hound,Dark/Light
+A714372,*Whittlesey,10/22/15 14:07,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Shorthair Mix,Cream Tabby,Domestic Shorthair,Light/Medium
+A714373,*Johnson,10/22/15 14:07,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Medium Hair Mix,Brown Tabby,Domestic Medium Hair,Medium/Light
+A714374,*York,10/22/15 14:07,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Medium Hair Mix,Orange Tabby,Domestic Medium Hair,Medium
+A714375,*Luke,10/22/15 14:07,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Medium Hair Mix,Orange Tabby,Domestic Medium Hair,Medium
+A714376,*Izac,10/22/15 14:07,Stray,Normal,Cat,Intact Male,4 weeks,Domestic Longhair Mix,Orange Tabby,Domestic Longhair,Medium
+A714377,*Daly,10/22/15 14:07,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Medium Hair Mix,Orange Tabby,Domestic Medium Hair,Medium
+A714378,*Stacy,10/22/15 14:17,Stray,Normal,Dog,Intact Female,1 year,Staffordshire Mix,Tan,Terrier,Medium
+A714379,*Eddie,10/22/15 14:17,Stray,Normal,Dog,Intact Male,1 year,Siberian Husky Mix,Brown/Black,Working,Medium/Dark
+A714382,*Maggie,10/22/15 14:45,Stray,Normal,Dog,Spayed Female,3 years,Labrador Retriever/Redbone Hound,Sable/White,Hound,Tricolor
+A714383,,10/22/15 14:52,Stray,Normal,Dog,Intact Male,1 month,Beagle Mix,Brown/Tan,Hound,Medium
+A714384,Solavino,10/22/15 14:52,Owner Surrender,Normal,Dog,Intact Female,2 years,Chihuahua Shorthair Mix,Tricolor,Toy,Tricolor
+A714387,Trudy,10/22/15 15:08,Owner Surrender,Normal,Dog,Spayed Female,2 years,Pit Bull Mix,White/Tan,Pit Bull,Light/Medium
+A714397,Batty,10/22/15 15:56,Owner Surrender,Normal,Cat,Neutered Male,7 years,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A714395,*Handsome,10/22/15 15:59,Stray,Normal,Dog,Intact Male,5 months,Harrier Mix,White/Brown,Hound,Light/Medium
+A714400,*Winnie,10/22/15 16:21,Stray,Injured,Dog,Intact Female,1 year,Italian Greyhound Mix,White/Orange,Toy,Light/Medium
+A698248,Chalmers,10/22/15 16:27,Stray,Normal,Dog,Neutered Male,8 years,Labrador Retriever Mix,Brown,Sporting,Medium
+A694377,Josephine,10/22/15 16:27,Stray,Normal,Dog,Spayed Female,8 years,Labrador Retriever Mix,Black/White,Sporting,Dark/Light
+A714420,*Claude,10/22/15 17:34,Stray,Normal,Dog,Intact Male,1 year,Catahoula/Whippet,Brown,Herding,Medium
+A668183,Nacha,10/22/15 18:38,Public Assist,Normal,Dog,Spayed Female,2 years,Dachshund Mix,Black/White,Hound,Dark/Light
+A668183,Nacha,10/22/15 18:38,Public Assist,Normal,Dog,Spayed Female,2 years,Dachshund Mix,Black/White,Hound,Dark/Light
+A714449,Knuckles,10/23/15 0:31,Stray,Normal,Dog,Neutered Male,2 years,Cardigan Welsh Corgi Mix,Black/Brown,Herding,Dark/Medium
+A713139,Bruno,10/23/15 0:54,Stray,Normal,Dog,Neutered Male,10 months,Pit Bull Mix,Black Brindle/White,Pit Bull,Tricolor
+A714456,*Felix,10/23/15 8:15,Stray,Normal,Cat,Intact Male,1 month,Domestic Medium Hair,Blue Tabby,Domestic Medium Hair,Medium/Light
+A714457,Obie,10/23/15 8:32,Stray,Normal,Cat,Intact Female,4 months,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A714460,,10/23/15 10:11,Stray,Normal,Cat,Intact Male,3 months,Domestic Shorthair Mix,Gray Tabby,Domestic Shorthair,Medium/Light
+A714462,Pebbles,10/23/15 10:47,Stray,Normal,Dog,Intact Female,1 year,Pointer Mix,White/Black,Sporting,Light/Dark
+A714462,Pebbles,10/23/15 10:47,Stray,Normal,Dog,Intact Female,1 year,Pointer Mix,White/Black,Sporting,Light/Dark
+A714463,Hera,10/23/15 10:56,Stray,Normal,Cat,Intact Female,1 year,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A714465,*Willow,10/23/15 11:06,Stray,Normal,Dog,Intact Female,1 month,Bull Terrier Mix,Fawn,Terrier,Light
+A714466,Sam,10/23/15 11:13,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A703718,Durbin,10/23/15 11:27,Stray,Normal,Dog,Neutered Male,10 months,Labrador Retriever Mix,Black/White,Sporting,Dark/Light
+A714470,Crash,10/23/15 11:37,Stray,Normal,Dog,Intact Male,1 year,Miniature Pinscher Mix,Black/Brown,Toy,Dark/Medium
+A714472,Leo,10/23/15 12:30,Stray,Feral,Cat,Intact Male,2 months,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A714473,Chester,10/23/15 12:30,Stray,Feral,Cat,Intact Male,1 month,Domestic Shorthair Mix,Orange Tabby/White,Domestic Shorthair,Medium/Light
+A714474,*Meatball,10/23/15 12:35,Stray,Normal,Dog,Intact Male,2 years,Pit Bull Mix,Black/White,Pit Bull,Dark/Light
+A714475,Che,10/23/15 13:03,Owner Surrender,Normal,Dog,Spayed Female,4 years,Beagle Mix,Brown/Black,Hound,Medium/Dark
+A714230,Butch,10/23/15 13:14,Public Assist,Normal,Dog,Neutered Male,6 years,Bullmastiff,Brown/Black,Working,Medium/Dark
+A714477,,10/23/15 13:28,Stray,Normal,Dog,Intact Male,7 months,Miniature Poodle Mix,White,Non-Sporting,Light
+A713817,Bubba,10/23/15 13:52,Owner Surrender,Normal,Dog,Intact Male,1 year,Labrador Retriever Mix,Chocolate,Sporting,Dark
+A714479,Soyrizo,10/23/15 14:22,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Shorthair Mix,Blue,Domestic Shorthair,Medium
+A714481,*Bobby,10/23/15 14:36,Stray,Normal,Dog,Intact Male,1 year,Boxer Mix,Brown/White,Working,Medium/Light
+A595090,Tigz,10/23/15 14:41,Owner Surrender,Normal,Dog,Neutered Male,5 years,Boerboel Mix,Tan/Black,Working,Medium/Dark
+A706874,Maya,10/23/15 15:53,Owner Surrender,Normal,Dog,Spayed Female,2 years,Australian Shepherd/Border Collie,Blue Merle/White,Herding,Light/Medium
+A714165,Lacy,10/23/15 16:09,Public Assist,Normal,Dog,Spayed Female,2 years,Blue Lacy Mix,Red/White,Herding,Medium/Light
+A714484,*Chaucer,10/23/15 16:40,Stray,Normal,Dog,Neutered Male,10 years,English Springer Spaniel/Beagle,Black/White,Sporting,Dark/Light
+A714486,,10/23/15 17:20,Stray,Normal,Dog,Intact Male,1 year,Chihuahua Shorthair Mix,Tricolor,Toy,Tricolor
+A714487,,10/23/15 17:31,Stray,Normal,Cat,Intact Male,4 months,Domestic Shorthair Mix,Blue/White,Domestic Shorthair,Medium/Light
+A714488,*Danny,10/23/15 17:46,Stray,Normal,Dog,Intact Female,3 years,Labrador Retriever Mix,Brown/White,Sporting,Medium/Light
+A638766,*Barry,10/23/15 18:31,Stray,Injured,Cat,Neutered Male,3 years,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A714492,Emma Lou,10/23/15 18:43,Owner Surrender,Normal,Dog,Spayed Female,2 years,Siberian Husky Mix,Sable,Working,Medium/Dark
+A714493,Kibby,10/23/15 22:25,Public Assist,Normal,Dog,Spayed Female,14 years,Chow Chow Mix,Brown,Non-Sporting,Medium
+A714494,*Amarillo,10/24/15 8:06,Stray,Injured,Dog,Intact Male,6 months,Labrador Retriever Mix,Yellow,Sporting,Light
+A711751,Gibson,10/24/15 8:16,Stray,Injured,Dog,Neutered Male,6 months,Dachshund/Chihuahua Shorthair,Black/White,Hound,Dark/Light
+A714495,*Sam,10/24/15 8:39,Stray,Normal,Cat,Intact Female,4 weeks,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A714500,Jack,10/24/15 10:55,Public Assist,Normal,Dog,Neutered Male,8 years,Chinese Crested Mix,Black/White,Toy,Dark/Light
+A714498,*Jimmy,10/24/15 10:56,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Blue Tabby,Domestic Shorthair,Medium/Light
+A680438,Delgado,10/24/15 10:59,Stray,Normal,Dog,Intact Male,1 year,Rottweiler,Black/Tan,Working,Dark/Medium
+A680438,Delgado,10/24/15 10:59,Stray,Normal,Dog,Intact Male,1 year,Rottweiler,Black/Tan,Working,Dark/Medium
+A714499,Furgus Mckit,10/24/15 11:00,Stray,Normal,Cat,Neutered Male,1 year,Domestic Longhair Mix,Orange,Domestic Longhair,Medium
+A705236,Nanny,10/24/15 11:02,Stray,Normal,Dog,Intact Female,2 years,Pit Bull/Bulldog,White/Black,Pit Bull,Light/Dark
+A712556,Josephine,10/24/15 11:05,Stray,Normal,Cat,Spayed Female,8 months,Domestic Shorthair Mix,Blue Tabby/White,Domestic Shorthair,Medium/Light
+A714514,*Bill,10/24/15 11:35,Stray,Normal,Cat,Intact Male,2 years,Domestic Medium Hair Mix,Black/White,Domestic Medium Hair,Dark/Light
+A714503,Tabitha,10/24/15 11:47,Stray,Normal,Dog,Spayed Female,4 years,Labrador Retriever,Black/White,Sporting,Dark/Light
+A569887,Riley,10/24/15 11:47,Stray,Normal,Dog,Neutered Male,6 years,Wirehaired Pointing Griffon Mix,Gray/Black,Sporting,Medium/Dark
+A714504,*Amal,10/24/15 11:58,Stray,Normal,Dog,Intact Female,5 years,Boston Terrier Mix,Black/White,Terrier,Dark/Light
+A714505,,10/24/15 11:58,Stray,Normal,Dog,Neutered Male,5 years,Papillon Mix,Black/White,Toy,Dark/Light
+A714508,Maggie,10/24/15 12:09,Owner Surrender,Normal,Cat,Intact Female,1 year,Domestic Shorthair Mix,White/Brown Tabby,Domestic Shorthair,Light/Medium
+A714509,,10/24/15 12:09,Owner Surrender,Normal,Cat,Intact Male,1 month,Snowshoe Mix,Lynx Point,Exotic,Light/Medium
+A607663,Chopper,10/24/15 12:12,Stray,Normal,Dog,Neutered Male,7 years,Catahoula/Plott Hound,Brown Brindle/White,Hound,Medium/Light
+A714510,Simon,10/24/15 12:18,Stray,Normal,Dog,Neutered Male,1 year,Rat Terrier Mix,White/Black,Terrier,Light/Dark
+A714512,*Marley,10/24/15 12:24,Stray,Normal,Dog,Intact Male,1 month,Labrador Retriever Mix,Tan/White,Sporting,Medium/Light
+A714511,Josilyn,10/24/15 12:40,Stray,Normal,Dog,Spayed Female,5 years,Miniature Poodle Mix,Apricot,Non-Sporting,Light
+A711486,L.C.,10/24/15 12:45,Owner Surrender,Normal,Cat,Neutered Male,9 years,Domestic Longhair Mix,Black/White,Domestic Longhair,Dark/Light
+A714513,*Dunga,10/24/15 12:46,Stray,Normal,Dog,Intact Female,6 months,Beagle/Boston Terrier,White/Black,Terrier,Light/Dark
+A714518,Uma,10/24/15 15:18,Stray,Normal,Dog,Intact Female,1 year,Miniature Poodle Mix,White,Non-Sporting,Light
+A714522,Pops,10/24/15 15:30,Stray,Normal,Dog,Intact Male,2 years,Staffordshire Mix,Brown/White,Terrier,Medium/Light
+A714523,*Paul,10/24/15 15:39,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A714524,*Danny,10/24/15 15:47,Stray,Injured,Dog,Neutered Male,2 years,Pit Bull Mix,Tan,Pit Bull,Medium
+A714525,*Prancer,10/24/15 15:54,Stray,Normal,Dog,Neutered Male,2 years,Golden Retriever Mix,Brown,Sporting,Medium
+A714526,,10/24/15 16:01,Stray,Normal,Dog,Intact Female,6 months,Labrador Retriever Mix,Black,Sporting,Dark
+A714530,*Chelsea,10/24/15 16:09,Stray,Normal,Dog,Intact Female,1 year,Queensland Heeler Mix,Red Tick,Herding,Light/Medium
+A714528,Blacky,10/24/15 16:11,Stray,Normal,Dog,Intact Male,2 years,Pit Bull Mix,Black/White,Pit Bull,Dark/Light
+A714534,*Cassie,10/24/15 16:33,Stray,Normal,Cat,Intact Female,4 months,Domestic Shorthair Mix,White/Blue,Domestic Shorthair,Light/Medium
+A714539,,10/24/15 17:30,Stray,Normal,Dog,Intact Male,1 year,Border Terrier/Chihuahua Shorthair,White/Brown,Terrier,Light/Medium
+A714540,,10/24/15 17:30,Stray,Normal,Dog,Intact Male,1 year,Border Terrier/Chihuahua Shorthair,Buff,Terrier,Light
+A714541,*Silver,10/24/15 17:54,Stray,Normal,Dog,Neutered Male,1 year,Labrador Retriever Mix,Black/White,Sporting,Dark/Light
+A714543,*Spooky,10/24/15 23:39,Stray,Injured,Cat,Intact Male,2 months,Domestic Medium Hair Mix,Orange Tabby,Domestic Medium Hair,Medium
+A714545,,10/25/15 7:46,Stray,Normal,Cat,Intact Male,2 months,Domestic Shorthair Mix,Gray,Domestic Shorthair,Medium
+A714546,Blaze,10/25/15 10:00,Stray,Normal,Dog,Intact Male,8 months,Pit Bull/Dogue De Bordeaux,Red/White,Pit Bull,Medium/Light
+A714548,Willie,10/25/15 10:00,Stray,Normal,Dog,Intact Male,1 year,Yorkshire Terrier Mix,Black/Red,Terrier,Dark/Medium
+A631804,Root Beer,10/25/15 11:04,Stray,Normal,Dog,Spayed Female,6 years,German Shepherd Mix,Tan,Herding,Medium
+A714549,Big Boy,10/25/15 11:09,Stray,Injured,Dog,Intact Male,4 years,Rottweiler,Black/Tan,Working,Dark/Medium
+A714551,Squish,10/25/15 11:17,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair Mix,Black,Domestic Shorthair,Dark
+A714553,Boxer,10/25/15 11:17,Owner Surrender,Normal,Dog,Neutered Male,2 years,Chinese Sharpei,White/Tan,Non-Sporting,Light/Medium
+A713457,*Hiram,10/25/15 11:17,Owner Surrender,Normal,Dog,Neutered Male,1 year,Bull Terrier/Boxer,Brown Brindle/White,Terrier,Medium/Light
+A714554,*Stardust,10/25/15 11:29,Stray,Normal,Cat,Spayed Female,9 years,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A714555,Noah,10/25/15 11:39,Stray,Normal,Dog,Intact Male,1 year,Labrador Retriever Mix,Black,Sporting,Dark
+A704306,Guero,10/25/15 11:43,Stray,Normal,Dog,Neutered Male,10 months,Chihuahua Shorthair Mix,Yellow,Toy,Light
+A714556,*The General,10/25/15 11:49,Stray,Normal,Dog,Intact Male,2 years,Miniature Schnauzer Mix,Gray/White,Terrier,Medium/Light

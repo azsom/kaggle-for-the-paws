@@ -1,0 +1,20 @@
+AnimalID,Name,DateTime_x,Intake Type,Intake Condition,AnimalType,Sex upon Intake,Age upon Intake,Breed,Color,Breed group,Color group
+A521520,Nina,10/1/13 7:51,Stray,Normal,Dog,Spayed Female,7 years,Border Terrier/Border Collie,White/Tan,Terrier,Light/Medium
+A664233,Stevie,10/1/13 8:53,Stray,Injured,Dog,Intact Female,3 years,Pit Bull Mix,Blue/White,Pit Bull,Medium/Light
+A664238,,10/1/13 9:33,Stray,Normal,Cat,Unknown,4 months,American Shorthair Mix,Black/White,Domestic,Dark/Light
+A664234,,10/1/13 10:37,Stray,Injured,Dog,Intact Male,8 years,Border Collie Mix,Black/White,Herding,Dark/Light
+A664256,*Donnie,10/1/13 10:59,Owner Surrender,Normal,Cat,Neutered Male,17 years,Domestic Shorthair Mix,Brown Tabby/White,Domestic Shorthair,Medium/Light
+A664257,Pippin,10/1/13 11:01,Stray,Normal,Dog,Intact Female,4 years,Podengo Pequeno Mix,Black,Toy,Dark
+A664266,,10/1/13 11:09,Stray,Normal,Dog,Intact Female,1 year,Chihuahua Shorthair Mix,Buff,Toy,Light
+A664258,Sylvio,10/1/13 11:15,Stray,Normal,Dog,Neutered Male,7 years,Weimaraner Mix,Silver,Sporting,Medium
+A648744,Claire,10/1/13 11:15,Stray,Normal,Dog,Spayed Female,1 year,Anatol Shepherd Mix,White/Tricolor,Herding,Tricolor
+A664260,,10/1/13 11:21,Stray,Normal,Cat,Intact Female,3 weeks,Domestic Shorthair Mix,Black/White,Domestic Shorthair,Dark/Light
+A664261,,10/1/13 11:21,Stray,Normal,Cat,Intact Female,3 weeks,Domestic Shorthair Mix,Tortie,Domestic Shorthair,Dark/Medium
+A651630,Heather,10/1/13 11:23,Owner Surrender,Injured,Dog,Spayed Female,6 years,Labrador Retriever/Chinese Sharpei,Tan,Sporting,Medium
+A664259,*Petunia,10/1/13 11:25,Stray,Normal,Dog,Intact Female,5 years,Pit Bull Mix,Black,Pit Bull,Dark
+A664269,*Bismark,10/1/13 11:28,Stray,Normal,Dog,Neutered Male,2 years,Great Pyrenees Mix,White,Working,Light
+A664262,,10/1/13 11:45,Stray,Normal,Cat,Intact Male,1 weeks,Domestic Shorthair Mix,Orange Tabby,Domestic Shorthair,Medium
+A664263,,10/1/13 11:45,Stray,Normal,Cat,Intact Male,1 weeks,Domestic Shorthair Mix,Orange Tabby,Domestic Shorthair,Medium
+A664264,*Mason,10/1/13 11:51,Stray,Normal,Cat,Intact Male,2 months,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A664265,*Dixon,10/1/13 11:51,Stray,Normal,Cat,Intact Male,2 months,Domestic Shorthair Mix,Brown Tabby,Domestic Shorthair,Medium/Light
+A664267,*Asti,10/1/13 11:59,Stray,Normal,Dog,Intact Female,4 months,Pit Bull Mix,White/Black,Pit Bull,Light/Dark
